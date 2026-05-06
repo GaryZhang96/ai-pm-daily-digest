@@ -23,8 +23,16 @@ jobs:
         with:
           node-version: 20
 
+      - name: 设置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装 edge-tts (Python)
+        run: pip install edge-tts
+
       - name: 安装根项目依赖
-        run: npm ci || npm install
+        run: npm install
 
       - name: 安装 follow-builders 依赖
         working-directory: follow-builders/scripts
