@@ -75,3 +75,9 @@ jobs:
           WXPUSHER_UID: ${{ secrets.WXPUSHER_UID }}
           SITE_URL: ${{ secrets.SITE_URL }}
         run: npm run notify
+
+      - name: 企业微信群机器人推送
+        env:
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+        run: npm run notify:wecom
