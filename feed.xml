@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title><![CDATA[我的 AI 每日简报]]></title>
-        <description><![CDATA[基于 Zara Zhang 的 follow-builders，每日精选 AI 行业动态、产品、文生图/视频/3D 与 AI 游戏。]]></description>
+        <description><![CDATA[基于 Zara Zhang 的 follow-builders，每日 09:30 自动推送：AI 大模型更新、走红 AI 产品、文生图/视频/3D、AI 原生游戏。Kimi 摘要 + Edge TTS 语音。]]></description>
         <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
+        <image>
+            <url>https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg</url>
+            <title>我的 AI 每日简报</title>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
+        </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 17:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 17:48:56 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 17:36:34 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 17:48:56 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
-        <itunes:author>我</itunes:author>
+        <itunes:author>Gary Zhang</itunes:author>
+        <itunes:summary>基于 Zara Zhang 的 follow-builders，每日 09:30 自动推送：AI 大模型更新、走红 AI 产品、文生图/视频/3D、AI 原生游戏。Kimi 摘要 + Edge TTS 语音。</itunes:summary>
+        <itunes:subtitle>每日 AI 行业精选简报</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Gary Zhang</itunes:name>
+            <itunes:email>noreply@example.com</itunes:email>
+        </itunes:owner>
         <itunes:category text="Technology">
         </itunes:category>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        <itunes:type>episodic</itunes:type>
         <item>
             <title><![CDATA[2026-05-06 AI 简报]]></title>
-            <description><![CDATA[今日简报聚焦于AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出Claude Code auto模式，提高代码执行安全性；Replit助力创业者寻找投资者；Peter Yang探讨个人代理的未来；Guillermo Rauch宣布开源安全审查工具。此外，Sam Altman对语音模型的未来发展表示期待。]]></description>
+            <description><![CDATA[今日焦点集中在AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出了Claude Code的自动模式，旨在提高代码执行的安全性。Replit CEO Amjad Masad分享了AI在教育领域的创新应用。同时，游戏策划应关注Peter Yang关于AI代理在游戏创作中的潜力，以及Sam Altman对语音模型进步的期待。]]></description>
             <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/</link>
             <guid isPermaLink="false">2026-05-06</guid>
             <pubDate>Wed, 06 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/digest.mp3" length="960480" type="audio/mpeg"/>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/digest.mp3" length="820512" type="audio/mpeg"/>
+            <itunes:title>2026-05-06 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出了Claude Code的自动模式，旨在提高代码执行的安全性。Replit CEO Amjad Masad分享了AI在教育领域的创新应用。同时，游戏策划应关注Peter Yang关于AI代理在游戏创作中的潜力，以及Sam Altman对语音模型进步的期待。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         </item>
     </channel>
 </rss>

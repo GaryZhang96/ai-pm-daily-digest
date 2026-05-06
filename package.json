@@ -10,7 +10,8 @@
     "tts": "node scripts/tts.mjs",
     "feed": "node scripts/feed.mjs",
     "notify": "node scripts/notify.mjs",
-    "all": "npm run digest && npm run tts && npm run feed && npm run notify"
+    "notify:wecom": "node scripts/notify-wecom.mjs",
+    "all": "npm run digest && npm run tts && npm run feed && npm run notify && npm run notify:wecom"
   },
   "dependencies": {
     "openai": "^4.77.0",

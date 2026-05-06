@@ -1,28 +1,28 @@
 AI 简报 2026-05-06
 
  今日要点
-今日简报聚焦于AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出Claude Code auto模式，提高代码执行安全性；Replit助力创业者寻找投资者；Peter Yang探讨个人代理的未来；Guillermo Rauch宣布开源安全审查工具。此外，Sam Altman对语音模型的未来发展表示期待。
+今日焦点集中在AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出了Claude Code的自动模式，旨在提高代码执行的安全性。Replit CEO Amjad Masad分享了AI在教育领域的创新应用。同时，游戏策划应关注Peter Yang关于AI代理在游戏创作中的潜力，以及Sam Altman对语音模型进步的期待。
 
  1. 底层更新
- Anthropic Engineering: Claude Code auto mode: a safer way to skip permissions
-Anthropic公司推出了Claude Code的auto模式，这是一种新的执行模式，旨在减少用户在命令执行或文件修改时的权限确认次数。该模式通过基于模型的分类器来代理审批流程，目标是在保持高自主性的同时降低维护成本，并随着分类器覆盖范围和模型判断的改善提高安全性。Claude Code auto模式通过输入层和输出层的两层防御机制来工作，前者用于扫描工具输出，后者则在执行前评估每个动作是否符合决策标准。阅读更多
+Anthropic Engineering: Claude Code auto mode: a safer way to skip permissions
+Claude Code的自动模式通过模型分类器代理审批流程，旨在减少用户审批疲劳，同时提高安全性。该模式使用两层防御机制：输入层的提示注入探测和输出层的行动分类器。行动分类器基于Sonnet 4.6运行，通过两阶段评估行动是否与用户意图相符，以决定是否执行。这一新模式旨在减少误操作和恶意行为的风险，同时减少用户的操作负担。
+阅读更多
 
  2. AI 产品
- Replit CEO Amjad Masad
-Replit帮助一位企业家找到了投资者并安排了会议。这是一个展示Replit平台如何助力用户实现目标的实例。Amjad Masad
-
- Guillermo Rauch
-Vercel推出了一个开源代理协调器，用于深度安全审查。这个工具原本是为内部使用而构建的，但在对一些主要的开源软件项目进行测试后，他们决定将其分享给全世界。这个工具可以帮助编码代理在几分钟内找到团队可能需要数月才能发现的关键漏洞。Guillermo Rauch
+Replit: Replit帮助企业家找到投资者并安排会议
+Replit CEO Amjad Masad分享了一个案例，其中Replit帮助一位企业家成功找到投资者并安排了会议，展示了Replit平台在商业对接中的潜力。
+阅读更多
 
  3. 文生图 / 视频 / 3D
- Peter Yang
-Peter Yang提出了一个观点，即编码是第一前沿，知识工作是第二前沿，个人代理是第三前沿。他还分享了自己与“演示之神”Romain Huet的会面。Peter Yang
+No notable posts.
 
  4. AI 与游戏
- Sam Altman
-Sam Altman表达了对语音模型未来发展的兴奋之情，并观察到人们已经开始改变他们与AI的交互方式。Sam Altman
+Peter Yang: Personal agents are the third frontier
+Roblox产品负责人Peter Yang提出，继编码和知识工作之后，个人代理将成为下一个前沿。他特别提到希望让8岁的孩子开始使用代理构建可以与同学和老师分享的东西，甚至可能在线赚取第一桶金。
+阅读更多
 
- Peter Yang
-Peter Yang提出了一个想法，希望他8岁的孩子能开始使用代理构建一些可以与同学和老师分享的东西，也许还能在网上赚到她的第一美元。Peter Yang
+Sam Altman: pretty excited for voice models to get great
+OpenAI CEO Sam Altman表达了对语音模型进步的兴奋，并观察到人们已经开始改变与AI的交互方式，这对于游戏策划来说是一个值得关注的趋势。
+阅读更多
 
 Generated through the Follow Builders skill:
