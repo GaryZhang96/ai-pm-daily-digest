@@ -43,8 +43,10 @@ for (const day of days) {
   if (!existsSync(mp3) || !existsSync(md)) continue;
   const size = statSync(mp3).size;
   const mdContent = readFileSync(md, 'utf-8');
-  const summaryMatch = mdContent.match(/今日要点[：:]?\s*\n+([\s\S]+?)(?=\n##|\n#|$)/);
-  const summary = summaryMatch ? summaryMatch[1].trim().slice(0, 200) : `${day} AI 简报`;
+  const summaryMatch = mdContent.match(/##\s*今日要点[：:]?\s*\n+([\s\S]+?)(?=\n##|\n#|$)/);
+  const summary = summaryMatch
+    ? summaryMatch[1].trim().replace(/\n+/g, ' ').slice(0, 280)
+    : `${day} AI 简报`;
   feed.item({
     title: `${day} AI 简报`,
     description: summary,
