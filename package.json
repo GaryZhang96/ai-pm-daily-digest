@@ -1,0 +1,21 @@
+{
+  "name": "my-ai-daily-digest",
+  "version": "1.0.0",
+  "description": "Daily AI digest podcast based on Zara Zhang's follow-builders",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node follow-builders/scripts/prepare-digest.js",
+    "digest": "node scripts/digest.mjs",
+    "tts": "node scripts/tts.mjs",
+    "feed": "node scripts/feed.mjs",
+    "notify": "node scripts/notify.mjs",
+    "all": "npm run digest && npm run tts && npm run feed && npm run notify"
+  },
+  "dependencies": {
+    "openai": "^4.77.0",
+    "axios": "^1.7.9",
+    "rss": "^1.2.2",
+    "yaml": "^2.6.1"
+  }
+}
