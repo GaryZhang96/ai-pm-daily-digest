@@ -4,9 +4,9 @@
         <description><![CDATA[基于 Zara Zhang 的 follow-builders，每日精选 AI 行业动态、产品、文生图/视频/3D 与 AI 游戏。]]></description>
         <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 17:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 17:36:34 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 17:30:22 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 17:36:34 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>我</itunes:author>
@@ -16,11 +16,11 @@
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <item>
             <title><![CDATA[2026-05-06 AI 简报]]></title>
-            <description><![CDATA[2026-05-06 AI 简报]]></description>
+            <description><![CDATA[今日简报聚焦于AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出Claude Code auto模式，提高代码执行安全性；Replit助力创业者寻找投资者；Peter Yang探讨个人代理的未来；Guillermo Rauch宣布开源安全审查工具。此外，Sam Altman对语音模型的未来发展表示期待。]]></description>
             <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/</link>
             <guid isPermaLink="false">2026-05-06</guid>
             <pubDate>Wed, 06 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/digest.mp3" length="856368" type="audio/mpeg"/>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/digest.mp3" length="960480" type="audio/mpeg"/>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
