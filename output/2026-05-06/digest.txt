@@ -1,0 +1,34 @@
+AI 简报 2026-05-06
+
+AI Builders Digest — 2026-05-05
+
+ 1. 底层更新
+
+ Anthropic Engineering: Claude Code auto mode: a safer way to skip permissions
+Anthropic 工程团队介绍了 Claude Code 的自动模式，这是一种在保持安全性的同时减少用户审批疲劳的新方法。该模式通过基于模型的分类器来代理审批流程，旨在识别与用户意图不一致的危险行为，同时允许其他操作无需审批提示即可运行。阅读更多
+
+ 2. AI 产品
+
+ Replit CEO Amjad Masad
+Replit 帮助一位企业家找到投资者并安排会议。查看推文
+
+ Vercel CEO Guillermo Rauch
+Vercel 引入了一个开源代理协调器，用于深度安全审查。这个工具可以快速发现代码中的关键漏洞，这些漏洞可能需要团队花费数月时间才能发现。查看推文
+
+ Box CEO Aaron Levie
+Aaron Levie 提到 Anthropic 和 OpenAI 都在推出新举措，帮助企业在组织内部署 AI 代理。这是一个早期但将迅速扩大的趋势。查看推文
+
+ 3. 文生图 / 视频 / 3D
+
+ Roblox Product Peter Yang
+Peter Yang 提到想要让他8岁的孩子开始使用代理构建东西，并可能在线赚取第一桶金。查看推文
+
+ 4. AI 与游戏
+
+ Y Combinator CEO Garry Tan
+Garry Tan 讨论了 GBrain 的不同之处，它不仅是一个记忆层、代码工具或搜索引擎，而是三者统一在一个图下，通过一个查询界面操作。查看推文
+
+ Training Data Podcast: Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy
+Dmitri Dolgov 分享了 Waymo 在自动驾驶技术上的进展，包括他们如何处理技术挑战、安全问题以及未来的展望。观看视频
+
+今日要点：AI 底层模型和产品更新持续活跃，Anthropic 推出 Claude Code 的自动模式以提升安全性和用户体验。企业级 AI 部署成为新趋势，Waymo 在自动驾驶领域取得显著进展，同时，AI 在教育和游戏领域的应用也值得关注。
