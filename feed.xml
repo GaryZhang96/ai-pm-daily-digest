@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 17:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 17:59:41 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 17:48:56 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 17:59:41 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -28,13 +28,13 @@
         <itunes:type>episodic</itunes:type>
         <item>
             <title><![CDATA[2026-05-06 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出了Claude Code的自动模式，旨在提高代码执行的安全性。Replit CEO Amjad Masad分享了AI在教育领域的创新应用。同时，游戏策划应关注Peter Yang关于AI代理在游戏创作中的潜力，以及Sam Altman对语音模型进步的期待。]]></description>
+            <description><![CDATA[今日简报聚焦AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出Claude Code自动模式，提升代码执行安全性；Replit助力创业者寻找投资者；Peter Yang探讨个人代理的未来；Guillermo Rauch宣布开源安全审查工具；Sam Altman对语音模型的进步表示兴奋。这些进展对游戏策划而言，意味着AI技术在提升开发效率和游戏体验方面的潜力。]]></description>
             <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/</link>
             <guid isPermaLink="false">2026-05-06</guid>
             <pubDate>Wed, 06 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/digest.mp3" length="820512" type="audio/mpeg"/>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-06/digest.mp3" length="962352" type="audio/mpeg"/>
             <itunes:title>2026-05-06 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出了Claude Code的自动模式，旨在提高代码执行的安全性。Replit CEO Amjad Masad分享了AI在教育领域的创新应用。同时，游戏策划应关注Peter Yang关于AI代理在游戏创作中的潜力，以及Sam Altman对语音模型进步的期待。</itunes:summary>
+            <itunes:summary>今日简报聚焦AI在游戏和教育领域的应用，以及AI企业的最新动态。Anthropic推出Claude Code自动模式，提升代码执行安全性；Replit助力创业者寻找投资者；Peter Yang探讨个人代理的未来；Guillermo Rauch宣布开源安全审查工具；Sam Altman对语音模型的进步表示兴奋。这些进展对游戏策划而言，意味着AI技术在提升开发效率和游戏体验方面的潜力。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
