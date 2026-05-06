@@ -24,20 +24,28 @@ const data = JSON.parse(rawJson);
 writeFileSync(resolve(outDir, 'raw.json'), rawJson);
 
 console.log(
-  `[digest] 抓到 ${data.stats?.podcastEpisodes ?? 0} 期播客 / ${data.stats?.xBuilders ?? 0} 位 builder 的推文`,
+  `[digest] 抓到 ${data.stats?.podcastEpisodes ?? 0} 期播客 / ${data.stats?.xBuilders ?? 0} 位 builder 的推文 / ${data.stats?.blogPosts ?? 0} 篇官方博客`,
 );
 
-if ((data.stats?.podcastEpisodes ?? 0) === 0 && (data.stats?.xBuilders ?? 0) === 0) {
+if (
+  (data.stats?.podcastEpisodes ?? 0) === 0 &&
+  (data.stats?.xBuilders ?? 0) === 0 &&
+  (data.stats?.blogPosts ?? 0) === 0
+) {
   console.log('[digest] 今天没有新内容，退出');
   writeFileSync(resolve(outDir, 'digest.md'), `# AI 简报 ${today}\n\n今天暂无新内容。\n`);
   process.exit(0);
 }
 
-console.log('[digest] 2/4 读取 prompts...');
-const promptIntro = readFileSync(resolve(FB_DIR, 'prompts/digest-intro.md'), 'utf-8');
-const promptTweets = readFileSync(resolve(FB_DIR, 'prompts/summarize-tweets.md'), 'utf-8');
-const promptPodcast = readFileSync(resolve(FB_DIR, 'prompts/summarize-podcast.md'), 'utf-8');
-const promptTranslate = readFileSync(resolve(FB_DIR, 'prompts/translate.md'), 'utf-8');
+console.log('[digest] 2/4 读取 prompts (优先用 follow-builders 中心 feed 里的最新版)...');
+const fbPrompts = data.prompts || {};
+const readPrompt = (key, file) =>
+  fbPrompts[key] ?? readFileSync(resolve(FB_DIR, 'prompts', file), 'utf-8');
+const promptIntro = readPrompt('digest_intro', 'digest-intro.md');
+const promptTweets = readPrompt('summarize_tweets', 'summarize-tweets.md');
+const promptPodcast = readPrompt('summarize_podcast', 'summarize-podcast.md');
+const promptBlogs = readPrompt('summarize_blogs', 'summarize-blogs.md');
+const promptTranslate = readPrompt('translate', 'translate.md');
 
 const systemPrompt = `你是一名 AI 行业资深编辑，专为一名游戏策划做每日 AI 简报。
 
@@ -49,6 +57,9 @@ ${promptTweets}
 
 播客摘要要求：
 ${promptPodcast}
+
+博客摘要要求：
+${promptBlogs}
 
 中文翻译要求：
 ${promptTranslate}
@@ -82,6 +93,7 @@ ${JSON.stringify(
   {
     podcasts: data.podcasts,
     x: data.x,
+    blogs: data.blogs,
   },
   null,
   2,
