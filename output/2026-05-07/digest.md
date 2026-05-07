@@ -1,0 +1,22 @@
+# AI 简报 2026-05-07
+
+## 今日要点
+今日焦点集中在AI编程助手的进展和应用上。Anthropic与SpaceX合作提升算力，Codex功能增强，成为日常知识工作的核心工具。同时，Claude推出多代理编排功能，强化了AI在复杂任务处理中的能力。此外，AI在游戏音乐创作中的应用也引人注目。
+
+## 1. 底层更新
+### Anthropic Engineering
+- **Anthropic与SpaceX合作提升算力**：[Dan Shipper](https://x.com/danshipper/status/2052058966075846661)宣布Anthropic与SpaceX合作，使用SpaceX的Colossus超级计算机群的算力，将使Anthropic的AI产品性能得到显著提升。
+
+## 2. AI产品
+### Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration
+- **Claude Managed Agents功能更新**：[Claude Blog](https://claude.com/blog/new-in-claude-managed-agents)介绍了Claude Managed Agents的新功能，包括dreaming（增强记忆功能）、outcomes（结果导向的代理工作）和multiagent orchestration（多代理编排）。这些功能使得AI代理能够更有效地处理复杂任务，并具有自我改进的能力。
+
+## 3. 文生图 / 视频 / 3D
+- **Josh Woodward (VP, Google)**：[Google](https://x.com/joshwoodward/status/2052061728029212976)与世界上最大的音乐公司之一合作，艺术家将能够探索新的方式来创作旋律和乐器。
+
+## 4. AI与游戏
+- **Google Labs**：[Google Labs](https://x.com/GoogleLabs/status/2052051754997674364)与Believe公司合作，将Flow Music直接交到艺术家手中，帮助他们探索、创作和分享音乐。
+
+- **Peter Yang (Product at Roblox)**：[Peter Yang](https://x.com/petergyang/status/2052177418555977866)提到在Code with Claude活动中，Claude给人的感觉最像一个值得信赖的朋友，并且Anthropic现在有了扩展的计算能力。
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
