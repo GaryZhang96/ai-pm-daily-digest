@@ -1,0 +1,27 @@
+AI 简报 2026-05-08
+
+ 今日要点
+今日焦点集中在AI在编程领域的应用，特别是Anthropic的Claude Code。Boris Cherny在播客中分享了他对编程未来的见解，强调AI将使编程普及化，类似于阅读和写作。同时，业界人士讨论了AI模型的快速发展对产品开发的影响，以及AI在游戏策划中的应用前景。
+
+ 1. 底层更新
+ Anthropic Engineering
+Anthropic's Boris Cherny: Coding's Printing Press Moment  
+  Training Data Podcast  
+  在这次播客中，Boris Cherny分享了他对AI在编程领域影响的看法。他预测，随着AI技术的进步，编程将变得像阅读和写作一样普及。Cherny认为，AI将使得非技术背景的人也能构建软件，这将彻底改变软件行业的面貌。他还提到，AI的进步将使得小型创业公司能够与大公司竞争，因为它们可以更快速地利用AI技术构建有价值的产品。
+
+ 2. AI 产品
+ Claude
+Outcomes lets you set the bar for quality  
+  Twitter  
+  Claude的新功能Outcomes允许用户设定质量标准。用户编写评分标准，独立的评分员检查输出，代理迭代直至满足要求。用户可以订阅Webhooks以在任务完成时收到通知。
+Dreaming reviews your agent's past sessions  
+  Twitter  
+  Claude的另一新功能Dreaming可以回顾代理的过去会话，提取模式，并策划记忆，使代理随时间学习。用户可以申请访问权限。
+
+ 3. 文生图 / 视频 / 3D
+无相关更新。
+
+ 4. AI 与游戏
+无相关更新。
+
+Generated through the Follow Builders skill:

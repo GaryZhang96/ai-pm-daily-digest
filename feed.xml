@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 04:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 04:32:40 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 04:53:12 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 04:32:40 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-08 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在编程领域的应用，特别是Anthropic的Claude Code。Boris Cherny在播客中分享了他对编程未来的见解，强调AI将使编程普及化，类似于阅读和写作。同时，业界人士讨论了AI模型的快速发展对产品开发的影响，以及AI在游戏策划中的应用前景。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-08/</link>
+            <guid isPermaLink="false">2026-05-08</guid>
+            <pubDate>Fri, 08 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-08/digest.mp3" length="672912" type="audio/mpeg"/>
+            <itunes:title>2026-05-08 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在编程领域的应用，特别是Anthropic的Claude Code。Boris Cherny在播客中分享了他对编程未来的见解，强调AI将使编程普及化，类似于阅读和写作。同时，业界人士讨论了AI模型的快速发展对产品开发的影响，以及AI在游戏策划中的应用前景。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-07 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI编程助手的进展和应用上。Anthropic与SpaceX合作提升算力，Codex功能增强，成为日常知识工作的核心工具。同时，Claude推出多代理编排功能，强化了AI在复杂任务处理中的能力。此外，AI在游戏音乐创作中的应用也引人注目。]]></description>
