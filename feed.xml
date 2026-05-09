@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 04:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 04:44:23 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 04:32:40 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 04:44:23 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-09 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI安全和治理，特别是OpenAI董事会成员Zico Kolter在播客中深入讨论了AI模型的安全性和未来发展。同时，Replit CEO Amjad Masad分享了关于AI在编程教育中的应用，而游戏策划关注的AI在游戏开发中的潜力也得到了体现，如Cursor的从概念到合并的全过程演示。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-09/</link>
+            <guid isPermaLink="false">2026-05-09</guid>
+            <pubDate>Sat, 09 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-09/digest.mp3" length="685296" type="audio/mpeg"/>
+            <itunes:title>2026-05-09 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI安全和治理，特别是OpenAI董事会成员Zico Kolter在播客中深入讨论了AI模型的安全性和未来发展。同时，Replit CEO Amjad Masad分享了关于AI在编程教育中的应用，而游戏策划关注的AI在游戏开发中的潜力也得到了体现，如Cursor的从概念到合并的全过程演示。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-08 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在编程领域的应用，特别是Anthropic的Claude Code。Boris Cherny在播客中分享了他对编程未来的见解，强调AI将使编程普及化，类似于阅读和写作。同时，业界人士讨论了AI模型的快速发展对产品开发的影响，以及AI在游戏策划中的应用前景。]]></description>
