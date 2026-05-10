@@ -1,0 +1,25 @@
+AI 简报 2026-05-10
+
+ 今日要点
+今日简报聚焦于AI在企业资源分配、游戏化应用、AI代理的最新进展。Anthropic团队讨论了AI平台的未来，强调了AI代理的可扩展性和自适应性。同时，业界人士分享了AI在提高个人和团队生产力方面的潜力，以及AI技术在游戏化应用中的创新。
+
+ 1. 底层更新
+ Anthropic Engineering: The Secrets of Claude's Platform From the Team Who Built It
+在最新一集的“AI & I by Every”播客中，Anthropic的产品负责人和工程负责人分享了他们对AI平台未来发展的看法。他们讨论了如何通过云平台实现更高层次的抽象，减少用户在模型选择和架构设计上的思考，让平台能够自我适应并为用户提供最佳结果。播客链接
+
+ 2. AI 产品
+ Thariq (Claude Code @anthropicai) HTML is the new markdown
+Thariq宣布他已经不再使用markdown文件，而是转而使用Claude Code生成HTML。他认为HTML将成为新的markdown，并分享了示例HTML文档。推文链接
+
+ 3. 文生图 / 视频 / 3D
+ Zara Zhang: Built a "YouTube realtime copilot" browser extension using OpenAI's realtime 2 API
+Zara Zhang利用OpenAI的实时2 API开发了一个浏览器扩展程序，该程序可以实时回答用户关于YouTube视频内容的问题，并且能够区分视频音频流和用户的声音，不会将视频误认为是命令。推文链接
+
+ 4. AI 与游戏
+ Garry Tan: Personal software is coming
+Garry Tan分享了他对个人软件即将到来的看法，暗示了AI技术在个性化软件中的应用潜力。推文链接
+
+ Dan Shipper: Generational opportunity for anyone in AI to play the markets given this time lag
+Dan Shipper认为，鉴于当前的时间滞后，AI领域的人有机会在市场中获得成功，并建议投资者相应地进行投资。推文链接
+
+Generated through the Follow Builders skill:
