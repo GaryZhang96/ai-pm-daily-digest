@@ -1,0 +1,24 @@
+# AI 简报 2026-05-11
+
+## 今日要点
+今日焦点集中在AI在游戏和交互体验中的应用，以及AI技术的更新和产品发布。Anthropic针对Claude Code的质量进行了更新，修复了影响用户体验的几个问题。同时，Claude Blog宣布了新的连接器，扩展了AI在日常工具中的应用。ElevenLabs的Mati Staniszewski在播客中讨论了语音界面的未来，强调了情感智能在交互体验中的重要性。
+
+## 1. 底层更新
+### Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic团队针对近期用户反馈的Claude Code响应质量下降问题进行了调查，并发现三个独立的问题。这些问题分别影响了Claude Code、Claude Agent SDK和Claude Cowork，但API未受影响。所有问题已于4月20日（版本2.1.116）修复。团队解释了问题原因、修复措施，并提出了预防措施。[阅读更多](https://www.anthropic.com/engineering/april-23-postmortem)
+
+## 2. AI 产品
+### Claude Blog: New connectors in Claude for everyday life
+Claude宣布扩展其连接器功能，现在可以连接更多日常应用，如AllTrails、Instacart、Audible等。这使得用户可以在单一对话中使用多个应用，例如查询Amplitude数据、制作Canva演示文稿、更新Asana任务，全部在对话中完成。[阅读更多](https://claude.com/blog/connectors-for-everyday-life)
+
+### Claude Blog: Built-in memory for Claude Managed Agents
+Claude Managed Agents现在提供内置记忆功能，允许代理从每个会话中学习，并使用智能优化的记忆层。记忆作为文件存储，开发者可以通过API导出和管理它们，完全控制代理保留的内容。[阅读更多](https://claude.com/blog/claude-managed-agents-memory)
+
+## 3. 文生图 / 视频 / 3D
+无特别更新。
+
+## 4. AI 与游戏
+### Podcast: ElevenLabs' Mati Staniszewski: How Voice Becomes the Interface for Everything
+ElevenLabs的Mati Staniszewski在播客中讨论了语音界面如何成为各种技术的接口，特别是在未来，语音将成为与机器人交互的主要方式。他强调了情感智能在提升交互体验中的重要性，并分享了ElevenLabs在音频模型和实时流媒体模型方面的发展。[观看视频](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
