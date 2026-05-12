@@ -1,0 +1,31 @@
+AI 简报 2026-05-12
+
+ 今日要点
+今日焦点集中在AI在游戏和企业工作流程中的应用，特别是Baseten CEO Tuhin Srivastava讨论了AI推理的未来发展和挑战。Anthropic介绍了其托管代理服务，强调了AI模型在游戏和企业自动化中的重要性。同时，游戏策划应关注AI如何提升游戏开发效率和玩家体验。
+
+ 1. 底层更新
+Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands
+托管代理服务是Anthropic平台中的一项新服务，它通过一组小的接口运行长周期的代理，这些接口旨在超越任何特定实现，包括今天我们运行的实现。这项服务解决了如何为“尚未构想的程序”设计系统的问题，通过虚拟化代理组件：会话、Harness和沙箱，使得每个组件可以独立更换而不影响其他部分。这种设计允许更多的灵活性和可扩展性，同时保持了系统的稳定性和安全性。
+阅读更多
+
+ 2. AI 产品
+Baseten CEO Tuhin Srivastava 在 "No Priors" 播客中讨论了AI推理的紧缩、定制模型和构建推理云。他强调了AI推理市场的重要性和增长，以及开源模型如何成为主流。Srivastava 还讨论了企业如何越来越多地采用AI，并预测了未来几年的市场趋势。
+观看视频
+
+ 3. 文生图 / 视频 / 3D
+无相关更新。
+
+ 4. AI 与游戏
+Aaron Levie (Box CEO) 提到，随着高级代理从编码转向其他知识工作，正确实施它们需要大量的工作和专业知识。Box正在招聘AI自动化工程角色，这些角色将与业务直接合作，帮助增强工作流程，提高员工和客户的体验。
+推文链接
+
+Ryo Lu (Cursor 设计师) 提到ryOS现在有了连接到@levelsio复古PC的IRC桥，让不同的世界连接起来。
+推文链接
+
+Peter Yang (Roblox 产品经理) 提出了一个AI自动化的想法：当他收到孩子学校的10页周报时，他希望AI能告诉他是否有早退或其他需要注意的事项。
+推文链接
+
+Dan Shipper (Every CEO) 分享了一个使用Codex的MIDI键盘项目，通过Codex的帮助，他快速地创建了一个监视脚本来展示他正在弹奏的和弦，并获得了改进建议。
+推文链接
+
+Generated through the Follow Builders skill:
