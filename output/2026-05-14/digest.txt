@@ -1,0 +1,20 @@
+AI 简报 2026-05-14
+
+ 今日要点
+今日焦点是自动驾驶领域的最新进展，Waymo的Dmitri Dolgov在“Training Data”播客中分享了Waymo的发展历程和未来展望，强调了安全和全自动驾驶的重要性。同时，Anthropic Engineering博客介绍了Claude Code的新“Auto mode”，旨在提高代码执行的安全性。
+
+ 1. 底层更新
+ Anthropic Engineering: Claude Code auto mode: a safer way to skip permissions
+Anthropic Engineering博客介绍了Claude Code的新自动模式（auto mode），这是一个在手动审查和无防护之间取得平衡的新功能。该模式通过基于模型的分类器来代理审批，目标是捕获与用户意图不一致的危险行为，同时允许其他操作无需批准提示即可运行。自动模式使用两层防御：一层针对Claude读取的内容，一层针对Claude执行的操作。在输入层，服务器端的提示注入探测器会在工具输出进入代理上下文之前对其进行扫描。在输出层，转录分类器会在执行前根据一组决策标准评估每个操作，充当人类审批者的替代品。阅读更多
+
+ 2. AI 产品
+ Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy
+Waymo的Dmitri Dolgov在“Training Data”播客中讨论了Waymo的发展历程，从2009年的谷歌自动驾驶汽车项目开始，到今天的全自动驾驶技术。Dolgov分享了Waymo如何在技术、安全和规模上不断进步，以及他们如何通过自动驾驶技术减少道路事故，提高安全性。他还提到了Waymo未来的扩张计划，包括在更多城市和国际市场的服务。观看访谈
+
+ 3. 文生图 / 视频 / 3D
+（今日无相关更新）
+
+ 4. AI 与游戏
+（今日无相关更新）
+
+Generated through the Follow Builders skill:
