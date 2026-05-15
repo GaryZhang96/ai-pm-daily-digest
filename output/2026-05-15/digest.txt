@@ -1,0 +1,22 @@
+AI 简报 2026-05-15
+
+ 今日要点
+今日焦点集中在AI在音乐创作领域的应用，特别是Suno公司如何利用AI技术使音乐创作大众化。同时，Claude Managed Agents的新功能发布，增强了AI代理处理复杂任务的能力。此外，业界对AI引起的裁员潮和创业环境的变化进行了讨论。
+
+ 1. 底层更新
+ Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration
+Claude Managed Agents新增了“dreaming”功能，这是一个研究预览，通过回顾过往会话来寻找模式，帮助代理自我改进。同时，还推出了“outcomes”和“multiagent orchestration”功能，使开发者能够构建更复杂的任务处理能力。阅读更多
+
+ 2. AI 产品
+ Suno: 音乐创作平台
+Suno公司利用AI技术，使音乐创作变得更加大众化。Suno的创始人Mikey Shulman在播客中分享了Suno如何通过AI技术改变音乐产业，以及他们如何通过技术突破实现音乐创作的民主化。观看视频
+
+ 3. 文生图 / 视频 / 3D
+无相关内容。
+
+ 4. AI 与游戏
+无相关内容。
+
+---
+
+Generated through the Follow Builders skill:
