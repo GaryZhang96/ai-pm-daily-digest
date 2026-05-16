@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 05:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 04:49:10 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 05:09:50 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 04:49:10 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-16 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI代理及其基础设施的讨论上，特别是关于AI代理需要独立计算资源的观点。Ivan Burazin（Daytona CEO）在播客中分享了他对AI代理基础设施的深刻见解，强调了为每个AI代理提供至少一个“沙箱”（sandbox）的重要性。此外，游戏策划应关注AI在游戏开发中的应用，以及AI代理如何改变游戏设计和玩家互动。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-16/</link>
+            <guid isPermaLink="false">2026-05-16</guid>
+            <pubDate>Sat, 16 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-16/digest.mp3" length="887184" type="audio/mpeg"/>
+            <itunes:title>2026-05-16 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI代理及其基础设施的讨论上，特别是关于AI代理需要独立计算资源的观点。Ivan Burazin（Daytona CEO）在播客中分享了他对AI代理基础设施的深刻见解，强调了为每个AI代理提供至少一个“沙箱”（sandbox）的重要性。此外，游戏策划应关注AI在游戏开发中的应用，以及AI代理如何改变游戏设计和玩家互动。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-15 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在音乐创作领域的应用，特别是Suno公司如何利用AI技术使音乐创作大众化。同时，Claude Managed Agents的新功能发布，增强了AI代理处理复杂任务的能力。此外，业界对AI引起的裁员潮和创业环境的变化进行了讨论。]]></description>
