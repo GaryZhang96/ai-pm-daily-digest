@@ -1,0 +1,33 @@
+AI 简报 2026-05-18
+
+ 今日要点
+今日焦点集中在AI供应链安全和国际合作上，特别是美国国务院经济事务副国务卿Jacob Helberg讨论的Pax Silica计划，旨在确保美国及其盟友的AI供应链安全。同时，AI社区中对个人职业发展和心理健康的讨论也值得关注，特别是Peter Yang关于工作与生活平衡的见解获得了广泛共鸣。
+
+ 1. 底层更新
+ Anthropic Engineering
+无新内容。
+
+ OpenAI News
+无新内容。
+
+ Claude Blog
+无新内容。
+
+ 2. AI 产品
+ Garry Tan (Y Combinator CEO) 提到的GBrain
+Garry Tan 介绍了他的开源项目GBrain，这是一个知识系统，不同于一般的RAG模型。GBrain通过8层协同工作来提升代理的记忆能力，使得已有的智能代理如OpenClaw或Hermes在使用时感觉更加敏锐和有洞察力。GBrain项目地址
+
+ 3. 文生图 / 视频 / 3D
+无新内容。
+
+ 4. AI 与游戏
+ No Priors — Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg
+美国国务院经济事务副国务卿Jacob Helberg在No Priors播客中讨论了Pax Silica计划，这是一个多国努力确保美国及其盟友AI供应链安全的计划。Helberg强调了与私营公司合作的重要性，并宣布了与菲律宾合作的前沿部署工业基地，旨在结合美国普通法体系的可预测性和菲律宾的工业比较优势，确保供应链中的关键输入。观看播客
+
+ Peter Yang (Roblox产品经理) 提到的健康生活建议
+Peter Yang在推特上分享了他对健康饮食的看法，认为好的辣酱可以为鸡胸肉或鱼类增添风味，询问粉丝推荐。查看推文
+
+ Peter Yang (Roblox产品经理) 提到的旅行建议
+Peter Yang还建议湾区的科技工作者应该去欧洲小镇或亚洲旅行，体验不同的生活，不要只关注是否达到了IC7或IC8级别，或是在哪家公司工作。查看推文
+
+Generated through the Follow Builders skill:
