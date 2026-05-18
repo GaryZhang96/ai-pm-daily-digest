@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 05:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 05:40:20 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 05:07:14 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 05:40:20 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-18 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI供应链安全和国际合作上，特别是美国国务院经济事务副国务卿Jacob Helberg讨论的Pax Silica计划，旨在确保美国及其盟友的AI供应链安全。同时，AI社区中对个人职业发展和心理健康的讨论也值得关注，特别是Peter Yang关于工作与生活平衡的见解获得了广泛共鸣。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-18/</link>
+            <guid isPermaLink="false">2026-05-18</guid>
+            <pubDate>Mon, 18 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-18/digest.mp3" length="862272" type="audio/mpeg"/>
+            <itunes:title>2026-05-18 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI供应链安全和国际合作上，特别是美国国务院经济事务副国务卿Jacob Helberg讨论的Pax Silica计划，旨在确保美国及其盟友的AI供应链安全。同时，AI社区中对个人职业发展和心理健康的讨论也值得关注，特别是Peter Yang关于工作与生活平衡的见解获得了广泛共鸣。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-17 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI领域的最新进展，特别是Yann LeCun在《Unsupervised Learning》播客中分享的洞见，他对大型语言模型（LLM）的局限性和未来AI的发展方向提出了鲜明观点。同时，业界对AI在游戏和编程中的应用表现出极大兴趣，讨论了AI如何改变这些领域的未来。]]></description>
