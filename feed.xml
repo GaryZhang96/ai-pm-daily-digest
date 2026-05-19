@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 05:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 05:36:32 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 05:40:20 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 05:36:32 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-19 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI技术在个人和企业工作流中的应用，特别是AI作为第二大脑的角色。Anthropic的Claude Code被提及，展示了其在个人服务器和Obsidian笔记中的应用。同时，AI在教育和媒体素养中的作用也被讨论，强调了在AI时代培养学生批判性思维的重要性。此外，AI在游戏和娱乐领域的应用也受到关注，特别是ChatGPT Images 2.0在印度的成功。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-19/</link>
+            <guid isPermaLink="false">2026-05-19</guid>
+            <pubDate>Tue, 19 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-19/digest.mp3" length="891216" type="audio/mpeg"/>
+            <itunes:title>2026-05-19 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI技术在个人和企业工作流中的应用，特别是AI作为第二大脑的角色。Anthropic的Claude Code被提及，展示了其在个人服务器和Obsidian笔记中的应用。同时，AI在教育和媒体素养中的作用也被讨论，强调了在AI时代培养学生批判性思维的重要性。此外，AI在游戏和娱乐领域的应用也受到关注，特别是ChatGPT Images 2.0在印度的成功。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-18 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI供应链安全和国际合作上，特别是美国国务院经济事务副国务卿Jacob Helberg讨论的Pax Silica计划，旨在确保美国及其盟友的AI供应链安全。同时，AI社区中对个人职业发展和心理健康的讨论也值得关注，特别是Peter Yang关于工作与生活平衡的见解获得了广泛共鸣。]]></description>

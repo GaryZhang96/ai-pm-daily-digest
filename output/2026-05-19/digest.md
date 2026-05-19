@@ -1,0 +1,27 @@
+# AI 简报 2026-05-19
+
+## 今日要点
+今日焦点集中在AI技术在个人和企业工作流中的应用，特别是AI作为第二大脑的角色。Anthropic的Claude Code被提及，展示了其在个人服务器和Obsidian笔记中的应用。同时，AI在教育和媒体素养中的作用也被讨论，强调了在AI时代培养学生批判性思维的重要性。此外，AI在游戏和娱乐领域的应用也受到关注，特别是ChatGPT Images 2.0在印度的成功。
+
+## 1. 底层更新
+### Anthropic Engineering
+No new posts.
+
+## 2. AI 产品
+### Claude Code: 使用AI作为第二大脑
+Noah Breyer 在他的播客中分享了他如何使用Anthropic的Claude Code作为他的第二大脑。他在家中的服务器上设置了Obsidian笔记库，并在手机上运行Claude Code，实现了思考、研究、写作和代码部署的一体化。他强调了AI在提高工作效率和深度思考方面的作用，特别是通过语音模式与AI进行交互的能力，这让他能够在任何地方进行深入工作。[AI & I by Every](https://www.youtube.com/watch?v=in7i-EVDDlk)
+
+## 3. 文生图 / 视频 / 3D
+### ChatGPT Images 2.0 在印度的成功
+Sam Altman (OpenAI CEO) 在推特上提到，ChatGPT Images 2.0 在印度已经创造了超过10亿张图片，这是一个令人兴奋的里程碑。[Sam Altman](https://x.com/sama/status/2056165722804654196)
+
+## 4. AI 与游戏
+### AI在游戏和教育中的应用
+Aaron Levie (Box CEO) 在推特上讨论了AI如何改变技术人才的需求，强调了在AI时代，每个人都需要技术才能来实施代理系统，这大大扩展了工程师应该考虑的角色类型。[Aaron Levie](https://x.com/levie/status/2056219645796090197)
+
+Garry Tan (Y Combinator CEO) 提到了AI-human-computer-symbiosis团队的潜力，认为这将超越传统的操作模式。[Garry Tan](https://x.com/garrytan/status/2056123737544757733)
+
+### AI在教育中的作用
+Nikunj Kothari 在推特上讨论了AI在教育中的作用，强调了媒体素养和批判性思维的重要性。他推荐了一本名为“The Truth Detective”的书，认为这是成人和儿童媒体素养教育的最佳读物。[Nikunj Kothari](https://x.com/nikunj/status/2056122508550738223)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
