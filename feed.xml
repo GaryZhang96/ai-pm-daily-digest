@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 05:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 05:38:32 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 05:36:32 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 05:38:32 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-20 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI平台的发展和游戏化应用。Anthropic团队讨论了Claude平台的未来方向，强调了自主性和可扩展性。同时，AI在游戏策划中的应用也引人注目，Cursor的Composer 2.5版本发布，预示着更智能的游戏体验。此外，Claude平台更新了其代码质量和日常生活连接器，扩展了AI在工作和日常生活中的应用范围。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-20/</link>
+            <guid isPermaLink="false">2026-05-20</guid>
+            <pubDate>Wed, 20 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-20/digest.mp3" length="940608" type="audio/mpeg"/>
+            <itunes:title>2026-05-20 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI平台的发展和游戏化应用。Anthropic团队讨论了Claude平台的未来方向，强调了自主性和可扩展性。同时，AI在游戏策划中的应用也引人注目，Cursor的Composer 2.5版本发布，预示着更智能的游戏体验。此外，Claude平台更新了其代码质量和日常生活连接器，扩展了AI在工作和日常生活中的应用范围。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-19 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI技术在个人和企业工作流中的应用，特别是AI作为第二大脑的角色。Anthropic的Claude Code被提及，展示了其在个人服务器和Obsidian笔记中的应用。同时，AI在教育和媒体素养中的作用也被讨论，强调了在AI时代培养学生批判性思维的重要性。此外，AI在游戏和娱乐领域的应用也受到关注，特别是ChatGPT Images 2.0在印度的成功。]]></description>

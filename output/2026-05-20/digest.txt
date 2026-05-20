@@ -1,0 +1,22 @@
+AI 简报 2026-05-20
+
+ 今日要点
+今日焦点集中在AI平台的发展和游戏化应用。Anthropic团队讨论了Claude平台的未来方向，强调了自主性和可扩展性。同时，AI在游戏策划中的应用也引人注目，Cursor的Composer 2.5版本发布，预示着更智能的游戏体验。此外，Claude平台更新了其代码质量和日常生活连接器，扩展了AI在工作和日常生活中的应用范围。
+
+ 1. 底层更新
+ Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic团队针对近期Claude代码质量下降的报告进行了调查，并发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork。所有问题已于4月20日（v2.1.116版本）解决。团队解释了问题的原因、修复措施以及未来如何避免类似问题的措施。特别是，Claude Code默认推理努力从高调整为中等，导致一些用户界面出现冻结现象。团队在收到用户反馈后于4月7日撤销了这一更改，现在默认使用更高智能的设置，并允许用户为简单任务选择更低的努力。阅读更多
+
+ 2. AI 产品
+ Claude Blog: New connectors in Claude for everyday life
+Claude平台扩展了与日常应用程序的连接能力，包括AllTrails、Instacart、Audible、Tripadvisor等。这些连接器的使用允许用户在与Claude的对话中集成多个应用程序，例如，产品经理可以从Amplitude中提取查询，将其转换成Canva幻灯片，并将其链接放入Asana中，所有操作均在对话中完成。阅读更多
+
+ 3. 文生图 / 视频 / 3D
+ Claude Blog: Built-in memory for Claude Managed Agents
+Claude Managed Agents的内置记忆功能现已公开测试。这使得代理能够跨会话学习，使用经过智能优化的记忆层，平衡性能与灵活性。记忆作为文件存储，开发者可以通过API导出和管理它们，完全控制代理保留的内容。阅读更多
+
+ 4. AI 与游戏
+ Ryo Lu (Design @Cursorai): frontier smart\nextremely efficient\nComposer 2.5 is here
+Cursor的Composer 2.5版本发布，标志着更智能、更高效的游戏体验。查看推文
+
+Generated through the Follow Builders skill:
