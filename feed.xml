@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 05:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 05:36:38 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 05:42:57 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 05:36:38 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-22 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏设计中的应用，以及AI原生团队的工作方式转变。Google Labs的Project Genie允许用户快速从游戏玩家转变为游戏设计者。同时，AI领域专家讨论了AI原生团队中个体贡献者和管理者的新角色，强调了AI时代下团队合作的新动态。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-22/</link>
+            <guid isPermaLink="false">2026-05-22</guid>
+            <pubDate>Fri, 22 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-22/digest.mp3" length="741024" type="audio/mpeg"/>
+            <itunes:title>2026-05-22 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏设计中的应用，以及AI原生团队的工作方式转变。Google Labs的Project Genie允许用户快速从游戏玩家转变为游戏设计者。同时，AI领域专家讨论了AI原生团队中个体贡献者和管理者的新角色，强调了AI时代下团队合作的新动态。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-21 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在企业服务管理领域的应用，特别是Serval公司如何利用AI重构IT服务。同时，Anthropic公司分享了他们在管理AI代理方面的进展，而Google Labs则推出了Project Genie的更新，增强了AI在游戏开发中的应用。此外，AI界对Andrej Karpathy加入Anthropic的消息反响热烈，预示着LLMs领域将迎来重要发展。]]></description>
