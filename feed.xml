@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 05:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 04:59:42 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 05:36:38 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 04:59:42 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-23 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI模型的可靠性和安全性提升，特别是OpenAI的Yann Dubois在播客中讨论了AI进步的连续性以及如何通过强化学习提升模型的实用性。同时，Anthropic Engineering博客介绍了Claude Code的自动模式，旨在提供更安全的权限跳过方案。此外，游戏策划应关注Cursor的Ryo Lu分享的新模型和界面，这些可能对游戏开发有直接影响。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-23/</link>
+            <guid isPermaLink="false">2026-05-23</guid>
+            <pubDate>Sat, 23 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-23/digest.mp3" length="906768" type="audio/mpeg"/>
+            <itunes:title>2026-05-23 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI模型的可靠性和安全性提升，特别是OpenAI的Yann Dubois在播客中讨论了AI进步的连续性以及如何通过强化学习提升模型的实用性。同时，Anthropic Engineering博客介绍了Claude Code的自动模式，旨在提供更安全的权限跳过方案。此外，游戏策划应关注Cursor的Ryo Lu分享的新模型和界面，这些可能对游戏开发有直接影响。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-22 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏设计中的应用，以及AI原生团队的工作方式转变。Google Labs的Project Genie允许用户快速从游戏玩家转变为游戏设计者。同时，AI领域专家讨论了AI原生团队中个体贡献者和管理者的新角色，强调了AI时代下团队合作的新动态。]]></description>
