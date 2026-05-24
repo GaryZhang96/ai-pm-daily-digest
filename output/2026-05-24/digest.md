@@ -1,0 +1,28 @@
+# AI 简报 2026-05-24
+
+## 今日要点
+今日焦点集中在AI模型的持续进步和应用扩展。Google Labs展示了其在I/O大会上发布的最新AI工具；Anthropic的Claude Managed Agents新增了梦境、结果和多代理编排功能；而业界专家讨论了AI在游戏、创业和工程实践中的应用和影响。特别值得注意的是，AI在游戏创造和代理技术中的应用，为游戏策划提供了新的工具和思路。
+
+## 1. 底层更新
+### Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration
+Claude Managed Agents新增了梦境（dreaming）功能，这是一个研究预览，通过回顾过往会话来寻找模式，帮助代理自我改进。同时，还推出了结果（outcomes）和多代理编排功能，以及webhooks，使开发者能够构建更复杂的任务处理能力，同时减少人工干预。[阅读更多](https://claude.com/blog/new-in-claude-managed-agents)
+
+## 2. AI 产品
+### Google Labs
+Google Labs在I/O大会后更新了其网站，展示了最新的AI工具和实验项目。这些工具和实验项目旨在帮助用户轻松找到来自实验室的最新和最伟大的创新。[了解更多](https://x.com/GoogleLabs/status/2057884277384360416)
+
+## 3. 文生图 / 视频 / 3D
+### Unsupervised Learning: Ep 87: Gemini Co-Lead on World Models, RL’s Next Domains & Continual Learning
+Oriol Vinyals，Gemini项目的共同领导，讨论了多模态模型的进一步发展、世界模型的实用性以及持续学习的重要性。他强调了从视频和图像中提取知识的重要性，并探讨了如何将这些知识添加到语言模型中，以及这对自动驾驶汽车或机器人技术等应用的潜在影响。[观看视频](https://www.youtube.com/watch?v=NQczevdpxq0)
+
+## 4. AI 与游戏
+### Swyx
+Swyx提出了关于AI模型，特别是对抗性世界模型的观点，强调了这些模型在思考功能上的作用，并讨论了它们如何帮助我们更接近现实极限的Kolmogorov生成器。[讨论链接](https://x.com/swyx/status/2058073815301972368)
+
+### Peter Yang
+Peter Yang分享了他对于如何最佳利用AI代理来提高个人产出的思考，特别是对于独立创始人和工程师。他提出了一系列问题，包括AI堆栈的选择、端到端构建的展示，以及如何管理多个代理。[订阅链接](https://x.com/petergyang/status/2057989910125310459)
+
+### Garry Tan
+Garry Tan介绍了GBrain，这是一个个人AI项目，基于Gemini Live，提供大型上下文、出色的工具使用和完整的大脑访问权限。他将这个开源项目作为礼物，旨在帮助人们更好地利用AI代理。[项目链接](https://x.com/garrytan/status/2058053659527913566)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders

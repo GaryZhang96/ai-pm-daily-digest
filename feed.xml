@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 04:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 05:33:11 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 04:59:42 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 05:33:11 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-24 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI模型的持续进步和应用扩展。Google Labs展示了其在I/O大会上发布的最新AI工具；Anthropic的Claude Managed Agents新增了梦境、结果和多代理编排功能；而业界专家讨论了AI在游戏、创业和工程实践中的应用和影响。特别值得注意的是，AI在游戏创造和代理技术中的应用，为游戏策划提供了新的工具和思路。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-24/</link>
+            <guid isPermaLink="false">2026-05-24</guid>
+            <pubDate>Sun, 24 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-24/digest.mp3" length="1052496" type="audio/mpeg"/>
+            <itunes:title>2026-05-24 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI模型的持续进步和应用扩展。Google Labs展示了其在I/O大会上发布的最新AI工具；Anthropic的Claude Managed Agents新增了梦境、结果和多代理编排功能；而业界专家讨论了AI在游戏、创业和工程实践中的应用和影响。特别值得注意的是，AI在游戏创造和代理技术中的应用，为游戏策划提供了新的工具和思路。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-23 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型的可靠性和安全性提升，特别是OpenAI的Yann Dubois在播客中讨论了AI进步的连续性以及如何通过强化学习提升模型的实用性。同时，Anthropic Engineering博客介绍了Claude Code的自动模式，旨在提供更安全的权限跳过方案。此外，游戏策划应关注Cursor的Ryo Lu分享的新模型和界面，这些可能对游戏开发有直接影响。]]></description>
