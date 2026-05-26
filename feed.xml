@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 05:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 05:36:21 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 05:56:13 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 05:36:21 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-26 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在实际应用中的挑战和进展。Peter Yang分享了如何利用AI代理提高初创企业效率，而Madhu Guru讨论了CEO们对AI的盲目热情和实际应用之间的差距。Thariq对Bun重写项目的代码“蒸馏”表示赞赏，而Guillermo Rauch强调了产品与品牌建设的关系。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam相关讨论。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-26/</link>
+            <guid isPermaLink="false">2026-05-26</guid>
+            <pubDate>Tue, 26 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-26/digest.mp3" length="1029312" type="audio/mpeg"/>
+            <itunes:title>2026-05-26 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在实际应用中的挑战和进展。Peter Yang分享了如何利用AI代理提高初创企业效率，而Madhu Guru讨论了CEO们对AI的盲目热情和实际应用之间的差距。Thariq对Bun重写项目的代码“蒸馏”表示赞赏，而Guillermo Rauch强调了产品与品牌建设的关系。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam相关讨论。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-25 AI 简报]]></title>
             <description><![CDATA[今日焦点包括Cerebras公司上市及其对AI硬件市场的影响，以及AI在游戏开发中的应用。Cerebras创始人Andrew Feldman强调了AI加速器的重要性，而Replit CEO Amjad Masad分享了使用Cursor和Replit加速应用开发的体验。此外，游戏策划应关注AI在游戏开发中的新应用，如Garry Tan分享的个人AI模型微调经验。]]></description>
