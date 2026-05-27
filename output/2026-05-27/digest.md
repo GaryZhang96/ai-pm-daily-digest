@@ -1,0 +1,36 @@
+# AI 简报 2026-05-27
+
+## 今日要点
+今日焦点集中在AI在游戏开发中的应用，以及AI代理技术的最新进展。Peter Yang强调了Codex和Claude在设计和前端任务中的优势，而Garry Tan则分享了他对AI代理技术未来发展的乐观预期。同时，Daytona公司CEO Ivan Burazin在播客中深入讨论了AI代理的基础设施需求，特别是对沙箱技术的需求，这对游戏策划来说是一个值得关注的话题。
+
+## 1. 底层更新
+### Anthropic Engineering
+No notable posts.
+
+### OpenAI News
+No notable posts.
+
+### Claude Blog
+No notable posts.
+
+## 2. AI 产品
+### Peter Yang (Product at Roblox)
+- **Codex和Claude在AI代理中的表现**：Peter Yang提到，Codex在使用浏览器测试自身工作方面表现出色，但在设计和前端任务上，Claude仍然占据优势。[链接](https://x.com/petergyang/status/2059099566377693305)
+
+### Aaron Levie (CEO @box)
+- **AI对工作的影响**：Aaron Levie讨论了AI对工作的影响，强调了市场对产品或服务的期望随着自动化技术的发展而提高，从而推动工作性质的演变。[链接](https://x.com/levie/status/2059025559896883489)
+
+### Garry Tan (President & CEO @ycombinator)
+- **AI代理技术的未来**：Garry Tan预测，AI代理技术将进入一个全新的时代，他鼓励全球的提示工程师团结起来。[链接](https://x.com/garrytan/status/2059155926939299968)
+
+## 3. 文生图 / 视频 / 3D
+No notable updates.
+
+## 4. AI 与游戏
+### The MAD Podcast with Matt Turck
+- **Why AWS and Azure Cannot Run Autonomous AI – Ivan Burazin (Daytona)**：Ivan Burazin讨论了AI代理基础设施的当前状态和未来方向，特别是沙箱技术在其中的作用。他强调了为AI代理提供独立计算环境的重要性，并讨论了Daytona如何构建自己的调度器以满足这些需求。[链接](https://www.youtube.com/watch?v=kMXJrzAa5fM)
+
+### Peter Steinberger (Polyagentmorous ClawFather)
+- **OpenClaw的技术更新**：Peter Steinberger分享了OpenClaw在减少依赖和优化图像处理方面的进展，包括替换Sharp和Jimp为photon，一个小巧的WebAssembly，用于编译Rust进行图像处理。[链接](https://x.com/steipete/status/2058922222790525272)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
