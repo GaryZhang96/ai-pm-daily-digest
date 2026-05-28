@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 05:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 05:45:03 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 05:49:11 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 05:45:03 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-28 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Cursor公司开发的Composer AI模型在强化学习（RL）中的训练和应用。此外，探讨了AI基础设施的垂直发展，以及AI如何影响企业招聘和工程人才需求。Anthropic公司分享了如何通过不同产品限制Claude AI模型的风险，强调了环境层面的遏制设计和模型行为的引导。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-28/</link>
+            <guid isPermaLink="false">2026-05-28</guid>
+            <pubDate>Thu, 28 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-28/digest.mp3" length="903600" type="audio/mpeg"/>
+            <itunes:title>2026-05-28 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Cursor公司开发的Composer AI模型在强化学习（RL）中的训练和应用。此外，探讨了AI基础设施的垂直发展，以及AI如何影响企业招聘和工程人才需求。Anthropic公司分享了如何通过不同产品限制Claude AI模型的风险，强调了环境层面的遏制设计和模型行为的引导。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-27 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，以及AI代理技术的最新进展。Peter Yang强调了Codex和Claude在设计和前端任务中的优势，而Garry Tan则分享了他对AI代理技术未来发展的乐观预期。同时，Daytona公司CEO Ivan Burazin在播客中深入讨论了AI代理的基础设施需求，特别是对沙箱技术的需求，这对游戏策划来说是一个值得关注的话题。]]></description>
