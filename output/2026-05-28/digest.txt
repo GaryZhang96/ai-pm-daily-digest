@@ -1,0 +1,21 @@
+AI 简报 2026-05-28
+
+ 今日要点
+今日焦点集中在AI在游戏开发中的应用，特别是Cursor公司开发的Composer AI模型在强化学习（RL）中的训练和应用。此外，探讨了AI基础设施的垂直发展，以及AI如何影响企业招聘和工程人才需求。Anthropic公司分享了如何通过不同产品限制Claude AI模型的风险，强调了环境层面的遏制设计和模型行为的引导。
+
+ 1. 底层更新
+ Anthropic Engineering: How we contain Claude across products
+Anthropic公司分享了他们如何根据不同产品限制Claude AI模型的风险。文章讨论了设计环境层面的遏制、引导模型行为以及限制外部内容接触的重要性。提到了三个主要的AI产品：claude.ai、Claude Code和Claude Cowork，每个产品都有其独特的遏制架构。文章强调了在环境层面设计遏制措施的重要性，并指出用户对代理行为的监督能力决定了遏制策略的选择。阅读更多
+
+ 2. AI 产品
+ Cursor的Composer AI模型
+Cursor公司开发的Composer AI模型通过强化学习进行训练，以提高其在编码任务中的表现。该模型专注于长期编码任务，并在模拟环境中进行了大量的训练，以确保其在真实环境中的表现。Composer AI模型的训练涉及到复杂的基础设施和环境管理，以确保模型能够在接近真实用户环境的情况下进行训练。了解更多
+
+ 3. 文生图 / 视频 / 3D
+No notable posts.
+
+ 4. AI 与游戏
+ Training Data: How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL
+本期《Training Data》播客邀请了Cursor的研究负责人Federico和Fireworks的Dima，讨论了如何训练Composer AI模型。他们分享了Composer模型的训练过程，包括预训练和强化学习两个方向。特别提到了在模拟环境中进行训练的重要性，以及如何通过模拟环境来提高模型在真实世界中的表现。此外，还讨论了在全球分布式环境中进行RL训练的挑战和解决方案。收听播客
+
+Generated through the Follow Builders skill:
