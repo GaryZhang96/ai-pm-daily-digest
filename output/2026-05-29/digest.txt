@@ -1,0 +1,27 @@
+AI 简报 2026-05-29
+
+ 今日要点
+今日焦点集中在AI在游戏和工作流程中的应用。Anthropic Engineering分享了关于Claude Code质量的最新更新，强调了模型改进和用户体验的重要性。同时，Claude Managed Agents的新功能允许在受控沙箱中操作并连接到私有MCP服务器，提升了企业级应用的灵活性和安全性。此外，AI & I by Every播客探讨了AI自动化对工作的影响，强调了专家在自动化时代的重要性。
+
+ 1. 底层更新
+ Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic Engineering团队针对近期用户反馈Claude响应质量下降的问题进行了调查。他们发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork，但API未受影响。所有问题已于4月20日（v2.1.116版本）修复。文章详细解释了问题原因、修复措施及未来预防措施。特别是，他们调整了Claude Code的默认推理努力程度，修复了会话空闲超时后清除旧思考内容的bug，并调整了系统提示以减少冗余，但后者影响了编码质量，随后被撤销。阅读更多
+
+ Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands
+Anthropic介绍了Managed Agents的新功能，该功能允许在用户控制的沙箱中操作并连接到私有的Model Context Protocol (MCP)服务器。这意味着代理执行工具和服务运行在企业的安全和运行时控制之下。文章讨论了如何将“大脑”（Claude及其Harness）与“手”（执行动作的沙箱和工具）和“会话”（会话事件的日志）解耦，提高了系统的灵活性和可扩展性。阅读更多
+
+ 2. AI 产品
+ Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+Claude Managed Agents现在可以在用户控制的沙箱中运行，并连接到私有MCP服务器。这一更新允许企业在保持数据安全的同时，利用Claude的能力。沙箱可以在用户自己的基础设施上运行，或者通过Cloudflare、Daytona、Modal或Vercel等托管提供商来处理计算和隔离。阅读更多
+
+ Claude Blog: New connectors in Claude for everyday life
+Claude现在支持连接到更多日常生活中使用的应用程序，如AllTrails、Instacart、Audible、Tripadvisor等。这扩展了Claude的功能，使其不仅限于工作工具，还包括日常生活中的应用程序。Claude现在可以根据用户的偏好、上下文和对话动态推荐合适的应用程序。阅读更多
+
+ 3. 文生图 / 视频 / 3D
+无相关更新。
+
+ 4. AI 与游戏
+ AI & I by Every: We Automated Everything With AI and Tripled Our Headcount
+播客讨论了AI自动化对工作的影响。Dan Sick讨论了他的看法，即尽管AI自动化了工作，但人类工作的需求却增加了。他以Every公司为例，说明了尽管AI技术的应用越来越广泛，公司员工人数却从4人增加到了30人。Dan认为，AI的发展并没有减少工作，而是改变了工作的性质，增加了对专家的需求。他强调，即使在自动化时代，人类的直觉和决策仍然是不可或缺的。观看视频
+
+Generated through the Follow Builders skill:
