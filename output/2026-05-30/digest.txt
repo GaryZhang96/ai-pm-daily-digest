@@ -1,0 +1,26 @@
+AI 简报 2026-05-30
+
+ 今日要点
+今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。
+
+ 1. 底层更新
+ The MAD Podcast with Matt Turck: State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job
+播客中，Box CEO Aaron Levie 讨论了企业AI的最新趋势，包括代币成本上升、AI模型进步如何意外地减慢了企业部署、无头软件的兴起、内部FDE的兴起，以及创业公司在哪里仍然可以获胜。他强调了AI技术为企业带来的生产力提升，同时也指出了实施中的困难和挑战，特别是在数据管理和访问控制方面。
+播客链接
+
+ 2. AI 产品
+ Replit Canvas
+Replit CEO Amjad Masad 在推特上宣布了Replit Canvas的新功能，用户现在可以生成图像、视频、音频并进行混音，还可以通过点选编辑、移动和拖放来进行创作。此外，还可以邀请朋友一起进行市场营销、网站建设或艺术创作，所有这些都在Replit Canvas上完成。
+推特链接
+
+ 3. 文生图 / 视频 / 3D
+ Google's free 5-day AI Agents course
+Peter Yang 在推特上分享了Google提供的免费5天AI Agent课程，课程内容包括代理和氛围编码、工具和互操作性、记忆和上下文、质量与安全，以及从原型到生产的部署和监控。这个课程由Google工程师授课，每天1-2小时，完全免费。
+推特链接
+
+ 4. AI 与游戏
+ Google's free 5-day AI Agents course
+Google提供的免费5天AI Agent课程也适用于游戏策划和开发者，课程内容涵盖了如何构建和部署AI代理，这对于希望在游戏中集成AI功能的游戏开发者来说是一个宝贵的学习资源。
+推特链接
+
+Generated through the Follow Builders skill:
