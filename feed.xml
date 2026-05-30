@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 May 2026 05:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 05:07:29 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 May 2026 05:46:44 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 05:07:29 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-30 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-30/</link>
+            <guid isPermaLink="false">2026-05-30</guid>
+            <pubDate>Sat, 30 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-30/digest.mp3" length="913248" type="audio/mpeg"/>
+            <itunes:title>2026-05-30 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-29 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏和工作流程中的应用。Anthropic Engineering分享了关于Claude Code质量的最新更新，强调了模型改进和用户体验的重要性。同时，Claude Managed Agents的新功能允许在受控沙箱中操作并连接到私有MCP服务器，提升了企业级应用的灵活性和安全性。此外，AI & I by Every播客探讨了AI自动化对工作的影响，强调了专家在自动化时代的重要性。]]></description>
