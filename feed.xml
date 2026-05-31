@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 05:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 05:52:09 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 05:07:29 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 05:52:09 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-05-31 AI 简报]]></title>
+            <description><![CDATA[今日焦点在于AI在企业安全和效率方面的应用。Onyx Security的CEO Maxim Bar Kogan讨论了企业如何利用AI代理监控其他AI代理，以提高安全性和效率。同时，Salesforce通过使用Claude Code实现了生产效率的显著提升，减少了产品发布周期和提高了安全性。此外，Google的Josh Woodward分享了将车辆变成兰博基尼的创新项目，以及多语言处理的进展。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-31/</link>
+            <guid isPermaLink="false">2026-05-31</guid>
+            <pubDate>Sun, 31 May 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-31/digest.mp3" length="819072" type="audio/mpeg"/>
+            <itunes:title>2026-05-31 AI 简报</itunes:title>
+            <itunes:summary>今日焦点在于AI在企业安全和效率方面的应用。Onyx Security的CEO Maxim Bar Kogan讨论了企业如何利用AI代理监控其他AI代理，以提高安全性和效率。同时，Salesforce通过使用Claude Code实现了生产效率的显著提升，减少了产品发布周期和提高了安全性。此外，Google的Josh Woodward分享了将车辆变成兰博基尼的创新项目，以及多语言处理的进展。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-05-30 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。]]></description>
