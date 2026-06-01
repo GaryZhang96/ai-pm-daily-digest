@@ -1,0 +1,38 @@
+AI 简报 2026-06-01
+
+ 今日要点
+今日焦点在于AI在游戏和教育领域的应用，以及AI模型的持续进步和底层技术更新。OpenAI的Codex和ChatGPT在功能上进行了优化，提升了用户体验和模型效率。同时，AI教育应用的讨论显示了技术在提升学习效率方面的潜力。在底层技术方面，讨论了AI模型的创新能力和持续学习的重要性。
+
+ 1. 底层更新
+ Claude Blog: New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration
+Claude Managed Agents 引入了“dreaming”功能，这是一个研究预览，通过回顾过去的会话来发现模式，帮助代理自我改进。同时，还为开发者提供了成果、多代理编排和Webhooks等功能。这些更新使得代理在处理复杂任务时的能力得到了提升，尤其是在最小化指导的情况下。阅读更多
+
+ 2. AI 产品
+ Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+五百万用户将同意。明天早上重置限制以庆祝。 是时候快速前进了。讨论链接
+当我们从GPT-5.0 - GPT-5.1 - ... - GPT-5.5时，数字的增加与能力和token效率的提高（转化为速度增益）相匹配。 有了GPT-5.5，我们最好的模型 yet。讨论链接
+
+ Peter Yang (Practical AI tutorials and interviews for busy people)
+基本上，最终的教育应用是你在玩《最终幻想》的同时学习数学和计算机科学。 讨论链接
+
+ Guillermo Rauch (@vercel CEO)
+通过API Key在AI Gateway上设置消费上限。 讨论链接
+
+ Aaron Levie (ceo @box)
+再次，也许违反直觉，但在我与大型企业的CIO、CTO和CEO的大多数对话中，他们要么因AI而增长（在新的工作职能如FDEs、工程等中），或者至少将效率节省重新投资回业务中的新领域（销售、市场营销等）。 讨论链接
+
+ Ryo Lu (Design @Cursorai)
+我喜欢自动审查的一点是：Cursor解释命令和风险，使新编码者更容易学习和做事。 讨论链接
+
+ 3. 文生图 / 视频 / 3D
+ Peter Steinberger (Polyagentmorous ClawFather)
+有了GPT 5.5，/goal、autoreview和crabbox我的提示从30-60分钟的任务变为经常4-10小时的任务，我对它准备好的信心高得多。 产生代理是一种技能。讨论链接
+
+ 4. AI 与游戏
+ Peter Yang (Practical AI tutorials and interviews for busy people)
+我猜是：OpenAI Codex dank memes - Anthropic essays 讨论链接
+
+ Dan Shipper (ceo @every)
+38b tokens和一个56小时的最长任务 讨论链接
+
+Generated through the Follow Builders skill:
