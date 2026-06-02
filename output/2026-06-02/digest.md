@@ -1,0 +1,35 @@
+# AI 简报 2026-06-02
+
+## 今日要点
+今日焦点集中在AI在企业中的应用难题、AI模型的持续学习、以及AI在游戏和物理世界中的应用前景。OpenAI的Yann Dubois在播客中讨论了AI模型的可靠性和实用性，而多位AI领域的意见领袖在Twitter上分享了他们对于AI技术发展和应用的见解。特别是，游戏策划应关注AI在游戏开发中的应用，以及AI模型如何通过持续学习变得更加智能。
+
+## 1. 底层更新
+### Anthropic Engineering: Harness Design for Long-Running Apps
+- **核心公告**：Anthropic讨论了为长期运行的应用程序设计harness的重要性，强调了在AI模型中实现持续学习和个性化的必要性。
+- **直接引用**：“Harnesses can really improve the capability of a model right now.” — Thibault Sottiaux
+- [阅读全文](https://www.anthropic.com/engineering/harness-design-for-long-running-apps)
+
+## 2. AI 产品
+### OpenAI Robotics招聘信息
+- **核心公告**：Sam Altman宣布OpenAI Robotics正在招聘，旨在开发对社会有用的机器人，帮助构建未来基础设施，并最终实现每个人都有一个可以完成任何任务的个人机器人。
+- **直接引用**：“We are focused on robots to support skilled workers to build our future infrastructure.” — Sam Altman
+- [阅读全文](https://x.com/sama/status/2061117302528188712)
+
+## 3. 文生图 / 视频 / 3D
+### OpenAI Robotics的模拟研究
+- **核心公告**：OpenAI的模拟研究项目已经发展成为OpenAI Robotics，该团队正在探索机器人硬件和机器学习研究的共同设计。
+- **直接引用**：“Our world simulation research program has evolved into OpenAI Robotics.” — Sam Altman
+- [阅读全文](https://x.com/sama/status/2061117302528188712)
+
+## 4. AI 与游戏
+### The MAD Podcast with Matt Turck — OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real
+- **核心洞察**：Yann Dubois讨论了AI模型的可靠性如何使它们变得实用，特别是在游戏和物理世界中的应用。
+- **直接引用**：“You need to reach this level of reliability to really make any of these AI tools very useful.” — Yann Dubois
+- [观看视频](https://www.youtube.com/watch?v=DhD1zZ8w8Mw)
+
+### Peter Steinberger的Codex教学
+- **核心洞察**：Peter Steinberger分享了他如何教授Codex成为他的QA助理，自动化测试并提出修复方案。
+- **直接引用**："Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario." — Peter Steinberger
+- [查看推文](https://x.com/steipete/status/2061208638027395490)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
