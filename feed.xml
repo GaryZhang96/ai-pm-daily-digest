@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 06:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 06:23:18 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 06:10:31 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 06:23:18 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-03 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI领域的几位重要人物的动态和洞见，特别是关于AI在游戏开发中的应用和AI模型的未来发展。Replit CEO Amjad Masad 提出了业务发展的新方向，而Box CEO Aaron Levie 讨论了企业如何利用AI保持竞争优势。此外，Unsupervised Learning 播客探讨了DeepMind对超级智能的追求，为我们提供了对AI领域未来发展的深刻见解。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-03/</link>
+            <guid isPermaLink="false">2026-06-03</guid>
+            <pubDate>Wed, 03 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-03/digest.mp3" length="816480" type="audio/mpeg"/>
+            <itunes:title>2026-06-03 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI领域的几位重要人物的动态和洞见，特别是关于AI在游戏开发中的应用和AI模型的未来发展。Replit CEO Amjad Masad 提出了业务发展的新方向，而Box CEO Aaron Levie 讨论了企业如何利用AI保持竞争优势。此外，Unsupervised Learning 播客探讨了DeepMind对超级智能的追求，为我们提供了对AI领域未来发展的深刻见解。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-02 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在企业中的应用难题、AI模型的持续学习、以及AI在游戏和物理世界中的应用前景。OpenAI的Yann Dubois在播客中讨论了AI模型的可靠性和实用性，而多位AI领域的意见领袖在Twitter上分享了他们对于AI技术发展和应用的见解。特别是，游戏策划应关注AI在游戏开发中的应用，以及AI模型如何通过持续学习变得更加智能。]]></description>
