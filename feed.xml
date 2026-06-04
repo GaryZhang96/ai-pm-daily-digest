@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 06:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 06:15:35 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 06:23:18 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 06:15:35 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-04 AI 简报]]></title>
+            <description><![CDATA[今日焦点包括AI在市场研究和客户反馈方面的应用，特别是Listen Labs的Alfred Wahlforss分享了如何通过AI平台进行大规模语音访谈以获得深入洞察。同时，游戏策划应关注AI在游戏开发中的应用，如Replit与微软合作推进企业级应用开发，以及AI技能在游戏开发中的潜力。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-04/</link>
+            <guid isPermaLink="false">2026-06-04</guid>
+            <pubDate>Thu, 04 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-04/digest.mp3" length="806832" type="audio/mpeg"/>
+            <itunes:title>2026-06-04 AI 简报</itunes:title>
+            <itunes:summary>今日焦点包括AI在市场研究和客户反馈方面的应用，特别是Listen Labs的Alfred Wahlforss分享了如何通过AI平台进行大规模语音访谈以获得深入洞察。同时，游戏策划应关注AI在游戏开发中的应用，如Replit与微软合作推进企业级应用开发，以及AI技能在游戏开发中的潜力。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-03 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI领域的几位重要人物的动态和洞见，特别是关于AI在游戏开发中的应用和AI模型的未来发展。Replit CEO Amjad Masad 提出了业务发展的新方向，而Box CEO Aaron Levie 讨论了企业如何利用AI保持竞争优势。此外，Unsupervised Learning 播客探讨了DeepMind对超级智能的追求，为我们提供了对AI领域未来发展的深刻见解。]]></description>
