@@ -1,0 +1,26 @@
+# AI 简报 2026-06-04
+
+## 今日要点
+今日焦点包括AI在市场研究和客户反馈方面的应用，特别是Listen Labs的Alfred Wahlforss分享了如何通过AI平台进行大规模语音访谈以获得深入洞察。同时，游戏策划应关注AI在游戏开发中的应用，如Replit与微软合作推进企业级应用开发，以及AI技能在游戏开发中的潜力。
+
+## 1. 底层更新
+### Anthropic Engineering
+无新内容。
+
+### OpenAI News
+无新内容。
+
+### Claude Blog
+- **The Problem Solvers Series**: [The Problem Solvers](https://youtube.com/watch?v=Rumft-rsEu4) 系列展示了创始人如何使用Claude解决难题。Alfred Wahlforss，Listen Labs的创始人兼CEO，讨论了如何利用AI进行大规模语音访谈，为市场研究带来变革。他认为，通过与客户的直接对话，AI能够比企业自身更深入地理解客户，通过创建访谈指南，进行数百次访谈，并分析数据提供建议。Wahlforss强调了模拟的重要性，即在进行成千上万次访谈后，预测客户未来对问题的回答。这对于游戏策划来说，意味着可以更精准地测试和优化游戏体验。
+
+## 2. AI 产品
+### Replit
+- **Replit与微软合作**: [Amjad Masad](https://x.com/amasad/status/2061893093696434578) 宣布Replit与微软合作，使企业能够构建和部署安全的数据应用。这一合作基于微软新的Rayfin SDK，为Replit在企业级应用开发中提供了更多可能性。
+
+## 3. 文生图 / 视频 / 3D
+无新内容。
+
+## 4. AI 与游戏
+- **AI技能在游戏开发中的潜力**: [Peter Yang](https://x.com/petergyang/status/2061846283263103274) 分析了AI技能如何影响SaaS产品，特别是对于游戏策划而言，AI技能能够以更灵活和个性化的方式解决问题，这对于游戏开发具有重要意义。他认为，AI原生代理如Codex或Claude Code，拥有用户个人上下文和记忆，能更有效地解决用户问题，这对游戏策划和开发流程是一大利好。
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
