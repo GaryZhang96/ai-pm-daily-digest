@@ -1,0 +1,30 @@
+AI 简报 2026-06-05
+
+ 今日要点
+今日焦点包括微软CEO Satya Nadella在"No Priors"播客中讨论AI技术对社会的影响，Anthropic工程师团队分享如何通过Claude自动化商业分析查询，以及游戏策划特别关注的Cursor游戏Jam的最新招聘信息。这些内容涵盖了AI在不同领域的应用，特别是在游戏开发中的潜力。
+
+ 1. 底层更新
+ Anthropic Engineering: How we contain Claude across products
+在这篇文章中，Anthropic的工程师团队分享了他们如何确保Claude在不同产品中的安全性和可靠性。文章讨论了限制自主代理能力的不同模式，包括使用沙箱、虚拟机和出站控制等技术。特别提到了Claude Code自动模式的引入，旨在减少用户因频繁的权限提示而产生的疲劳。文章还强调了在模型层面、运行环境和外部内容访问方面进行防御的重要性。
+阅读更多
+
+ 2. AI 产品
+ Google Labs: Dreambeans
+Google Labs推出了一个新的实验性移动应用Dreambeans，该应用使用个人智能连接到用户的Google应用。每天提供个性化故事集合，帮助用户深入了解他们最关心的主题。
+了解更多
+
+ 3. 文生图 / 视频 / 3D
+No notable posts.
+
+ 4. AI 与游戏
+ Cursor游戏Jam: 招聘设计工程师
+Cursor正在招聘设计工程师，寻找具有品味、系统思维以及对快速、精致体验深度关怀的人，特别是那些对构建帮助设计师、工程师和代理交付高质量代码工具感到兴奋的人。
+了解更多
+
+ 播客
+ No Priors: The Rise of the Full-Stack Builder and Hyper-Leveraged Generalist with Microsoft CEO Satya Nadella
+The Takeaway: 微软CEO Satya Nadella在No Priors播客中强调了技术公司在建立公众信任方面的责任，以及AI技术如何推动经济增长和社会进步。
+Satya Nadella讨论了技术公司在社会中的作用，特别是在公众对技术的信任问题上。他强调了技术公司需要提供实实在在的好处，而不仅仅是承诺一个辉煌的未来。Nadella还提到了AI技术如何改变工作方式，使得以前不可能的事情变得可能，特别是在Azure网络管理上的创新。
+观看视频
+
+Generated through the Follow Builders skill:
