@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 05:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 06:14:58 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Jun 2026 05:58:40 GMT</pubDate>
+        <pubDate>Mon, 08 Jun 2026 06:14:58 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-08 AI 简报]]></title>
+            <description><![CDATA[今日焦点涵盖了AI领域内的最新动态，包括AI研究进展、AI在游戏和编程中的应用，以及AI模型的未来发展。特别关注了AI模型的泛化能力、AI在代码生成领域的竞争态势，以及AI模型与人类学习过程的差异。同时，探讨了AI模型在多模态领域的挑战和机遇。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-08/</link>
+            <guid isPermaLink="false">2026-06-08</guid>
+            <pubDate>Mon, 08 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-08/digest.mp3" length="726192" type="audio/mpeg"/>
+            <itunes:title>2026-06-08 AI 简报</itunes:title>
+            <itunes:summary>今日焦点涵盖了AI领域内的最新动态，包括AI研究进展、AI在游戏和编程中的应用，以及AI模型的未来发展。特别关注了AI模型的泛化能力、AI在代码生成领域的竞争态势，以及AI模型与人类学习过程的差异。同时，探讨了AI模型在多模态领域的挑战和机遇。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-07 AI 简报]]></title>
             <description><![CDATA[今日要点集中在AI在SaaS工具和游戏开发中的应用，特别是Figma集成AI代理的讨论，以及AI辅助编程技能的培养。同时，探讨了AI在提高工作效率和促进创新方面的潜力。对于游戏策划而言，AI的应用前景广阔，特别是在界面设计和用户体验方面。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-10/digest.mp3" length="812304" type="audio/mpeg"/>
             <itunes:title>2026-05-10 AI 简报</itunes:title>
             <itunes:summary>今日简报聚焦于AI在企业资源分配、游戏化应用、AI代理的最新进展。Anthropic团队讨论了AI平台的未来，强调了AI代理的可扩展性和自适应性。同时，业界人士分享了AI在提高个人和团队生产力方面的潜力，以及AI技术在游戏化应用中的创新。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-09 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI安全和治理，特别是OpenAI董事会成员Zico Kolter在播客中深入讨论了AI模型的安全性和未来发展。同时，Replit CEO Amjad Masad分享了关于AI在编程教育中的应用，而游戏策划关注的AI在游戏开发中的潜力也得到了体现，如Cursor的从概念到合并的全过程演示。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-09/</link>
-            <guid isPermaLink="false">2026-05-09</guid>
-            <pubDate>Sat, 09 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-09/digest.mp3" length="685296" type="audio/mpeg"/>
-            <itunes:title>2026-05-09 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI安全和治理，特别是OpenAI董事会成员Zico Kolter在播客中深入讨论了AI模型的安全性和未来发展。同时，Replit CEO Amjad Masad分享了关于AI在编程教育中的应用，而游戏策划关注的AI在游戏开发中的潜力也得到了体现，如Cursor的从概念到合并的全过程演示。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
