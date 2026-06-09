@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 06:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 05:40:51 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jun 2026 06:14:58 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 05:40:51 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-09 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在企业级应用的进展和挑战，特别是Box CEO Aaron Levie对AI模型成本和企业部署的深入分析。同时，Anthropic推出Claude Managed Agents的新功能，增强了AI代理的自我改进和复杂任务处理能力。此外，业界对AI工具使用的教育和培训需求日益增长，这可能成为行业发展的新瓶颈。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-09/</link>
+            <guid isPermaLink="false">2026-06-09</guid>
+            <pubDate>Tue, 09 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-09/digest.mp3" length="1109232" type="audio/mpeg"/>
+            <itunes:title>2026-06-09 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在企业级应用的进展和挑战，特别是Box CEO Aaron Levie对AI模型成本和企业部署的深入分析。同时，Anthropic推出Claude Managed Agents的新功能，增强了AI代理的自我改进和复杂任务处理能力。此外，业界对AI工具使用的教育和培训需求日益增长，这可能成为行业发展的新瓶颈。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-08 AI 简报]]></title>
             <description><![CDATA[今日焦点涵盖了AI领域内的最新动态，包括AI研究进展、AI在游戏和编程中的应用，以及AI模型的未来发展。特别关注了AI模型的泛化能力、AI在代码生成领域的竞争态势，以及AI模型与人类学习过程的差异。同时，探讨了AI模型在多模态领域的挑战和机遇。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-11/digest.mp3" length="891648" type="audio/mpeg"/>
             <itunes:title>2026-05-11 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在游戏和交互体验中的应用，以及AI技术的更新和产品发布。Anthropic针对Claude Code的质量进行了更新，修复了影响用户体验的几个问题。同时，Claude Blog宣布了新的连接器，扩展了AI在日常工具中的应用。ElevenLabs的Mati Staniszewski在播客中讨论了语音界面的未来，强调了情感智能在交互体验中的重要性。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-10 AI 简报]]></title>
-            <description><![CDATA[今日简报聚焦于AI在企业资源分配、游戏化应用、AI代理的最新进展。Anthropic团队讨论了AI平台的未来，强调了AI代理的可扩展性和自适应性。同时，业界人士分享了AI在提高个人和团队生产力方面的潜力，以及AI技术在游戏化应用中的创新。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-10/</link>
-            <guid isPermaLink="false">2026-05-10</guid>
-            <pubDate>Sun, 10 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-10/digest.mp3" length="812304" type="audio/mpeg"/>
-            <itunes:title>2026-05-10 AI 简报</itunes:title>
-            <itunes:summary>今日简报聚焦于AI在企业资源分配、游戏化应用、AI代理的最新进展。Anthropic团队讨论了AI平台的未来，强调了AI代理的可扩展性和自适应性。同时，业界人士分享了AI在提高个人和团队生产力方面的潜力，以及AI技术在游戏化应用中的创新。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
