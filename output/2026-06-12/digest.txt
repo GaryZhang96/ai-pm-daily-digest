@@ -1,0 +1,20 @@
+AI 简报 2026-06-12
+
+ 今日要点
+今日焦点集中在AI模型Fable的实际应用和效能提升，特别是其在编程任务中的表现。Anthropic的Mike Krieger在播客中分享了Fable如何改变工作流程和提升效率。同时，游戏策划应关注Fable在游戏开发中的潜力，以及AI如何在不同领域中推动创新和生产力。
+
+ 1. 底层更新
+ Anthropic Engineering
+Fable模型的实际应用与效能提升：Mike Krieger在播客中讨论了Anthropic的Fable模型如何超越首日使用体验，深入到日常工作流程中。他强调了Fable在复杂任务处理、工作流程适应性以及与人类协作方面的能力，展现了Fable在提升工作效率和改变工作方式上的潜力。
+
+ 2. AI 产品
+ Claude
+Claude平台更新：Claude在Twitter上宣布，Claude平台现在支持预定部署和在vaults中的环境变量管理。这表明Claude平台的功能正在不断扩展，为开发者提供更多便利。
+
+ 3. 文生图 / 视频 / 3D
+Fable在视频编辑中的应用：Thariq通过Twitter分享了他如何使用Fable编辑自己的启动视频，无需触碰视频编辑软件，展示了Fable在媒体处理领域的应用潜力。
+
+ 4. AI 与游戏
+Fable在游戏开发中的潜力：虽然今日的更新中没有直接提及Fable在游戏开发中的应用，但考虑到Fable在复杂任务处理上的能力，游戏策划可以探索其在游戏设计、测试和内容生成等方面的应用，以提升开发效率和创新游戏体验。
+
+Generated through the Follow Builders skill:
