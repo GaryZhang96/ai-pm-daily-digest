@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 06:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 05:53:25 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 06:09:07 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 05:53:25 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-13 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是AI模型在游戏设计和开发中的潜力。Anthropic分享了关于如何安全部署AI代理的深入分析，强调了模型能力与风险控制的平衡。同时，业界专家对AI在游戏开发中的应用前景表达了乐观态度，认为AI将使游戏开发更加快速和高效。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-13/</link>
+            <guid isPermaLink="false">2026-06-13</guid>
+            <pubDate>Sat, 13 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-13/digest.mp3" length="1002816" type="audio/mpeg"/>
+            <itunes:title>2026-06-13 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是AI模型在游戏设计和开发中的潜力。Anthropic分享了关于如何安全部署AI代理的深入分析，强调了模型能力与风险控制的平衡。同时，业界专家对AI在游戏开发中的应用前景表达了乐观态度，认为AI将使游戏开发更加快速和高效。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-12 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型Fable的实际应用和效能提升，特别是其在编程任务中的表现。Anthropic的Mike Krieger在播客中分享了Fable如何改变工作流程和提升效率。同时，游戏策划应关注Fable在游戏开发中的潜力，以及AI如何在不同领域中推动创新和生产力。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-15/digest.mp3" length="502416" type="audio/mpeg"/>
             <itunes:title>2026-05-15 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在音乐创作领域的应用，特别是Suno公司如何利用AI技术使音乐创作大众化。同时，Claude Managed Agents的新功能发布，增强了AI代理处理复杂任务的能力。此外，业界对AI引起的裁员潮和创业环境的变化进行了讨论。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-14 AI 简报]]></title>
-            <description><![CDATA[今日焦点是自动驾驶领域的最新进展，Waymo的Dmitri Dolgov在“Training Data”播客中分享了Waymo的发展历程和未来展望，强调了安全和全自动驾驶的重要性。同时，Anthropic Engineering博客介绍了Claude Code的新“Auto mode”，旨在提高代码执行的安全性。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-14/</link>
-            <guid isPermaLink="false">2026-05-14</guid>
-            <pubDate>Thu, 14 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-14/digest.mp3" length="746352" type="audio/mpeg"/>
-            <itunes:title>2026-05-14 AI 简报</itunes:title>
-            <itunes:summary>今日焦点是自动驾驶领域的最新进展，Waymo的Dmitri Dolgov在“Training Data”播客中分享了Waymo的发展历程和未来展望，强调了安全和全自动驾驶的重要性。同时，Anthropic Engineering博客介绍了Claude Code的新“Auto mode”，旨在提高代码执行的安全性。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
