@@ -1,0 +1,20 @@
+AI 简报 2026-06-14
+
+ 今日要点
+今日焦点集中在AI模型的监管问题、底层模型更新、AI产品动态以及AI在游戏领域的应用。Anthropic发布关于Claude Code质量的最新报告，解释了近期用户反馈的问题并提出解决方案。同时，AI领域专家对API业务的未来、AI模型的演进以及AI在游戏开发中的应用进行了深入讨论。
+
+ 1. 底层更新
+ Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic团队针对近期用户反馈Claude响应质量下降的问题进行了调查，发现问题源自三个独立变更：Claude Code、Claude Agent SDK和Claude Cowork。团队已在4月20日的更新中修复这些问题，并计划采取措施防止类似问题再次发生。此次更新涉及推理努力程度的调整、会话缓存优化以及系统提示变更，影响了不同版本的模型。Anthropic强调，他们从不故意降低模型质量，并感谢用户反馈帮助识别和解决问题。阅读更多
+
+ 2. AI产品
+ Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+Claude Managed Agents现支持在由用户控制的沙箱中运行，并连接到私有的MCP服务器。这意味着代理执行工具和服务都在企业的边界内运行，受到企业的安全和运行时控制。沙箱可以在用户自己的基础设施上运行，或由Cloudflare、Daytona、Modal或Vercel等管理提供商处理计算和隔离。阅读更多
+
+ 3. 文生图 / 视频 / 3D
+ Unsupervised Learning: AI Vibe Check: Lab Wars, Why APIs Might Vanish & Future Predictions
+本期节目讨论了AI领域当前的热点话题，包括Fable模型的发布、模型能力、RSI的进展以及实验室可能放弃API业务的趋势。嘉宾包括Datalogy的Ari和Radical的Rob，他们分享了对AI世界变化的看法，包括编码代理在更长的时间范围内工作的能力，以及工程师从ICs转向代理管理者的转变。观看视频
+
+ 4. AI与游戏
+ Garry Tan (Y Combinator CEO): Everyone thinks AI coding tools set founders free.
+Garry Tan在推特上分享了对AI编程工具的看法，他认为这些工具实际上加速了规则、审批、流程和层级等官僚体制的构建。他建议，应该构建能够让你创造新事物的工具，即那些之前未曾发生过的体验。推特链接
