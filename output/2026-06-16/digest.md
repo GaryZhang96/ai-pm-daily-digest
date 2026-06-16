@@ -1,0 +1,26 @@
+# AI 简报 2026-06-16
+
+## 今日要点
+今日焦点集中在AI在企业中的应用前景、AI模型的未来发展以及AI如何改变工作方式。NVIDIA CEO Jensen Huang在播客中分享了AI革命如何成为人类历史上最大的基础设施建设，以及AI如何从简单的文本生成进化到控制工具和机械系统。同时，多位AI领域专家在Twitter上讨论了AI在编程、工作流程以及企业学习循环中的潜力和影响。
+
+## 1. 底层更新
+### Training Data: LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age
+NVIDIA的CEO Jensen Huang在播客中讨论了AI革命如何成为人类历史上最大的基础设施建设，他将这一变革与工业革命相提并论，并强调了AI工厂在其中的核心作用。Huang解释了AI如何从简单的文本生成（generative AI）进化到能够控制工具和机械系统的能力，预示着AI将如何影响未来的工作和行业。他还讨论了AI如何从理解信息转变为生成控制命令，以及这对各行各业的深远影响。
+[观看播客](https://www.youtube.com/watch?v=2UpQbeAZuqA)
+
+## 2. AI 产品
+### Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+Thibault Sottiaux提到Codex能够根据用户的意图设定自己的目标，这是元提示（meta prompting）的一般化，允许代理根据自己的任务设定来执行任务。
+[推文链接](https://x.com/thsottiaux/status/2066270561081454989)
+
+## 3. 文生图 / 视频 / 3D
+### Guillermo Rauch (Vercel CEO)
+Guillermo Rauch分享了一个链接，显示一个技能分享平台的技巧数量已经超过了700,000，强调了这种增长完全是有机的和社区驱动的，展示了OpenAI生态系统的力量。
+[推文链接](https://x.com/rauchg/status/2066299732277031042)
+
+## 4. AI 与游戏
+### Nan Yu (head of product @linear)
+Nan Yu提出了一个有趣的观点，即现在每个人都在与机器人配对编程，这暗示了AI在编程和软件开发中的日益增长的作用。
+[推文链接](https://x.com/thenanyu/status/2066190061419282602)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
