@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 06:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 06:34:16 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 06:57:07 GMT</pubDate>
+        <pubDate>Wed, 17 Jun 2026 06:34:16 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-17 AI 简报]]></title>
+            <description><![CDATA[今日简报聚焦于AI在科学发现、游戏应用和产品创新的最新动态。OpenAI研究员Dan Roberts在播客中讨论了AI在自主科学发现中的作用，特别是强化学习在推动科学进步中的重要性。同时，AI产品领域也活跃，Replit的CEO Amjad Masad分享了其特定领域代理工具的进展，而Google的Josh Woodward则宣布了语音识别功能的更新，这对非英语使用者尤为重要。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-17/</link>
+            <guid isPermaLink="false">2026-06-17</guid>
+            <pubDate>Wed, 17 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-17/digest.mp3" length="1223280" type="audio/mpeg"/>
+            <itunes:title>2026-06-17 AI 简报</itunes:title>
+            <itunes:summary>今日简报聚焦于AI在科学发现、游戏应用和产品创新的最新动态。OpenAI研究员Dan Roberts在播客中讨论了AI在自主科学发现中的作用，特别是强化学习在推动科学进步中的重要性。同时，AI产品领域也活跃，Replit的CEO Amjad Masad分享了其特定领域代理工具的进展，而Google的Josh Woodward则宣布了语音识别功能的更新，这对非英语使用者尤为重要。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-16 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在企业中的应用前景、AI模型的未来发展以及AI如何改变工作方式。NVIDIA CEO Jensen Huang在播客中分享了AI革命如何成为人类历史上最大的基础设施建设，以及AI如何从简单的文本生成进化到控制工具和机械系统。同时，多位AI领域专家在Twitter上讨论了AI在编程、工作流程以及企业学习循环中的潜力和影响。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-18/digest.mp3" length="862272" type="audio/mpeg"/>
             <itunes:title>2026-05-18 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI供应链安全和国际合作上，特别是美国国务院经济事务副国务卿Jacob Helberg讨论的Pax Silica计划，旨在确保美国及其盟友的AI供应链安全。同时，AI社区中对个人职业发展和心理健康的讨论也值得关注，特别是Peter Yang关于工作与生活平衡的见解获得了广泛共鸣。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-17 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI领域的最新进展，特别是Yann LeCun在《Unsupervised Learning》播客中分享的洞见，他对大型语言模型（LLM）的局限性和未来AI的发展方向提出了鲜明观点。同时，业界对AI在游戏和编程中的应用表现出极大兴趣，讨论了AI如何改变这些领域的未来。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-17/</link>
-            <guid isPermaLink="false">2026-05-17</guid>
-            <pubDate>Sun, 17 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-17/digest.mp3" length="618336" type="audio/mpeg"/>
-            <itunes:title>2026-05-17 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI领域的最新进展，特别是Yann LeCun在《Unsupervised Learning》播客中分享的洞见，他对大型语言模型（LLM）的局限性和未来AI的发展方向提出了鲜明观点。同时，业界对AI在游戏和编程中的应用表现出极大兴趣，讨论了AI如何改变这些领域的未来。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
