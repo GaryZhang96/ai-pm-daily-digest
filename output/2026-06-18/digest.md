@@ -1,0 +1,34 @@
+# AI 简报 2026-06-18
+
+## 今日要点
+今日焦点在于AI在模拟人类行为和社会方面的应用。Simile公司通过Smallville项目展示了AI如何模拟复杂社会行为，而Google扩大了其AI基金到巴西，支持深度科技公司。此外，Replit和Vercel等公司展示了其在AI领域的最新进展。
+
+## 1. 底层更新
+### Claude Blog: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+Claude现在支持Apple的Foundation Models框架，允许开发者在Swift中使用Claude进行复杂工作流程。这个框架使得开发者能够轻松地从Swift中访问模型，并返回类型化的Swift值。开发者现在可以使用Apple的框架在需要多步推理、代码生成时切换到Claude，Claude还能搜索网络并执行代码进行数据分析。这项更新将在iOS 27、iPadOS 27、macOS 27和watch OS 27上通过Apple的Foundation Models框架提供。
+[阅读更多](https://claude.com/blog/claude-for-foundation-models)
+
+## 2. AI 产品
+### Josh Woodward (VP, Google): World-changing AI companies are coming from Brazil
+Google将AI Futures Fund扩展到巴西，并与Monashees合作推出Gama Fund，旨在寻找深度科技创始人，并提供早期访问Google DeepMind模型、高达200万美元的共同投资、35万美元的Google Cloud & Gemini积分以及与Google工程师直接合作的机会。
+[了解更多](https://x.com/joshwoodward/status/2067025851829330076)
+
+## 3. 文生图 / 视频 / 3D
+### Podcast: Training Data - Simulating Humans at Scale: Simile's Joon Sung Park
+Joon Sung Park讨论了Simile如何通过Smallville项目模拟人类行为和社会。Smallville是一个由25个代理居住的虚拟小镇，代理们有日常工作、社交关系，并能产生像派对这样的自发现象。这个项目展示了AI在模拟复杂社会行为方面的潜力，对于理解人类行为和社会动态提供了新的视角。
+[观看视频](https://www.youtube.com/watch?v=lfhFmwcESRw)
+
+## 4. AI 与游戏
+### Thariq (Claude Code @anthropicai): Slack now renders HTML attachments instead of just showing it as text
+Slack现在可以渲染HTML附件，而不只是显示为文本，这对于提高工作效率和沟通的丰富性是一个好消息。
+[了解更多](https://x.com/trq212/status/2067021344341098670)
+
+### Madhu Guru (Prev: Product Leader at Google): The real prize in the SpaceX-Cursor deal is the agentic harness
+SpaceX与Cursor的交易中，真正的奖品是能够自动化所有知识工作的代理工具。这包括生产级的代理工具、对完整AI栈的专业知识以及端到端的产品生命周期关注。
+[了解更多](https://x.com/realmadhuguru/status/2066935654500671499)
+
+### Ryo Lu (Design @Cursor_ai): the crazy thing about Cursor mobile is @rikcreation coded most of the real thing with Cursor, as a “designer”
+Cursor的移动版本中，大部分真实功能是由设计师使用Cursor编码的，这表明头衔并不重要，关键在于你能否构建出成果。
+[了解更多](https://x.com/ryolu_/status/2067124871226929526)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
