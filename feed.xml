@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 06:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 05:50:48 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 06:37:15 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 05:50:48 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-20 AI 简报]]></title>
+            <description><![CDATA[今日焦点在于AI在云计算和游戏策划中的应用。Lambda的CTO Stephen Balaban在播客中深入讨论了AI计算的未来，特别是GPU在AI中的重要性和市场对AI算力的持续需求。同时，Claude Code的新功能Artifacts引起广泛关注，它允许用户创建交互式页面以共享工作进度，这对于游戏策划和开发团队协作具有重要意义。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-20/</link>
+            <guid isPermaLink="false">2026-06-20</guid>
+            <pubDate>Sat, 20 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-20/digest.mp3" length="958176" type="audio/mpeg"/>
+            <itunes:title>2026-06-20 AI 简报</itunes:title>
+            <itunes:summary>今日焦点在于AI在云计算和游戏策划中的应用。Lambda的CTO Stephen Balaban在播客中深入讨论了AI计算的未来，特别是GPU在AI中的重要性和市场对AI算力的持续需求。同时，Claude Code的新功能Artifacts引起广泛关注，它允许用户创建交互式页面以共享工作进度，这对于游戏策划和开发团队协作具有重要意义。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-19 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，以及底层模型的更新。Replit CEO Amjad Masad分享了与Spike Jones的采访，讨论了AI在游戏设计中的应用。Thibault Sottiaux宣布了Codex的双重重置，并强调了Codex App的开源模型兼容性。此外，GitHub COO讨论了AI在开发者工作流程中的影响，以及AI对企业工作流程的复杂性。这些内容对于游戏策划来说，提供了AI技术在游戏领域应用的前沿视角。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-21/digest.mp3" length="808272" type="audio/mpeg"/>
             <itunes:title>2026-05-21 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在企业服务管理领域的应用，特别是Serval公司如何利用AI重构IT服务。同时，Anthropic公司分享了他们在管理AI代理方面的进展，而Google Labs则推出了Project Genie的更新，增强了AI在游戏开发中的应用。此外，AI界对Andrej Karpathy加入Anthropic的消息反响热烈，预示着LLMs领域将迎来重要发展。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-20 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI平台的发展和游戏化应用。Anthropic团队讨论了Claude平台的未来方向，强调了自主性和可扩展性。同时，AI在游戏策划中的应用也引人注目，Cursor的Composer 2.5版本发布，预示着更智能的游戏体验。此外，Claude平台更新了其代码质量和日常生活连接器，扩展了AI在工作和日常生活中的应用范围。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-20/</link>
-            <guid isPermaLink="false">2026-05-20</guid>
-            <pubDate>Wed, 20 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-20/digest.mp3" length="940608" type="audio/mpeg"/>
-            <itunes:title>2026-05-20 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI平台的发展和游戏化应用。Anthropic团队讨论了Claude平台的未来方向，强调了自主性和可扩展性。同时，AI在游戏策划中的应用也引人注目，Cursor的Composer 2.5版本发布，预示着更智能的游戏体验。此外，Claude平台更新了其代码质量和日常生活连接器，扩展了AI在工作和日常生活中的应用范围。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
