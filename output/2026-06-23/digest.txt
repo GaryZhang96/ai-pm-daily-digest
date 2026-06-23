@@ -1,0 +1,52 @@
+AI 简报 2026-06-23
+
+ 今日要点
+今日焦点集中在AI在游戏开发中的应用，特别是Google DeepMind的Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏。同时，开发者们在探索AI在视频制作和3D建模方面的潜力，以及AI产品在提升软件开发效率方面的重要作用。
+
+ 1. 底层更新
+ Anthropic Engineering
+No notable posts.
+
+ OpenAI News
+No notable posts.
+
+ Claude Blog
+No notable posts.
+
+ 2. AI 产品
+ Swyx
+Swyx分享了他在为新媒体实验室寻找保险商时的发现，特别是Corgi保险公司的NPS（客户满意度）极高，这在保险行业中极为罕见。链接
+
+ Thibault Sottiaux
+Thibault Sottiaux讨论了Codex中银行使用重置的功能，并询问大家对此的看法。链接
+
+ Peter Yang
+Peter Yang推荐了一个名为Ferryman.io的工具，可以让用户从最喜欢的社交平台发帖，并一键同步到7个以上的平台。链接
+
+ Nan Yu
+Nan Yu强调了对质量的非理性承诺，认为从头到尾控制事物将比使用通用框架产生更好的结果。链接
+
+ Guillermo Rauch
+Guillermo Rauch分享了他们团队在性能优化方面的成果，并提到将分享所学到的经验。链接
+
+ Aaron Levie
+Aaron Levie讨论了Sakana发布的新模型Fugu，它通过混合模型自动管理模型选择、任务分配等，为开发者提供了一个单一API。链接
+
+ Ryo Lu
+Ryo Lu展示了他在Cursor移动应用中创建的“Books”功能，它可以与ryOS账户同步进度，并支持任何epub格式。链接
+
+ 3. 文生图 / 视频 / 3D
+ Logan Kilpatrick
+Google DeepMind的Logan Kilpatrick在播客中讨论了AI在视频编辑和3D建模中的应用，强调了模型对世界理解的重要性，并提到了Omni模型的能力。链接
+
+ Peter Yang
+Peter Yang分享了为什么HTML成为了AI视频制作的基础，强调了LLM通过HTML、CSS和JavaScript表达视觉美学的能力。链接
+
+ 4. AI 与游戏
+ Logan Kilpatrick
+Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏，并讨论了AI在游戏开发中的潜力。链接
+
+ Garry Tan
+Garry Tan分享了他创建GBrain并开源的原因，强调了在2026年AGI时代，拥有个人和公司大脑的重要性。链接
+
+Generated through the Follow Builders skill:
