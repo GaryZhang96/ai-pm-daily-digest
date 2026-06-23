@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 06:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 05:37:54 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 06:54:57 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 05:37:54 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-23 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Google DeepMind的Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏。同时，开发者们在探索AI在视频制作和3D建模方面的潜力，以及AI产品在提升软件开发效率方面的重要作用。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-23/</link>
+            <guid isPermaLink="false">2026-06-23</guid>
+            <pubDate>Tue, 23 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-23/digest.mp3" length="1118736" type="audio/mpeg"/>
+            <itunes:title>2026-06-23 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Google DeepMind的Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏。同时，开发者们在探索AI在视频制作和3D建模方面的潜力，以及AI产品在提升软件开发效率方面的重要作用。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-22 AI 简报]]></title>
             <description><![CDATA[今日焦点在于AI在游戏开发中的应用，特别是Anthropic Engineering博客更新中提到的AI与游戏相关的技术进展。同时，Unsupervised Learning播客讨论了AI领域最新动态，包括API业务的潜在消失和对未来的预测，这对游戏策划来说具有启发性。此外，开发者社区中对AI在编程和产品管理中应用的讨论也在升温，这可能对游戏行业的开发流程产生影响。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-24/digest.mp3" length="1052496" type="audio/mpeg"/>
             <itunes:title>2026-05-24 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI模型的持续进步和应用扩展。Google Labs展示了其在I/O大会上发布的最新AI工具；Anthropic的Claude Managed Agents新增了梦境、结果和多代理编排功能；而业界专家讨论了AI在游戏、创业和工程实践中的应用和影响。特别值得注意的是，AI在游戏创造和代理技术中的应用，为游戏策划提供了新的工具和思路。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-23 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI模型的可靠性和安全性提升，特别是OpenAI的Yann Dubois在播客中讨论了AI进步的连续性以及如何通过强化学习提升模型的实用性。同时，Anthropic Engineering博客介绍了Claude Code的自动模式，旨在提供更安全的权限跳过方案。此外，游戏策划应关注Cursor的Ryo Lu分享的新模型和界面，这些可能对游戏开发有直接影响。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-23/</link>
-            <guid isPermaLink="false">2026-05-23</guid>
-            <pubDate>Sat, 23 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-23/digest.mp3" length="906768" type="audio/mpeg"/>
-            <itunes:title>2026-05-23 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI模型的可靠性和安全性提升，特别是OpenAI的Yann Dubois在播客中讨论了AI进步的连续性以及如何通过强化学习提升模型的实用性。同时，Anthropic Engineering博客介绍了Claude Code的自动模式，旨在提供更安全的权限跳过方案。此外，游戏策划应关注Cursor的Ryo Lu分享的新模型和界面，这些可能对游戏开发有直接影响。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
