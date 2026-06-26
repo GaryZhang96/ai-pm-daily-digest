@@ -1,0 +1,33 @@
+# AI 简报 2026-06-26
+
+## 今日要点
+今日简报聚焦于AI在游戏和工作流程中的应用，特别是AI生成图像的进展和AI作为代理在软件工程中的潜力。讨论了AI在创意写作中的挑战，以及AI如何影响人类的工作和目标设定。同时，探讨了AI在数据和环境训练中的作用，以及AI模型优化的目标和挑战。
+
+## 1. 底层更新
+### Anthropic Engineering
+No new posts.
+
+## 2. AI 产品
+### Google Labs (GoogleLabs)
+Google Labs 宣布 Project Genie 在戛纳狮子国际创意节上获得AI工艺大奖。这是对Google Labs社区的一次巨大认可，展现了AI在创意和工艺领域的强大潜力。
+[Google Labs 推文](https://x.com/GoogleLabs/status/2069827839826809042)
+
+### Replit x TrinCapital
+Nikunj Kothari 兴奋地宣布将与 Replit 和 TrinCapital 一起在旧金山举办世界杯观赛派对。
+[Nikunj Kothari 推文](https://x.com/nikunj/status/2069925697741881633)
+
+## 3. 文生图 / 视频 / 3D
+### Peter Yang (petergyang)
+Peter Yang 分享了他对 Claude Design 的积极体验，他提供了一个移动应用的仓库，Claude Design 完美地再现了屏幕设计，尽管在一次提示后便提示他节省令牌。
+[Peter Yang 推文](https://x.com/petergyang/status/2069992268963135897)
+
+## 4. AI 与游戏
+### AI & I by Every
+《AI & I by Every》播客中，Dan Shipper 和 Edwin Chen 讨论了AI的未来，特别是AI是否能够取代人类的工作。Edwin Chen 认为AI的进步速度超出了大多数人的预期，可能在五年内就能实现。他们还讨论了AI在数学研究中的潜力，以及AI优化目标的挑战。Chen 担心如果AI能够完成所有工作，人们可能会停止尝试，而 Shipper 认为即使AI进步迅速，人类仍然有其独特的地位。
+[AI & I by Every 视频](https://www.youtube.com/watch?v=omX6wrLuX08)
+
+### Cursor (ryolu_)
+Ryo Lu 分享了在 Notion 中使用 Cursor 的体验，以及在 Cursor 中使用 Notion 的便捷性。
+[Ryo Lu 推文](https://x.com/ryolu_/status/2069830172354986418)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders

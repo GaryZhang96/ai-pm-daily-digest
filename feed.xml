@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 05:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 05:44:31 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 05:37:32 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 05:44:31 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-26 AI 简报]]></title>
+            <description><![CDATA[今日简报聚焦于AI在游戏和工作流程中的应用，特别是AI生成图像的进展和AI作为代理在软件工程中的潜力。讨论了AI在创意写作中的挑战，以及AI如何影响人类的工作和目标设定。同时，探讨了AI在数据和环境训练中的作用，以及AI模型优化的目标和挑战。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-26/</link>
+            <guid isPermaLink="false">2026-06-26</guid>
+            <pubDate>Fri, 26 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-26/digest.mp3" length="804384" type="audio/mpeg"/>
+            <itunes:title>2026-06-26 AI 简报</itunes:title>
+            <itunes:summary>今日简报聚焦于AI在游戏和工作流程中的应用，特别是AI生成图像的进展和AI作为代理在软件工程中的潜力。讨论了AI在创意写作中的挑战，以及AI如何影响人类的工作和目标设定。同时，探讨了AI在数据和环境训练中的作用，以及AI模型优化的目标和挑战。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-25 AI 简报]]></title>
             <description><![CDATA[今日焦点在于AI在生物学领域的应用，特别是Biohub通过开源项目推动科学进步的讨论。Anthropic的Claude Tag功能更新，允许更自然的与AI协作方式，引起行业关注。同时，AI在游戏和企业内容管理中的应用也是今日讨论热点。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-27/digest.mp3" length="891936" type="audio/mpeg"/>
             <itunes:title>2026-05-27 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在游戏开发中的应用，以及AI代理技术的最新进展。Peter Yang强调了Codex和Claude在设计和前端任务中的优势，而Garry Tan则分享了他对AI代理技术未来发展的乐观预期。同时，Daytona公司CEO Ivan Burazin在播客中深入讨论了AI代理的基础设施需求，特别是对沙箱技术的需求，这对游戏策划来说是一个值得关注的话题。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-26 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在实际应用中的挑战和进展。Peter Yang分享了如何利用AI代理提高初创企业效率，而Madhu Guru讨论了CEO们对AI的盲目热情和实际应用之间的差距。Thariq对Bun重写项目的代码“蒸馏”表示赞赏，而Guillermo Rauch强调了产品与品牌建设的关系。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam相关讨论。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-26/</link>
-            <guid isPermaLink="false">2026-05-26</guid>
-            <pubDate>Tue, 26 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-26/digest.mp3" length="1029312" type="audio/mpeg"/>
-            <itunes:title>2026-05-26 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在实际应用中的挑战和进展。Peter Yang分享了如何利用AI代理提高初创企业效率，而Madhu Guru讨论了CEO们对AI的盲目热情和实际应用之间的差距。Thariq对Bun重写项目的代码“蒸馏”表示赞赏，而Guillermo Rauch强调了产品与品牌建设的关系。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam相关讨论。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
