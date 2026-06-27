@@ -1,0 +1,31 @@
+AI 简报 2026-06-27
+
+ 今日要点
+今日焦点集中在AI在互联网流量、游戏开发和企业运营中的应用。Cloudflare CEO讨论了AI代理带来的网络流量激增和未来互联网商业模式的转变。同时，AI在游戏中的应用成为热点，Replit的更新和Cursor Game Jam的相关讨论显示了AI工具在游戏开发中的潜力。此外，AI产品如Grok Imagine Video在Vercel AI Gateway中占据重要地位，预示着AI在视频生成领域的崛起。
+
+ 1. 底层更新
+ Anthropic Engineering: Harness Design for Long-Running Apps
+Claude Blog发表了关于如何利用Claude和Apple的Foundation Models框架在苹果平台上构建智能应用的文章。这项更新使得开发者可以通过Swift包调用Claude，实现更复杂的工作流程。Apple的Foundation Models框架允许开发者从Swift原生访问模型，易于使用，并且可以通过引导生成在短短三行代码内返回类型化的Swift值。开发者现在可以使用Apple的Foundation Models框架在需要时切换到Claude，以处理多步骤推理、代码生成等任务。Claude还能够搜索网络以获取最新信息，并执行代码进行数据分析。阅读更多
+
+ 2. AI产品
+ Guillermo Rauch (Vercel CEO) on Next.js "Ways to fix this"
+Vercel的CEO Guillermo Rauch在推特上分享了Next.js的新功能“Ways to fix this”和“Copy prompt”按钮，称之为（代理）艺术的作品。这表明AI在编码和问题解决中的作用日益增强。查看推文
+
+ Guillermo Rauch on Coding Agents with Design Standards
+Guillermo Rauch还讨论了如何将设计标准融入编码代理，这可能对AI在产品开发中的应用产生深远影响。查看推文
+
+ Grok Imagine Video Leads in Vercel AI Gateway
+Guillermo Rauch宣布Grok Imagine Video已成为Vercel AI Gateway中生成视频的领导者，占开发者生成视频的约50%。这显示了AI在视频内容创作中的潜力。查看推文
+
+ 3. 文生图 / 视频 / 3D
+ The MAD Podcast with Matt Turck - Cloudflare CEO: Bot Takeover, Edge AI & The Hard Decision Every CEO Will Face
+Cloudflare的CEO在MAD Podcast中讨论了AI代理如何超过人类在线流量，并预测未来五年互联网的商业模式将发生根本变化。他还提到了Cloudflare如何适应AI时代，包括团队规模的调整。收听播客
+
+ 4. AI与游戏
+ Amjad Masad (Replit CEO) on Mobile App Updates
+Replit的CEO Amjad Masad宣布即将对移动应用进行重大更新，这可能包括AI工具在游戏中的应用。查看推文
+
+ Thariq on Claude Tag and AIE
+Thariq提到他将与Peter Yang讨论Claude Tag，并在AIE上与catwu深入探讨。这可能涉及AI在游戏中的应用和开发。查看推文
+
+Generated through the Follow Builders skill:
