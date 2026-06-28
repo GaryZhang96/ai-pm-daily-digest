@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jun 2026 05:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 05:51:25 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Jun 2026 05:10:20 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 05:51:25 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-28 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI模型的测试基准和实际应用之间的差异，以及AI在游戏和创新中的潜在影响。OpenAI研究科学家Noam Brown在播客中讨论了现代AI模型与传统基准测试的不匹配问题。同时，业界人士对AI模型的快速迭代和开源模型的影响进行了深入探讨，特别是对小型创业公司的潜在影响。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-28/</link>
+            <guid isPermaLink="false">2026-06-28</guid>
+            <pubDate>Sun, 28 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-28/digest.mp3" length="1145088" type="audio/mpeg"/>
+            <itunes:title>2026-06-28 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI模型的测试基准和实际应用之间的差异，以及AI在游戏和创新中的潜在影响。OpenAI研究科学家Noam Brown在播客中讨论了现代AI模型与传统基准测试的不匹配问题。同时，业界人士对AI模型的快速迭代和开源模型的影响进行了深入探讨，特别是对小型创业公司的潜在影响。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-27 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在互联网流量、游戏开发和企业运营中的应用。Cloudflare CEO讨论了AI代理带来的网络流量激增和未来互联网商业模式的转变。同时，AI在游戏中的应用成为热点，Replit的更新和Cursor Game Jam的相关讨论显示了AI工具在游戏开发中的潜力。此外，AI产品如Grok Imagine Video在Vercel AI Gateway中占据重要地位，预示着AI在视频生成领域的崛起。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-29/digest.mp3" length="1345536" type="audio/mpeg"/>
             <itunes:title>2026-05-29 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在游戏和工作流程中的应用。Anthropic Engineering分享了关于Claude Code质量的最新更新，强调了模型改进和用户体验的重要性。同时，Claude Managed Agents的新功能允许在受控沙箱中操作并连接到私有MCP服务器，提升了企业级应用的灵活性和安全性。此外，AI &amp; I by Every播客探讨了AI自动化对工作的影响，强调了专家在自动化时代的重要性。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-28 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Cursor公司开发的Composer AI模型在强化学习（RL）中的训练和应用。此外，探讨了AI基础设施的垂直发展，以及AI如何影响企业招聘和工程人才需求。Anthropic公司分享了如何通过不同产品限制Claude AI模型的风险，强调了环境层面的遏制设计和模型行为的引导。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-28/</link>
-            <guid isPermaLink="false">2026-05-28</guid>
-            <pubDate>Thu, 28 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-28/digest.mp3" length="903600" type="audio/mpeg"/>
-            <itunes:title>2026-05-28 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Cursor公司开发的Composer AI模型在强化学习（RL）中的训练和应用。此外，探讨了AI基础设施的垂直发展，以及AI如何影响企业招聘和工程人才需求。Anthropic公司分享了如何通过不同产品限制Claude AI模型的风险，强调了环境层面的遏制设计和模型行为的引导。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
