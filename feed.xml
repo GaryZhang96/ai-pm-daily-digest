@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 05:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 06:13:00 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 05:51:25 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 06:13:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-29 AI 简报]]></title>
+            <description><![CDATA[今日焦点在于AI模型的持续学习与记忆能力，特别是Engram公司在此领域的探索。同时，OpenAI的Codex功能更新引起关注，包括对长线程的流畅处理和用户界面的改进。此外，AI在游戏制作和团队协作中的应用也显现出新的可能性。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-29/</link>
+            <guid isPermaLink="false">2026-06-29</guid>
+            <pubDate>Mon, 29 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-29/digest.mp3" length="906192" type="audio/mpeg"/>
+            <itunes:title>2026-06-29 AI 简报</itunes:title>
+            <itunes:summary>今日焦点在于AI模型的持续学习与记忆能力，特别是Engram公司在此领域的探索。同时，OpenAI的Codex功能更新引起关注，包括对长线程的流畅处理和用户界面的改进。此外，AI在游戏制作和团队协作中的应用也显现出新的可能性。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-28 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型的测试基准和实际应用之间的差异，以及AI在游戏和创新中的潜在影响。OpenAI研究科学家Noam Brown在播客中讨论了现代AI模型与传统基准测试的不匹配问题。同时，业界人士对AI模型的快速迭代和开源模型的影响进行了深入探讨，特别是对小型创业公司的潜在影响。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-30/digest.mp3" length="913248" type="audio/mpeg"/>
             <itunes:title>2026-05-30 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-29 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏和工作流程中的应用。Anthropic Engineering分享了关于Claude Code质量的最新更新，强调了模型改进和用户体验的重要性。同时，Claude Managed Agents的新功能允许在受控沙箱中操作并连接到私有MCP服务器，提升了企业级应用的灵活性和安全性。此外，AI & I by Every播客探讨了AI自动化对工作的影响，强调了专家在自动化时代的重要性。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-29/</link>
-            <guid isPermaLink="false">2026-05-29</guid>
-            <pubDate>Fri, 29 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-29/digest.mp3" length="1345536" type="audio/mpeg"/>
-            <itunes:title>2026-05-29 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏和工作流程中的应用。Anthropic Engineering分享了关于Claude Code质量的最新更新，强调了模型改进和用户体验的重要性。同时，Claude Managed Agents的新功能允许在受控沙箱中操作并连接到私有MCP服务器，提升了企业级应用的灵活性和安全性。此外，AI &amp; I by Every播客探讨了AI自动化对工作的影响，强调了专家在自动化时代的重要性。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
