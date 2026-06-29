@@ -1,0 +1,32 @@
+AI 简报 2026-06-29
+
+ 今日要点
+今日焦点在于AI模型的持续学习与记忆能力，特别是Engram公司在此领域的探索。同时，OpenAI的Codex功能更新引起关注，包括对长线程的流畅处理和用户界面的改进。此外，AI在游戏制作和团队协作中的应用也显现出新的可能性。
+
+ 1. 底层更新
+ Claude Blog: Claude Code now supports artifacts
+Claude Code新增了artifacts功能，可以将工作进度捕获为可分享的可视化页面，包括PR浏览、系统解释、仪表板和发布清单等。这些页面会随着会话的进行而自动更新。基于会话的完整上下文构建artifacts，无需设置数据源或基础设施。每个artifact默认为私有，可在准备好后与团队分享。此功能目前处于beta阶段，适用于Claude Team和Enterprise组织。
+
+阅读更多
+
+ 2. AI 产品
+ Thibault Sottiaux (OpenAI): Codex功能更新
+Codex现在可以平滑处理超长线程。
+增加了可悬停的导航栏，方便预览和跳转对话。
+设置搜索覆盖更多控制项，界面更清晰，过滤选项更易用。
+缩放级别变化不再影响工具提示、对话框等的对齐。
+复制到Slack时保留Markdown格式；大文本粘贴不再冻结UI。
+最重要的是：增加了专门的宠物面板。
+
+查看更新
+
+ 3. 文生图 / 视频 / 3D
+ 无相关更新
+
+ 4. AI 与游戏
+ Podcast: Training Data - Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin
+Engram公司专注于记忆和持续学习，这两个是AI研究中最热门话题。Engram认为，AI模型的瓶颈不在于原始智能，而在于理解新的和不断变化的上下文。他们通过训练团队模型来深入理解工作空间中的上下文，并随着时间的推移而改进。技术层面上，他们使用多种工具（如LORAs或prefixes）进行适配器微调，并确定正确的数据，将原始文档或交互转化为模型的训练信号。Engram的目标是让模型像在公司工作多年的员工一样理解公司。
+
+收听播客
+
+Generated through the Follow Builders skill:
