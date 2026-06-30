@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 06:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 05:40:52 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 06:13:00 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 05:40:52 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-06-30 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是底层AI模型的更新和AI产品在游戏领域的应用。Anthropic Engineering博客分享了如何安全地在不同产品中部署Claude，而The MAD Podcast探讨了AI计算的未来和GPU的误区。这些内容对于游戏策划而言，提供了AI技术如何塑造游戏开发和体验的洞见。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-30/</link>
+            <guid isPermaLink="false">2026-06-30</guid>
+            <pubDate>Tue, 30 Jun 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-30/digest.mp3" length="819792" type="audio/mpeg"/>
+            <itunes:title>2026-06-30 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是底层AI模型的更新和AI产品在游戏领域的应用。Anthropic Engineering博客分享了如何安全地在不同产品中部署Claude，而The MAD Podcast探讨了AI计算的未来和GPU的误区。这些内容对于游戏策划而言，提供了AI技术如何塑造游戏开发和体验的洞见。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-06-29 AI 简报]]></title>
             <description><![CDATA[今日焦点在于AI模型的持续学习与记忆能力，特别是Engram公司在此领域的探索。同时，OpenAI的Codex功能更新引起关注，包括对长线程的流畅处理和用户界面的改进。此外，AI在游戏制作和团队协作中的应用也显现出新的可能性。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-31/digest.mp3" length="819072" type="audio/mpeg"/>
             <itunes:title>2026-05-31 AI 简报</itunes:title>
             <itunes:summary>今日焦点在于AI在企业安全和效率方面的应用。Onyx Security的CEO Maxim Bar Kogan讨论了企业如何利用AI代理监控其他AI代理，以提高安全性和效率。同时，Salesforce通过使用Claude Code实现了生产效率的显著提升，减少了产品发布周期和提高了安全性。此外，Google的Josh Woodward分享了将车辆变成兰博基尼的创新项目，以及多语言处理的进展。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-05-30 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-30/</link>
-            <guid isPermaLink="false">2026-05-30</guid>
-            <pubDate>Sat, 30 May 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-05-30/digest.mp3" length="913248" type="audio/mpeg"/>
-            <itunes:title>2026-05-30 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI技术在企业中的应用和挑战。Box CEO Aaron Levie 在播客中讨论了企业AI的现状，强调了AI技术带来的生产力提升以及实施中的困难。Replit CEO Amjad Masad 展示了Replit Canvas的新功能，包括图像、视频生成和编辑。此外，Google提供了关于AI Agent编程的免费课程，为游戏策划和开发者提供了学习资源。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
