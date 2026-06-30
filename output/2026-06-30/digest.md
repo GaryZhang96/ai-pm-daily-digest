@@ -1,0 +1,24 @@
+# AI 简报 2026-06-30
+
+## 今日要点
+今日焦点集中在AI在游戏开发中的应用，特别是底层AI模型的更新和AI产品在游戏领域的应用。Anthropic Engineering博客分享了如何安全地在不同产品中部署Claude，而The MAD Podcast探讨了AI计算的未来和GPU的误区。这些内容对于游戏策划而言，提供了AI技术如何塑造游戏开发和体验的洞见。
+
+## 1. 底层更新
+### Anthropic Engineering: How we contain Claude across products
+在这篇文章中，Anthropic团队讨论了如何安全地在不同产品中部署Claude，包括Claude AI、Claude Code和Claude Cowork。文章详细描述了三种隔离模式：临时容器、人机交互沙箱和本地虚拟机，并分享了在隔离、用户依赖和爆炸半径方面的风险和挑战。文章强调了在环境层面设计隔离、在模型层面引导行为的重要性，并提醒用户注意自定义组件的潜在风险。
+[阅读更多](https://www.anthropic.com/engineering/how-we-contain-claude)
+
+## 2. AI 产品
+### Lambda Labs: 构建AI工厂
+在The MAD Podcast中，Lambda的联合创始人兼CTO Stephen Balaban讨论了AI计算的未来，特别是GPU在AI中的作用。他反驳了GPU将在几年内被淘汰的观点，强调了对大型语言模型不断增长的需求，以及AI模型规模法则的持续扩展。Balaban还讨论了Lambda的起源故事，从面部识别软件公司到如今接近十亿美元的云业务。
+[观看访谈](https://www.youtube.com/watch?v=0NttU4CbyVs)
+
+## 3. 文生图 / 视频 / 3D
+### No notable posts
+
+## 4. AI 与游戏
+### Peter Yang (petergyang): Anthropic PMs使用代理内部工作
+Peter Yang分享了Anthropic产品经理如何使用代理来更接近产品。产品经理Jess表示，访问代码库是她最大的解锁，使她能够更轻松地管理状态，直接跟踪PR，看到哪些被合并和部署，从而更深入地理解和互动产品。
+[查看推文](https://x.com/petergyang/status/2071292628302434361)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
