@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 05:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 05:10:32 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 05:29:05 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 05:10:32 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-03 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在日常任务处理和工作流中的应用，特别是Fable模型的更新和回归。Anthropic的Fable 5模型短暂回归，引发社区热议。同时，AI在游戏策划和开发中的应用也受到关注，AI工具如Codex在提升工作效率和个性化服务方面展现出巨大潜力。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-03/</link>
+            <guid isPermaLink="false">2026-07-03</guid>
+            <pubDate>Fri, 03 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-03/digest.mp3" length="573840" type="audio/mpeg"/>
+            <itunes:title>2026-07-03 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在日常任务处理和工作流中的应用，特别是Fable模型的更新和回归。Anthropic的Fable 5模型短暂回归，引发社区热议。同时，AI在游戏策划和开发中的应用也受到关注，AI工具如Codex在提升工作效率和个性化服务方面展现出巨大潜力。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-02 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI硬件与软件的协同设计，以及AI在游戏策划中的应用。Dylan Patel强调了AI推理硬件的快速发展和未来数据中心可能向太空转移的趋势。同时，游戏策划领域对Fable 5的期待高涨，其发布可能对游戏开发产生重大影响。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-03/digest.mp3" length="816480" type="audio/mpeg"/>
             <itunes:title>2026-06-03 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI领域的几位重要人物的动态和洞见，特别是关于AI在游戏开发中的应用和AI模型的未来发展。Replit CEO Amjad Masad 提出了业务发展的新方向，而Box CEO Aaron Levie 讨论了企业如何利用AI保持竞争优势。此外，Unsupervised Learning 播客探讨了DeepMind对超级智能的追求，为我们提供了对AI领域未来发展的深刻见解。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-02 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在企业中的应用难题、AI模型的持续学习、以及AI在游戏和物理世界中的应用前景。OpenAI的Yann Dubois在播客中讨论了AI模型的可靠性和实用性，而多位AI领域的意见领袖在Twitter上分享了他们对于AI技术发展和应用的见解。特别是，游戏策划应关注AI在游戏开发中的应用，以及AI模型如何通过持续学习变得更加智能。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-02/</link>
-            <guid isPermaLink="false">2026-06-02</guid>
-            <pubDate>Tue, 02 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-02/digest.mp3" length="973296" type="audio/mpeg"/>
-            <itunes:title>2026-06-02 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在企业中的应用难题、AI模型的持续学习、以及AI在游戏和物理世界中的应用前景。OpenAI的Yann Dubois在播客中讨论了AI模型的可靠性和实用性，而多位AI领域的意见领袖在Twitter上分享了他们对于AI技术发展和应用的见解。特别是，游戏策划应关注AI在游戏开发中的应用，以及AI模型如何通过持续学习变得更加智能。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
