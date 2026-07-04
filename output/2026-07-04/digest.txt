@@ -1,0 +1,22 @@
+AI 简报 2026-07-04
+
+ 今日要点
+今日焦点是AI在能源领域的应用，特别是Valar Atomics创始人Isaiah Taylor在No Priors播客中讨论核能如何为AI计算提供动力。此外，AI界对Fable AI工具的即将退市表达了不同看法，同时探讨了AI在教育中的应用和企业中AI部署的挑战。
+
+ 1. 底层更新
+ Anthropic Engineering
+Isaiah Taylor（Valar Atomics创始人）在No Priors播客中提到，随着AI计算需求的增加，能源需求也随之上升。他强调，如果能降低能源成本，就能增加需求，并认为核能是实现这一目标的关键。Taylor讨论了Valar Atomics如何通过制造而非建设核反应堆来实现规模经济，并通过硬件迭代来推动核能发展。他还提到了与NVIDIA合作，使用核反应堆为AI芯片供电的实验，展示了核能与AI计算的结合No Priors Podcast: How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor。
+
+ 2. AI产品
+ Claude
+Claude Fable 5现已在Claude Tag中可用：Claude宣布其最新版本的Fable AI工具现已集成到Claude Tag中，这标志着从工程到整个Anthropic的产品扩展。Claude Fable 5 is now available in Claude Tag
+Built with Claude: Life Sciences全球虚拟黑客松：Claude与Gladstone Institute合作，举办以生命科学为主题的黑客松，提供10万美元的奖金池。Announcing Built with Claude: Life Sciences
+
+ 3. 文生图 / 视频 / 3D
+No notable posts related to this category.
+
+ 4. AI与游戏
+ Twitter Summary
+Peter Yang分享了他与8岁女儿一起使用Codex的有趣活动：女儿画了一条龙，然后他们使用Codex的图像生成功能创造了更多龙的姿势，并将其印制成贴纸。这个活动展示了AI在儿童教育和娱乐中的潜力。Peter Yang's Tweet
+
+Generated through the Follow Builders skill:
