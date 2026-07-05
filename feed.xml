@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 05:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 05:34:05 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 05:05:46 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 05:34:05 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-05 AI 简报]]></title>
+            <description><![CDATA[今日焦点是NVIDIA在AI模型领域的动向，特别是Bryan Catanzaro在播客中分享的NVIDIA在开源AI模型方面的进展和策略。同时，Replit CEO Amjad Masad宣布了Replit支持视频生成的新功能，而游戏策划可能对AI在游戏中的应用特别感兴趣，例如Fable 5在游戏开发中的潜力。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-05/</link>
+            <guid isPermaLink="false">2026-07-05</guid>
+            <pubDate>Sun, 05 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-05/digest.mp3" length="975600" type="audio/mpeg"/>
+            <itunes:title>2026-07-05 AI 简报</itunes:title>
+            <itunes:summary>今日焦点是NVIDIA在AI模型领域的动向，特别是Bryan Catanzaro在播客中分享的NVIDIA在开源AI模型方面的进展和策略。同时，Replit CEO Amjad Masad宣布了Replit支持视频生成的新功能，而游戏策划可能对AI在游戏中的应用特别感兴趣，例如Fable 5在游戏开发中的潜力。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-04 AI 简报]]></title>
             <description><![CDATA[今日焦点是AI在能源领域的应用，特别是Valar Atomics创始人Isaiah Taylor在No Priors播客中讨论核能如何为AI计算提供动力。此外，AI界对Fable AI工具的即将退市表达了不同看法，同时探讨了AI在教育中的应用和企业中AI部署的挑战。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-05/digest.mp3" length="946368" type="audio/mpeg"/>
             <itunes:title>2026-06-05 AI 简报</itunes:title>
             <itunes:summary>今日焦点包括微软CEO Satya Nadella在&quot;No Priors&quot;播客中讨论AI技术对社会的影响，Anthropic工程师团队分享如何通过Claude自动化商业分析查询，以及游戏策划特别关注的Cursor游戏Jam的最新招聘信息。这些内容涵盖了AI在不同领域的应用，特别是在游戏开发中的潜力。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-04 AI 简报]]></title>
-            <description><![CDATA[今日焦点包括AI在市场研究和客户反馈方面的应用，特别是Listen Labs的Alfred Wahlforss分享了如何通过AI平台进行大规模语音访谈以获得深入洞察。同时，游戏策划应关注AI在游戏开发中的应用，如Replit与微软合作推进企业级应用开发，以及AI技能在游戏开发中的潜力。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-04/</link>
-            <guid isPermaLink="false">2026-06-04</guid>
-            <pubDate>Thu, 04 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-04/digest.mp3" length="806832" type="audio/mpeg"/>
-            <itunes:title>2026-06-04 AI 简报</itunes:title>
-            <itunes:summary>今日焦点包括AI在市场研究和客户反馈方面的应用，特别是Listen Labs的Alfred Wahlforss分享了如何通过AI平台进行大规模语音访谈以获得深入洞察。同时，游戏策划应关注AI在游戏开发中的应用，如Replit与微软合作推进企业级应用开发，以及AI技能在游戏开发中的潜力。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
