@@ -1,0 +1,26 @@
+AI 简报 2026-07-06
+
+ 今日要点
+今日焦点集中在AI在互联网基础设施中的作用，特别是Cloudflare CEO Matthew Prince在播客中讨论了AI如何改变互联网业务模型，以及AI在游戏和开发工具中的新应用。同时，Anthropic发布了关于Claude在Apple平台上的新功能，允许开发者利用Foundation Models框架集成Claude，为苹果设备带来更复杂的工作流。
+
+ 1. 底层更新
+ Anthropic Engineering: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+核心公告：Anthropic宣布Claude现在可以通过Apple的Foundation Models框架，以Swift包的形式为Apple平台开发者提供服务，使得在Swift中调用Claude变得更加简单。
+技术细节：开发者可以在三行代码内，通过引导生成获得类型化的Swift值，实现设备上的模型调用。Claude的集成允许开发者在需要多步骤推理、代码生成等更复杂工作流时，将任务交给Claude处理。
+实际应用：此功能扩展了现有设备上智能功能的应用范围，如日记应用、文档应用和学习应用，可以通过Claude进行更深入的内容分析和处理。
+阅读更多
+
+ 2. AI 产品
+ Cloudflare CEO: The Internet's Business Model Is Dead
+核心观点：Cloudflare的CEO Matthew Prince在播客中提出，互联网的业务模型即将发生根本性变化，AI和代理的增加将导致广告模式失效，因为“机器人不点击广告”。
+行业分析：他预测未来五年内，互联网的业务模型将发生根本性变化，我们需要找到新的商业模式来支持互联网的运行。
+技术趋势：他还提到，AI的发展速度超出预期，预计五年后，互联网上的机器人流量将是现在的一千倍。
+播客链接
+
+ 3. 文生图 / 视频 / 3D
+ 今日无相关更新
+
+ 4. AI 与游戏
+ 今日无相关更新
+
+Generated through the Follow Builders skill:
