@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 05:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 05:51:28 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 05:34:05 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 05:51:28 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-06 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在互联网基础设施中的作用，特别是Cloudflare CEO Matthew Prince在播客中讨论了AI如何改变互联网业务模型，以及AI在游戏和开发工具中的新应用。同时，Anthropic发布了关于Claude在Apple平台上的新功能，允许开发者利用Foundation Models框架集成Claude，为苹果设备带来更复杂的工作流。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-06/</link>
+            <guid isPermaLink="false">2026-07-06</guid>
+            <pubDate>Mon, 06 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-06/digest.mp3" length="792288" type="audio/mpeg"/>
+            <itunes:title>2026-07-06 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在互联网基础设施中的作用，特别是Cloudflare CEO Matthew Prince在播客中讨论了AI如何改变互联网业务模型，以及AI在游戏和开发工具中的新应用。同时，Anthropic发布了关于Claude在Apple平台上的新功能，允许开发者利用Foundation Models框架集成Claude，为苹果设备带来更复杂的工作流。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-05 AI 简报]]></title>
             <description><![CDATA[今日焦点是NVIDIA在AI模型领域的动向，特别是Bryan Catanzaro在播客中分享的NVIDIA在开源AI模型方面的进展和策略。同时，Replit CEO Amjad Masad宣布了Replit支持视频生成的新功能，而游戏策划可能对AI在游戏中的应用特别感兴趣，例如Fable 5在游戏开发中的潜力。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-06/digest.mp3" length="1031040" type="audio/mpeg"/>
             <itunes:title>2026-06-06 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在科学研究和游戏开发中的应用。OpenAI研究员Dan Roberts在播客中讨论了AI如何自主发现科学问题，而游戏策划尤其应关注AI在游戏开发中的应用，如Cursor Game Jam。同时，Anthropic发布关于Claude Code的最新质量报告，修复了影响用户体验的多个问题，并介绍了Managed Agents的新功能，包括自托管沙箱和MCP隧道，这对需要私有化部署的游戏公司尤为重要。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-05 AI 简报]]></title>
-            <description><![CDATA[今日焦点包括微软CEO Satya Nadella在"No Priors"播客中讨论AI技术对社会的影响，Anthropic工程师团队分享如何通过Claude自动化商业分析查询，以及游戏策划特别关注的Cursor游戏Jam的最新招聘信息。这些内容涵盖了AI在不同领域的应用，特别是在游戏开发中的潜力。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-05/</link>
-            <guid isPermaLink="false">2026-06-05</guid>
-            <pubDate>Fri, 05 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-05/digest.mp3" length="946368" type="audio/mpeg"/>
-            <itunes:title>2026-06-05 AI 简报</itunes:title>
-            <itunes:summary>今日焦点包括微软CEO Satya Nadella在&quot;No Priors&quot;播客中讨论AI技术对社会的影响，Anthropic工程师团队分享如何通过Claude自动化商业分析查询，以及游戏策划特别关注的Cursor游戏Jam的最新招聘信息。这些内容涵盖了AI在不同领域的应用，特别是在游戏开发中的潜力。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
