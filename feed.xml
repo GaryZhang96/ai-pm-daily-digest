@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 05:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 05:31:49 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 05:51:28 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 05:31:49 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-07 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏领域的应用，特别是Nan Yu对AI在实时战略游戏中的应用提出了深刻见解，认为AI已经能够超越99%的人类玩家。同时，Cat Wu分享了使用Claude Code进行人才招聘的新工作流程，展示了AI在提高工作效率方面的潜力。此外，Noam Brown在“无先验”播客中讨论了AI模型测试时计算能力对基准测试、安全性和研究的影响，强调了当前模型评估的不足。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-07/</link>
+            <guid isPermaLink="false">2026-07-07</guid>
+            <pubDate>Tue, 07 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-07/digest.mp3" length="757440" type="audio/mpeg"/>
+            <itunes:title>2026-07-07 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏领域的应用，特别是Nan Yu对AI在实时战略游戏中的应用提出了深刻见解，认为AI已经能够超越99%的人类玩家。同时，Cat Wu分享了使用Claude Code进行人才招聘的新工作流程，展示了AI在提高工作效率方面的潜力。此外，Noam Brown在“无先验”播客中讨论了AI模型测试时计算能力对基准测试、安全性和研究的影响，强调了当前模型评估的不足。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-06 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在互联网基础设施中的作用，特别是Cloudflare CEO Matthew Prince在播客中讨论了AI如何改变互联网业务模型，以及AI在游戏和开发工具中的新应用。同时，Anthropic发布了关于Claude在Apple平台上的新功能，允许开发者利用Foundation Models框架集成Claude，为苹果设备带来更复杂的工作流。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-07/digest.mp3" length="828288" type="audio/mpeg"/>
             <itunes:title>2026-06-07 AI 简报</itunes:title>
             <itunes:summary>今日要点集中在AI在SaaS工具和游戏开发中的应用，特别是Figma集成AI代理的讨论，以及AI辅助编程技能的培养。同时，探讨了AI在提高工作效率和促进创新方面的潜力。对于游戏策划而言，AI的应用前景广阔，特别是在界面设计和用户体验方面。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-06 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在科学研究和游戏开发中的应用。OpenAI研究员Dan Roberts在播客中讨论了AI如何自主发现科学问题，而游戏策划尤其应关注AI在游戏开发中的应用，如Cursor Game Jam。同时，Anthropic发布关于Claude Code的最新质量报告，修复了影响用户体验的多个问题，并介绍了Managed Agents的新功能，包括自托管沙箱和MCP隧道，这对需要私有化部署的游戏公司尤为重要。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-06/</link>
-            <guid isPermaLink="false">2026-06-06</guid>
-            <pubDate>Sat, 06 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-06/digest.mp3" length="1031040" type="audio/mpeg"/>
-            <itunes:title>2026-06-06 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在科学研究和游戏开发中的应用。OpenAI研究员Dan Roberts在播客中讨论了AI如何自主发现科学问题，而游戏策划尤其应关注AI在游戏开发中的应用，如Cursor Game Jam。同时，Anthropic发布关于Claude Code的最新质量报告，修复了影响用户体验的多个问题，并介绍了Managed Agents的新功能，包括自托管沙箱和MCP隧道，这对需要私有化部署的游戏公司尤为重要。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
