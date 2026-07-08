@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 05:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 04:43:16 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 05:31:49 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 04:43:16 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-08 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Fable 5的发布和AI在编程、测试及项目管理中的作用。Anthropic的Claude Code团队分享了其开发历程，而Replit展示了AI在提升编程效率方面的潜力。此外，播客讨论了AI模型学习人类行为的进展，强调了AI在教育和个性化任务中的重要性。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-08/</link>
+            <guid isPermaLink="false">2026-07-08</guid>
+            <pubDate>Wed, 08 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-08/digest.mp3" length="981936" type="audio/mpeg"/>
+            <itunes:title>2026-07-08 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Fable 5的发布和AI在编程、测试及项目管理中的作用。Anthropic的Claude Code团队分享了其开发历程，而Replit展示了AI在提升编程效率方面的潜力。此外，播客讨论了AI模型学习人类行为的进展，强调了AI在教育和个性化任务中的重要性。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-07 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏领域的应用，特别是Nan Yu对AI在实时战略游戏中的应用提出了深刻见解，认为AI已经能够超越99%的人类玩家。同时，Cat Wu分享了使用Claude Code进行人才招聘的新工作流程，展示了AI在提高工作效率方面的潜力。此外，Noam Brown在“无先验”播客中讨论了AI模型测试时计算能力对基准测试、安全性和研究的影响，强调了当前模型评估的不足。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-08/digest.mp3" length="726192" type="audio/mpeg"/>
             <itunes:title>2026-06-08 AI 简报</itunes:title>
             <itunes:summary>今日焦点涵盖了AI领域内的最新动态，包括AI研究进展、AI在游戏和编程中的应用，以及AI模型的未来发展。特别关注了AI模型的泛化能力、AI在代码生成领域的竞争态势，以及AI模型与人类学习过程的差异。同时，探讨了AI模型在多模态领域的挑战和机遇。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-07 AI 简报]]></title>
-            <description><![CDATA[今日要点集中在AI在SaaS工具和游戏开发中的应用，特别是Figma集成AI代理的讨论，以及AI辅助编程技能的培养。同时，探讨了AI在提高工作效率和促进创新方面的潜力。对于游戏策划而言，AI的应用前景广阔，特别是在界面设计和用户体验方面。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-07/</link>
-            <guid isPermaLink="false">2026-06-07</guid>
-            <pubDate>Sun, 07 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-07/digest.mp3" length="828288" type="audio/mpeg"/>
-            <itunes:title>2026-06-07 AI 简报</itunes:title>
-            <itunes:summary>今日要点集中在AI在SaaS工具和游戏开发中的应用，特别是Figma集成AI代理的讨论，以及AI辅助编程技能的培养。同时，探讨了AI在提高工作效率和促进创新方面的潜力。对于游戏策划而言，AI的应用前景广阔，特别是在界面设计和用户体验方面。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>

@@ -1,0 +1,27 @@
+# AI 简报 2026-07-08
+
+## 今日要点
+今日焦点集中在AI在游戏开发中的应用，特别是Fable 5的发布和AI在编程、测试及项目管理中的作用。Anthropic的Claude Code团队分享了其开发历程，而Replit展示了AI在提升编程效率方面的潜力。此外，播客讨论了AI模型学习人类行为的进展，强调了AI在教育和个性化任务中的重要性。
+
+## 1. 底层更新
+### Anthropic Engineering
+- **Claude Code now supports artifacts**：Claude Code新增了artifacts功能，可以将工作进度捕获为可分享的可视化页面，包括PR浏览、系统解释、仪表板和发布清单等。这些页面会随着会话的工作实时更新，便于团队协作和共享工作进度。[阅读更多](https://claude.com/blog/artifacts-in-claude-code)
+
+## 2. AI产品
+### Claude
+- **Boris Cherny (Claude Code @anthropicai)**：分享了Claude Code的起源故事，强调了其在Anthropic安全研究中的起点，并表示目前仅完成了1%的工作。[查看推文](https://x.com/bcherny/status/2074247226038063316)
+- **Cat Wu (Claude Code + Cowork @anthropicai)**：分享了Claude Code团队对早期工作的回顾。[查看推文](https://x.com/_catwu/status/2074258446686536167)
+
+## 3. 文生图 / 视频 / 3D
+- **Peter Yang**：分享了Fable 5的五个用例，包括寻找Fable值得执行的工作、获取生活和商业建议、使项目准备发货、规划下一个大项目以及重构AI技能系统。[查看推文](https://x.com/petergyang/status/2074206798631071796)
+
+## 4. AI与游戏
+- **Peter Steinberger (Polyagentmorous ClawFather @OpenClaw🦞 + @OpenAI)**：提醒人们不要错过即将截止报名的AI活动，并分享了一些关于AI辅助工程面试的思考。[查看推文](https://x.com/steipete/status/2074389082017550720)
+- **Dan Shipper (CEO @every)**：讨论了Fable在游戏开发中的应用，包括是否应该用Fable进行大规模尝试或小规模逐步提升。[查看推文](https://x.com/danshipper/status/2074160886164451735)
+
+## 播客
+### AI & I by Every
+- **The Takeaway**：播客讨论了如何为AGI建立一个学习人类行为的学校，以及AI模型如何学习管理世界。强调了AI在教育和个性化任务中的潜力，并讨论了AI模型的未来发展，包括它们可能在5年内达到的能力。[观看视频](https://www.youtube.com/watch?v=omX6wrLuX08)
+- **Building a School Where AI Models Learn About Humanity**：讨论了AI模型如何被训练来执行人类想要它们完成的任务，并探讨了AI模型的未来发展，包括它们可能在5年内达到的能力。[观看视频](https://www.youtube.com/watch?v=omX6wrLuX08)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
