@@ -1,0 +1,32 @@
+AI 简报 2026-07-09
+
+ 今日要点
+今日焦点集中在AI在物流、游戏开发和产品设计中的应用。Zipline的自动物流系统展示了AI在现实世界中的高效应用，而游戏策划特别关注的AI在游戏中的应用和开发工具也有新动态。此外，AI产品设计的新思路和底层模型的安全部署也是今日讨论的热点。
+
+ 1. 底层更新
+ Anthropic Engineering: How we contain Claude across products
+核心公告：Anthropic分享了如何通过不同产品限制Claude的能力，包括Claude.ai、Claude Code和Claude Cowork。文章讨论了用户误用、模型不当行为和外部攻击者的风险，并介绍了Anthropic如何通过环境、模型和外部内容的控制来防御这些风险。
+具体措施：介绍了三种隔离模式：ephemeral container、human-in-the-loop sandbox和sealed VM，以及它们如何适应不同的Claude平台。
+原文链接：How we contain Claude across products
+
+ 2. AI 产品
+ Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+核心观点：Thibault Sottiaux预告了名为“Sol”的新事物即将到来，具体内容尚未透露，但引起了社区的广泛关注。
+原文链接：Sol is coming
+
+ 3. 文生图 / 视频 / 3D
+ Training Data: Inside Zipline's Autonomous System: 140M Miles, Zero Incidents
+核心洞察：Zipline的自动物流系统在全球范围内飞行了超过1.4亿英里，且没有发生任何事故。这个系统不仅展示了AI在物流领域的应用，也体现了其在安全性和效率上的潜力。
+具体内容：讨论了Zipline如何从运送血液开始，逐步扩展到更多物流服务，并强调了其系统设计的可靠性和安全性。
+视频链接：Inside Zipline's Autonomous System
+
+ 4. AI 与游戏
+ Nikunj Kothari (partner @fpvventures)
+核心观点：Nikunj分享了他如何使用Fable来增强Claude Code的实用性，并让AI帮助实现这些想法。
+原文链接：Fable use case with Claude Code
+
+ Sam Altman (AI is cool i guess)
+核心观点：Sam Altman宣布GPT-5.6版本即将在周四发布，这对于AI社区和游戏策划来说是一个令人兴奋的消息，因为它可能带来新的工具和能力。
+原文链接：GPT-5.6 sol launches thursday
+
+Generated through the Follow Builders skill:
