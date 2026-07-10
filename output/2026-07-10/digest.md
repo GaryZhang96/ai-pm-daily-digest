@@ -1,0 +1,25 @@
+# AI 简报 2026-07-10
+
+## 今日要点
+今日焦点集中在AI在写作辅助、游戏开发、团队协作等方面的应用。Anthropic发布关于Claude Code质量更新的报告，强调了对模型性能的持续优化。同时，探讨了AI如何改变团队工作流程，特别是在软件工程领域。此外，AI在游戏开发中的应用也是一个热点，特别是Cursor Game Jam的相关讨论。
+
+## 1. 底层更新
+### Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic团队针对近期用户反馈Claude Code性能下降的问题进行了调查，并发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork。所有问题已于4月20日（v2.1.116）解决。文章详细解释了问题的原因、修复措施以及未来如何避免类似问题的发生。[阅读更多](https://www.anthropic.com/engineering/april-23-postmortem)
+
+## 2. AI 产品
+### Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+Claude Managed Agents现在可以在您控制的沙箱中运行，并连接到您私有的MCP服务器。这意味着代理执行工具和服务都在您企业的边界内运行，受到您的安全和运行时控制。[阅读更多](https://claude.com/blog/claude-managed-agents-updates)
+
+## 3. 文生图 / 视频 / 3D
+### Replit CEO Amjad Masad
+Amjad Masad提出了一个关于Replit是否应该添加CAD 3D建模功能的问题，这可能预示着Replit在3D领域的进一步扩展。[查看推文](https://x.com/amasad/status/2075003156745089264)
+
+## 4. AI 与游戏
+### Design @Cursor_ai Ryo Lu
+Ryo Lu宣布了Grok 4.5在Cursor中的新体验，邀请用户尝试并提供反馈，这可能与游戏开发和AI的结合有关。[查看推文](https://x.com/ryolu_/status/2074951992884244606)
+
+### Vercel CEO Guillermo Rauch
+Guillermo Rauch分享了Grok 4.5现在对所有Vercel客户开放的消息，这可能对使用Vercel平台的游戏开发者有直接影响。[查看推文](https://x.com/rauchg/status/2074920996201796067)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
