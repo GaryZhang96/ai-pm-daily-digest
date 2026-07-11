@@ -1,0 +1,26 @@
+AI 简报 2026-07-11
+
+ 今日要点
+今日焦点集中在AI模型的更新迭代和AI在游戏领域的应用。OpenAI的GPT-5.6版本发布，特别强调了模型在企业任务中的表现。同时，AI游戏化和Cursor Game Jam成为讨论热点，展现了AI技术在游戏开发中的潜力和应用前景。
+
+ 1. 底层更新
+ OpenAI News
+GPT-5.6版本发布：Sam Altman（OpenAI CEO）宣布了GPT-5.6版本的发布，并强调了其在成本效益方面的进步，特别是Sol、Terra和Luna三个版本链接。
+
+ 2. AI 产品
+ Replit
+Replit CEO Amjad Masad：讨论了AI如何使编码更加灵活，同时Replit在运行时方面变得更加严格，基础设施更加稳固链接。
+
+ 3. 文生图 / 视频 / 3D
+ OpenAI
+3D pelicans by Keyan：Thibault Sottiaux（Codex & ChatGPT @OpenAI）分享了由Keyan制作的3D鹈鹕模型链接。
+
+ 4. AI 与游戏
+ 游戏策划相关讨论
+Cursor Game Jam：多位AI领域专家讨论了AI在游戏中的应用，特别是Cursor Game Jam，这是一个以AI为核心的游戏开发活动。讨论涉及AI如何改变游戏设计和玩家体验。
+
+ Podcasts
+ Unsupervised Learning
+Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today：Jürgen Schmidhuber，被《纽约时报》、《福布斯》等誉为AI之父，讨论了当前AI的状态、模型中缺失的元素以及对AI公司的看法。他预测真正的AI不仅在屏幕后，还包括真实世界的机器人和机械链接。
+
+Generated through the Follow Builders skill:
