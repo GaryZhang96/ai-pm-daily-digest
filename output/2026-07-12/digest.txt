@@ -1,0 +1,35 @@
+AI 简报 2026-07-12
+
+ 今日要点
+今日焦点集中在AI在商业领域的应用，特别是AI代理在购买、销售和支付方面的能力。Stripe的数据和AI负责人Emily Sense讨论了AI代理如何改变电子商务，包括机器支付协议和实时计费模型。同时，AI Builder们分享了关于AI在产品设计、工作流程变革以及企业应用中的见解。
+
+ 1. 底层更新
+ Anthropic Engineering
+No notable posts.
+
+ OpenAI News
+No notable posts.
+
+ Claude Blog
+No notable posts.
+
+ 2. AI 产品
+ Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+新海报展示Codex使用限制如何影响系统：Thibault Sottiaux分享了一张新海报，展示了Codex使用限制重置如何影响他们系统的某些部分，强调了数据之美。链接
+Codex模型增长：他提到模型在一天内的增长超过了过去两周的总和，并推荐人们安装桌面应用来尝试。链接
+Codex和ChatGPT的使用建议：建议之前使用Codex的用户继续使用，并告诉朋友和家人关于ChatGPT的工作，特别是那些不太技术性、不每天与代码打交道的人。链接
+
+ Peter Yang
+新项目流程：Peter Yang分享了他新项目的流程，包括使用Fable构建计划，使用Claude Design制作组件和屏幕，然后让GPT 5.6来构建。链接
+
+ Aaron Levie (ceo @box)
+企业中应用AI：Aaron Levie分享了一篇关于企业中应用AI的好文章，强调AI转型实际上是改变底层工作流程或业务流程。链接
+
+ 3. 文生图 / 视频 / 3D
+No notable developments.
+
+ 4. AI 与游戏
+ The MAD Podcast with Matt Turck
+AI代理如何购买、销售和支付：Emily Sense讨论了AI代理在经济中的作用，包括它们如何购买和销售商品，以及为什么传统的按座位定价模式正在破裂。她还提到了AI代理的令牌货币化和令牌盗窃问题，称之为AI领域最被低估的问题。链接
+
+Generated through the Follow Builders skill:
