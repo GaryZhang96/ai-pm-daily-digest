@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 04:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 04:24:37 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 04:56:30 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 04:24:37 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-14 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-14/</link>
+            <guid isPermaLink="false">2026-07-14</guid>
+            <pubDate>Tue, 14 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-14/digest.mp3" length="888192" type="audio/mpeg"/>
+            <itunes:title>2026-07-14 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-13 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在各领域的应用扩展和影响，特别是AI对工作市场的冲击和转变。Booking.com CEO Glenn Fogel在播客中讨论了AI在旅行行业的应用前景，强调AI作为提升客户服务的工具。同时，AI领域中，讨论了AI模型GPT 5.6 Sol在前端开发中的卓越表现，以及AI在软件工程中的“Jevons悖论”。此外，讨论了AI对工作的影响，包括工作自动化和知识工作的增加。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-14/digest.mp3" length="1004832" type="audio/mpeg"/>
             <itunes:title>2026-06-14 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI模型的监管问题、底层模型更新、AI产品动态以及AI在游戏领域的应用。Anthropic发布关于Claude Code质量的最新报告，解释了近期用户反馈的问题并提出解决方案。同时，AI领域专家对API业务的未来、AI模型的演进以及AI在游戏开发中的应用进行了深入讨论。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-13 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是AI模型在游戏设计和开发中的潜力。Anthropic分享了关于如何安全部署AI代理的深入分析，强调了模型能力与风险控制的平衡。同时，业界专家对AI在游戏开发中的应用前景表达了乐观态度，认为AI将使游戏开发更加快速和高效。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-13/</link>
-            <guid isPermaLink="false">2026-06-13</guid>
-            <pubDate>Sat, 13 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-13/digest.mp3" length="1002816" type="audio/mpeg"/>
-            <itunes:title>2026-06-13 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是AI模型在游戏设计和开发中的潜力。Anthropic分享了关于如何安全部署AI代理的深入分析，强调了模型能力与风险控制的平衡。同时，业界专家对AI在游戏开发中的应用前景表达了乐观态度，认为AI将使游戏开发更加快速和高效。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>

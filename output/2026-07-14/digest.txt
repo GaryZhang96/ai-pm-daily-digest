@@ -1,0 +1,24 @@
+AI 简报 2026-07-14
+
+ 今日要点
+今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。
+
+ 1. 底层更新
+ OpenAI News
+Codex and ChatGPT Updates Thibault Sottiaux (OpenAI)
+OpenAI进行了推理优化，为GPT-5.6 Sol的所有订阅用户节省了成本，使用量增加了约10%。同时，将产品中的上下文大小限制从GPT-5.5的272k更改为GPT-5.6 Sol的372k后，使用量超出预期，现已恢复至272k，并计划未来再次扩展至372k。此外，还调整了多代理使用的比率，并修复了自动审查的效率问题。
+
+ 2. AI 产品
+ Replit
+Vibe Research Chess Engine Amjad Masad (Replit CEO)
+Amjad Masad分享了在Replit上使用Qwen-8b模型进行国际象棋游戏的进展，通过不同的实验分支取得了实质性进展。这显示了模型在机器学习方面的能力有了显著提升，使得即使没有机器学习经验的人也能通过直觉指导完成有趣的机器学习工作。
+
+ 3. 文生图 / 视频 / 3D
+无相关更新。
+
+ 4. AI 与游戏
+ No Priors Podcast
+How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor No Priors
+该Takeaway是，Valor Atomics正在通过建造适合行星规模的核反应堆来实现能源的大规模供应。Isaiah Taylor强调，核裂变是一种老技术，但从未为大规模生产而建造。Valor Atomics的核反应堆更易于制造，且极其安全，他们相信这将使核裂变能源成本降低10倍。此外，Valor Atomics展示了首个由核反应堆供电的AI芯片，突显了核能与AI计算的结合。
+
+Generated through the Follow Builders skill:
