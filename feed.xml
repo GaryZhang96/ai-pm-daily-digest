@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 04:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 04:24:18 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 04:24:37 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 04:24:18 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-15 AI 简报]]></title>
+            <description><![CDATA[今日焦点包括NVIDIA在AI领域的深入布局，特别是其前沿AI模型Nemotron的最新进展。同时，探讨了AI在游戏策划中的应用，以及开发者如何利用AI进行创新。此外，还有关于AI技术接受度和安全性的讨论。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-15/</link>
+            <guid isPermaLink="false">2026-07-15</guid>
+            <pubDate>Wed, 15 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-15/digest.mp3" length="795456" type="audio/mpeg"/>
+            <itunes:title>2026-07-15 AI 简报</itunes:title>
+            <itunes:summary>今日焦点包括NVIDIA在AI领域的深入布局，特别是其前沿AI模型Nemotron的最新进展。同时，探讨了AI在游戏策划中的应用，以及开发者如何利用AI进行创新。此外，还有关于AI技术接受度和安全性的讨论。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-14 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-16/digest.mp3" length="806544" type="audio/mpeg"/>
             <itunes:title>2026-06-16 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在企业中的应用前景、AI模型的未来发展以及AI如何改变工作方式。NVIDIA CEO Jensen Huang在播客中分享了AI革命如何成为人类历史上最大的基础设施建设，以及AI如何从简单的文本生成进化到控制工具和机械系统。同时，多位AI领域专家在Twitter上讨论了AI在编程、工作流程以及企业学习循环中的潜力和影响。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-14 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI模型的监管问题、底层模型更新、AI产品动态以及AI在游戏领域的应用。Anthropic发布关于Claude Code质量的最新报告，解释了近期用户反馈的问题并提出解决方案。同时，AI领域专家对API业务的未来、AI模型的演进以及AI在游戏开发中的应用进行了深入讨论。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-14/</link>
-            <guid isPermaLink="false">2026-06-14</guid>
-            <pubDate>Sun, 14 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-14/digest.mp3" length="1004832" type="audio/mpeg"/>
-            <itunes:title>2026-06-14 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI模型的监管问题、底层模型更新、AI产品动态以及AI在游戏领域的应用。Anthropic发布关于Claude Code质量的最新报告，解释了近期用户反馈的问题并提出解决方案。同时，AI领域专家对API业务的未来、AI模型的演进以及AI在游戏开发中的应用进行了深入讨论。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
