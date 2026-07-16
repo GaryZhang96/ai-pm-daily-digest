@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 04:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 04:35:29 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 04:24:18 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 04:35:29 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-16 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Anthropic的Katelyn Lesse和Angela Jiang在播客中讨论了构建生态系统的重要性。同时，Thariq分享了使用Anthropic的Claude Code辅助宝可梦游戏策略的经历。此外，AI Builders在底层模型更新、AI产品、文生图/视频/3D和AI游戏开发等方面的最新动态值得关注。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-16/</link>
+            <guid isPermaLink="false">2026-07-16</guid>
+            <pubDate>Thu, 16 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-16/digest.mp3" length="794592" type="audio/mpeg"/>
+            <itunes:title>2026-07-16 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Anthropic的Katelyn Lesse和Angela Jiang在播客中讨论了构建生态系统的重要性。同时，Thariq分享了使用Anthropic的Claude Code辅助宝可梦游戏策略的经历。此外，AI Builders在底层模型更新、AI产品、文生图/视频/3D和AI游戏开发等方面的最新动态值得关注。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-15 AI 简报]]></title>
             <description><![CDATA[今日焦点包括NVIDIA在AI领域的深入布局，特别是其前沿AI模型Nemotron的最新进展。同时，探讨了AI在游戏策划中的应用，以及开发者如何利用AI进行创新。此外，还有关于AI技术接受度和安全性的讨论。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-17/digest.mp3" length="1223280" type="audio/mpeg"/>
             <itunes:title>2026-06-17 AI 简报</itunes:title>
             <itunes:summary>今日简报聚焦于AI在科学发现、游戏应用和产品创新的最新动态。OpenAI研究员Dan Roberts在播客中讨论了AI在自主科学发现中的作用，特别是强化学习在推动科学进步中的重要性。同时，AI产品领域也活跃，Replit的CEO Amjad Masad分享了其特定领域代理工具的进展，而Google的Josh Woodward则宣布了语音识别功能的更新，这对非英语使用者尤为重要。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-16 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在企业中的应用前景、AI模型的未来发展以及AI如何改变工作方式。NVIDIA CEO Jensen Huang在播客中分享了AI革命如何成为人类历史上最大的基础设施建设，以及AI如何从简单的文本生成进化到控制工具和机械系统。同时，多位AI领域专家在Twitter上讨论了AI在编程、工作流程以及企业学习循环中的潜力和影响。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-16/</link>
-            <guid isPermaLink="false">2026-06-16</guid>
-            <pubDate>Tue, 16 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-16/digest.mp3" length="806544" type="audio/mpeg"/>
-            <itunes:title>2026-06-16 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在企业中的应用前景、AI模型的未来发展以及AI如何改变工作方式。NVIDIA CEO Jensen Huang在播客中分享了AI革命如何成为人类历史上最大的基础设施建设，以及AI如何从简单的文本生成进化到控制工具和机械系统。同时，多位AI领域专家在Twitter上讨论了AI在编程、工作流程以及企业学习循环中的潜力和影响。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
