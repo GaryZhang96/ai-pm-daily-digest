@@ -1,0 +1,22 @@
+AI 简报 2026-07-16
+
+ 今日要点
+今日焦点集中在AI在游戏开发中的应用，特别是Anthropic的Katelyn Lesse和Angela Jiang在播客中讨论了构建生态系统的重要性。同时，Thariq分享了使用Anthropic的Claude Code辅助宝可梦游戏策略的经历。此外，AI Builders在底层模型更新、AI产品、文生图/视频/3D和AI游戏开发等方面的最新动态值得关注。
+
+ 1. 底层更新
+ Anthropic Engineering: 构建生态系统而非封闭花园
+Katelyn Lesse和Angela Jiang在播客中分享了Anthropic平台的内部和外部目标，强调了为内部团队提供快速、可靠的平台以快速推出产品的重要性，同时也致力于为外部开发者提供工具，使他们能够与Claude一起构建任何想要的产品。播客链接
+
+ 2. AI 产品
+ Claude for Teachers
+Anthropic推出了专为K-12隐私设计的Claude for Teachers。该产品承诺不使用对话进行模型训练，并以FERPA合规的数据处理协议保护学生信息。Claude能够根据国家标准和通过Learning Commons连接的高质量课程草案制定课程计划和学生面向材料，教师可以进行修订并带入课堂。阅读更多
+
+ 3. 文生图 / 视频 / 3D
+ Thariq使用Claude Code辅助宝可梦游戏策略
+Thariq最近在玩宝可梦冠军赛，并开始使用Anthropic的Claude Code来帮助他。该工具使用Smogon的npm库编写代码，获取实时使用统计数据，并撰写报告以理解对抗赛、临界点或理论团队。了解更多
+
+ 4. AI 与游戏
+ Thariq开源Mega Sceptile团队策略
+Thariq表示，如果人们对此感兴趣，他将开源他的Mega Sceptile团队策略。这是他首次公开分享使用Claude Code辅助宝可梦游戏策略的成果。查看详情
+
+Generated through the Follow Builders skill:
