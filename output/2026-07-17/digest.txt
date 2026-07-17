@@ -1,0 +1,21 @@
+AI 简报 2026-07-17
+
+ 今日要点
+今日焦点集中在AI在企业中的应用和未来发展，特别是AI如何改变工作界面和提升工作效率。Granolah的联合创始人Chris Pedregal强调了AI原生世界中工作界面的重要性，并讨论了Granolah如何通过预生成会议简报等前瞻性功能提升用户体验。同时，Claude Code的新功能Artifacts允许将工作进度转化为可分享的可视化页面，促进团队协作。此外，业界专家对AI在代码审查、自动化和知识编码方面的潜力表示乐观。
+
+ 1. 底层更新
+ Claude Blog: Claude Code now supports artifacts
+Claude Code新增了Artifacts功能，可以将工作进度转化为活的、可分享的可视化页面，如PR浏览、系统解释、仪表板和发布清单等。这些页面会随着会话的工作进度自动更新。Artifacts利用会话的完整上下文，包括代码库、连接器和对话本身，构建页面。每当Claude Code更新Artifacts时，打开的页面会就地刷新，队友们可以立即看到更新。每个发布都是同一链接的新版本，具有版本历史，可以随时恢复，画廊功能让你可以浏览和管理所有创建的Artifacts。Artifacts默认为作者私有，可以在准备好后与团队和组织直接从页面分享。阅读更多
+
+ 2. AI 产品
+ Josh Woodward (VP, Google): Gemini Spark的新功能
+Google的Gemini Spark为Ultra订阅者带来了4项新功能：支持打开和编辑Google文档；能够阅读Google Sheets和Slides中的评论；处理速度提升了50%以上；能够并行处理多个来源的任务，从而加快整个任务完成速度。了解更多
+
+ 3. 文生图 / 视频 / 3D
+无相关更新。
+
+ 4. AI 与游戏
+ Dan Shipper (CEO @every): The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps
+Dan Shipper采访了Granolah的联合创始人兼CEO Chris Pedregal，讨论了AI应用层的当前状态、AI的前沿以及工作的未来。Chris分享了Granolah对于竞争的非传统看法，例如会议笔记克隆并不重要，因为他们从未将会议笔记视为真正的目标。他还讨论了如何在AI中构建主动功能，例如预生成数百万份会议简报，这些简报包括有关会议性质和参与者的上下文信息，尽管大多数人从未打开过。观看视频
+
+Generated through the Follow Builders skill:
