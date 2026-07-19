@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 04:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 04:45:02 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 04:22:23 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 04:45:02 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-19 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI算力需求的爆炸性增长以及AI在游戏开发中的应用。OpenAI的算力负责人Sachin Katti在播客中讨论了AI算力供应的紧迫性，强调了AI设计自身芯片的能力。同时，游戏策划应关注AI在游戏开发中的新应用，如Claude Managed Agents的更新，允许在私有环境中执行AI工具。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-19/</link>
+            <guid isPermaLink="false">2026-07-19</guid>
+            <pubDate>Sun, 19 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-19/digest.mp3" length="986400" type="audio/mpeg"/>
+            <itunes:title>2026-07-19 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI算力需求的爆炸性增长以及AI在游戏开发中的应用。OpenAI的算力负责人Sachin Katti在播客中讨论了AI算力供应的紧迫性，强调了AI设计自身芯片的能力。同时，游戏策划应关注AI在游戏开发中的新应用，如Claude Managed Agents的更新，允许在私有环境中执行AI工具。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-18 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型的商业应用和安全性上。Sam Altman强调AI应赋予人们更多自由和财富，而Anthropic分享了如何有效限制AI模型的风险。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam的举办和AI模型在游戏中的集成。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-20/digest.mp3" length="958176" type="audio/mpeg"/>
             <itunes:title>2026-06-20 AI 简报</itunes:title>
             <itunes:summary>今日焦点在于AI在云计算和游戏策划中的应用。Lambda的CTO Stephen Balaban在播客中深入讨论了AI计算的未来，特别是GPU在AI中的重要性和市场对AI算力的持续需求。同时，Claude Code的新功能Artifacts引起广泛关注，它允许用户创建交互式页面以共享工作进度，这对于游戏策划和开发团队协作具有重要意义。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-19 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，以及底层模型的更新。Replit CEO Amjad Masad分享了与Spike Jones的采访，讨论了AI在游戏设计中的应用。Thibault Sottiaux宣布了Codex的双重重置，并强调了Codex App的开源模型兼容性。此外，GitHub COO讨论了AI在开发者工作流程中的影响，以及AI对企业工作流程的复杂性。这些内容对于游戏策划来说，提供了AI技术在游戏领域应用的前沿视角。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-19/</link>
-            <guid isPermaLink="false">2026-06-19</guid>
-            <pubDate>Fri, 19 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-19/digest.mp3" length="884736" type="audio/mpeg"/>
-            <itunes:title>2026-06-19 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，以及底层模型的更新。Replit CEO Amjad Masad分享了与Spike Jones的采访，讨论了AI在游戏设计中的应用。Thibault Sottiaux宣布了Codex的双重重置，并强调了Codex App的开源模型兼容性。此外，GitHub COO讨论了AI在开发者工作流程中的影响，以及AI对企业工作流程的复杂性。这些内容对于游戏策划来说，提供了AI技术在游戏领域应用的前沿视角。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
