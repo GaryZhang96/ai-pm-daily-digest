@@ -1,0 +1,32 @@
+# AI 简报 2026-07-20
+
+## 今日要点
+今日焦点包括AI在游戏开发中的应用，AI模型的全球竞争态势，以及AI技术在企业中的采纳障碍。特别关注了AI模型在网络安全、内容创建和工作流程管理方面的进展，以及AI技术如何推动创新和经济增长。
+
+## 1. 底层更新
+### Anthropic Engineering
+Anthropic的工程师Thariq在推特上分享了他们团队在Fable项目上的努力，表示对团队在紧迫的时间线内完成项目感到自豪，并邀请大家体验Fable。[推特链接](https://x.com/trq212/status/2078514180051906864)
+
+### OpenAI News
+Thibault Sottiaux分享了他如何使用ChatGPT Work来处理大量的直接信息，并创建一个包含不同用户活动分类和复杂度评分的电子表格，以选择不同复杂度水平的用户群体进行测试。[推特链接](https://x.com/thsottiaux/status/2078702412085498087)
+
+## 2. AI 产品
+### ChatGPT Work
+Thibault Sottiaux强调了ChatGPT Work的功能，包括创建和托管网站、管理电子邮件、总结大量文件以及创建高质量的文档、表格和幻灯片，并提到这些功能已经包含在移动应用中。[推特链接](https://x.com/thsottiaux/status/2078697631019303273)
+
+## 3. 文生图 / 视频 / 3D
+### ChatGPT Images
+Peter Yang分享了他和8岁女儿使用ChatGPT Images创建的一个网站，帮助她学习乘法表。他们使用了ChatGPT Images生成用户界面和角色，并添加了一些音乐和有时间限制的老板关卡。[推特链接](https://x.com/petergyang/status/2078638568784994686)
+
+## 4. AI 与游戏
+### Cursor Game Jam
+Swyx在推特上提到，欧洲实际上拥有一些世界顶级的AI工程师，并且他们正在运行最具竞争力的全球AI人才竞技场。他提到，随着工作流程（WF）进入评估窗口，情况将变得非常有趣。[推特链接](https://x.com/swyx/status/2078628617987518855)
+
+Guillermo Rauch分享了他们内部评估的结果，提到Kimi K3在网络安全方面表现出色，而Fable则在拒绝完成测试方面表现出了一些问题。他还提到，与Fable相比，Sol在帮助进行防御性网络加固方面更加开放。[推特链接](https://x.com/rauchg/status/2078647648307880209)
+
+### Unsupervised Learning
+**The Takeaway**: Jürgen Schmidhuber, known as a pioneer in AI, discusses the current state of AI, its limitations, and the future of artificial general intelligence (AGI). He emphasizes the importance of hardware in achieving true AGI and the need for AI systems to set their own goals for becoming smarter, similar to how humans and babies learn through exploration and experimentation.
+
+Jürgen Schmidhuber, referred to as the father of AI by various media outlets, shares his insights on the state of AI today. He argues that while we have made significant progress in AI behind the screen, true AGI requires advancements in physical robotics and machinery that can interact with the real world. Schmidhuber points out the limitations of current AI models, which are heavily biased towards human interests due to their training on human-generated data. He advocates for AI systems that can generate their own data through curiosity-driven exploration, which he believes will lead to less human-biased and more general intelligence. Schmidhuber also touches on the economic implications of the current AI boom, suggesting that the massive investments in data centers may not be sustainable in the long run due to the rapid advancements in compute technology. He concludes by expressing optimism about the future of AI, particularly in its potential to automate thinking and problem-solving, but also warns about the potential misallocation of resources in the current AI market.[Podcast链接](https://www.youtube.com/watch?v=RKjR8DQ40po)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
