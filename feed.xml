@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 04:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 04:43:51 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 04:43:25 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 04:43:51 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-22 AI 简报]]></title>
+            <description><![CDATA[今日简报聚焦AI在游戏和旅行预订领域的应用，探讨了多模型系统在降低成本和提升效率方面的潜力，同时关注了AI对就业的影响和企业AI的前沿发展。特别提到了Booking.com CEO Glenn Fogel对AI在旅行预订中角色的深入分析，以及AI领域专家对行业趋势的见解。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-22/</link>
+            <guid isPermaLink="false">2026-07-22</guid>
+            <pubDate>Wed, 22 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-22/digest.mp3" length="823968" type="audio/mpeg"/>
+            <itunes:title>2026-07-22 AI 简报</itunes:title>
+            <itunes:summary>今日简报聚焦AI在游戏和旅行预订领域的应用，探讨了多模型系统在降低成本和提升效率方面的潜力，同时关注了AI对就业的影响和企业AI的前沿发展。特别提到了Booking.com CEO Glenn Fogel对AI在旅行预订中角色的深入分析，以及AI领域专家对行业趋势的见解。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-21 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在商业和支付领域的应用，特别是Stripe的AI首席Emily Sense讨论了AI代理如何购买、销售和支付，以及AI在游戏和编程中的应用。同时，AI代理的安全性和欺诈问题也成为讨论热点。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-23/digest.mp3" length="1118736" type="audio/mpeg"/>
             <itunes:title>2026-06-23 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Google DeepMind的Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏。同时，开发者们在探索AI在视频制作和3D建模方面的潜力，以及AI产品在提升软件开发效率方面的重要作用。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-22 AI 简报]]></title>
-            <description><![CDATA[今日焦点在于AI在游戏开发中的应用，特别是Anthropic Engineering博客更新中提到的AI与游戏相关的技术进展。同时，Unsupervised Learning播客讨论了AI领域最新动态，包括API业务的潜在消失和对未来的预测，这对游戏策划来说具有启发性。此外，开发者社区中对AI在编程和产品管理中应用的讨论也在升温，这可能对游戏行业的开发流程产生影响。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-22/</link>
-            <guid isPermaLink="false">2026-06-22</guid>
-            <pubDate>Mon, 22 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-22/digest.mp3" length="1013616" type="audio/mpeg"/>
-            <itunes:title>2026-06-22 AI 简报</itunes:title>
-            <itunes:summary>今日焦点在于AI在游戏开发中的应用，特别是Anthropic Engineering博客更新中提到的AI与游戏相关的技术进展。同时，Unsupervised Learning播客讨论了AI领域最新动态，包括API业务的潜在消失和对未来的预测，这对游戏策划来说具有启发性。此外，开发者社区中对AI在编程和产品管理中应用的讨论也在升温，这可能对游戏行业的开发流程产生影响。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
