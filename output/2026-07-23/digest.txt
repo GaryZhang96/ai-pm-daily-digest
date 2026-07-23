@@ -1,0 +1,25 @@
+AI 简报 2026-07-23
+
+ 今日要点
+今日焦点集中在AI在软件开发中的自主性和模块化，以及AI模型在游戏策划中的应用。Factory的Matan Grinberg强调了软件工厂的未来和模型独立性的重要性。同时，Replit的Amjad Masad分享了内部开发栈的流畅体验，而OpenAI的Thibault Sottiaux宣布了ChatGPT Work的新使用限额，这对游戏策划尤其重要，因为它可能涉及到游戏设计的多步骤推理和代码生成。
+
+ 1. 底层更新
+ Claude Blog: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+Claude现在支持Apple的Foundation Models框架，允许开发者在Swift中使用Claude进行更复杂的工作流程。这个框架使得在Swift中访问模型变得简单，并能够通过引导生成返回类型化的Swift值。开发者现在可以在需要多步推理、代码生成时，将请求从Apple的设备模型移交给Claude处理。阅读更多
+
+ 2. AI 产品
+ Replit CEO Amjad Masad
+Amjad Masad分享了Replit内部开发栈的无缝体验，这让他重新回到了编码工作中。这表明Replit的开发环境对提高开发效率和体验有显著影响。Amjad Masad推文链接
+
+ 3. 文生图 / 视频 / 3D
+ Google VP Josh Woodward
+Josh Woodward展示了一个由工程师使用新3.6 Flash模型创建的交互式数学艺术生成器。用户可以即时自定义速度、颜色和几何参数，并将设计直接导出为3D打印的STL文件。Josh Woodward推文链接
+
+ 4. AI 与游戏
+ OpenAI Codex & ChatGPT Thibault Sottiaux
+Thibault Sottiaux宣布了ChatGPT Work的新一天使用限额，这对付费用户来说意味着更多的使用机会。这对于游戏策划来说是一个好消息，因为它可能涉及到游戏设计的复杂任务。Thibault Sottiaux推文链接
+
+ Training Data Podcast: Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself
+Matan Grinberg讨论了软件工厂的未来，强调了模型独立性和避免供应商锁定的重要性。他提到，企业需要确保他们对任何模型提供者都没有单一故障点，并且能够根据需要热切换到新的模型。Grinberg还讨论了Factory如何通过提供模块化和可定制的解决方案来帮助企业优化成本和性能，而不锁定在任何单一模型提供者。收听播客
+
+Generated through the Follow Builders skill:

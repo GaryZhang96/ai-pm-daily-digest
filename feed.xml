@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 04:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 04:47:57 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 04:43:51 GMT</pubDate>
+        <pubDate>Thu, 23 Jul 2026 04:47:57 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-23 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在软件开发中的自主性和模块化，以及AI模型在游戏策划中的应用。Factory的Matan Grinberg强调了软件工厂的未来和模型独立性的重要性。同时，Replit的Amjad Masad分享了内部开发栈的流畅体验，而OpenAI的Thibault Sottiaux宣布了ChatGPT Work的新使用限额，这对游戏策划尤其重要，因为它可能涉及到游戏设计的多步骤推理和代码生成。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-23/</link>
+            <guid isPermaLink="false">2026-07-23</guid>
+            <pubDate>Thu, 23 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-23/digest.mp3" length="1023408" type="audio/mpeg"/>
+            <itunes:title>2026-07-23 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在软件开发中的自主性和模块化，以及AI模型在游戏策划中的应用。Factory的Matan Grinberg强调了软件工厂的未来和模型独立性的重要性。同时，Replit的Amjad Masad分享了内部开发栈的流畅体验，而OpenAI的Thibault Sottiaux宣布了ChatGPT Work的新使用限额，这对游戏策划尤其重要，因为它可能涉及到游戏设计的多步骤推理和代码生成。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-22 AI 简报]]></title>
             <description><![CDATA[今日简报聚焦AI在游戏和旅行预订领域的应用，探讨了多模型系统在降低成本和提升效率方面的潜力，同时关注了AI对就业的影响和企业AI的前沿发展。特别提到了Booking.com CEO Glenn Fogel对AI在旅行预订中角色的深入分析，以及AI领域专家对行业趋势的见解。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-24/digest.mp3" length="1038240" type="audio/mpeg"/>
             <itunes:title>2026-06-24 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI模型的实际应用和开发流程的变革。Anthropic的Fable模型通过动态工作流提升了开发效率，同时SpaceX在AI领域的发展策略引起关注。此外，AI在游戏开发中的应用成为讨论热点，Cursor Game Jam展示了AI如何助力游戏创造。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-23 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Google DeepMind的Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏。同时，开发者们在探索AI在视频制作和3D建模方面的潜力，以及AI产品在提升软件开发效率方面的重要作用。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-23/</link>
-            <guid isPermaLink="false">2026-06-23</guid>
-            <pubDate>Tue, 23 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-23/digest.mp3" length="1118736" type="audio/mpeg"/>
-            <itunes:title>2026-06-23 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Google DeepMind的Logan Kilpatrick在播客中提到，预计今年将有人能够使用AI“vibe code”制作出真正有趣的游戏。同时，开发者们在探索AI在视频制作和3D建模方面的潜力，以及AI产品在提升软件开发效率方面的重要作用。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
