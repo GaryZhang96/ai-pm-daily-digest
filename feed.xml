@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 04:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 04:55:05 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 04:40:41 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 04:55:05 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-26 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏和物流领域的应用。DoorDash联合创始人在播客中讨论了AI如何改变人们的消费习惯，特别是通过自然语言交互来探索餐厅和杂货购物的新方式。同时，Anthropic发布了关于如何限制Claude AI助手在不同产品中的风险的新博客，这对游戏策划在考虑AI安全性和集成时提供了洞见。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-26/</link>
+            <guid isPermaLink="false">2026-07-26</guid>
+            <pubDate>Sun, 26 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-26/digest.mp3" length="928656" type="audio/mpeg"/>
+            <itunes:title>2026-07-26 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏和物流领域的应用。DoorDash联合创始人在播客中讨论了AI如何改变人们的消费习惯，特别是通过自然语言交互来探索餐厅和杂货购物的新方式。同时，Anthropic发布了关于如何限制Claude AI助手在不同产品中的风险的新博客，这对游戏策划在考虑AI安全性和集成时提供了洞见。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-25 AI 简报]]></title>
             <description><![CDATA[今日简报聚焦于AI在游戏及芯片制造领域的最新动态。Cerebras CEO Andrew Feldman讨论了AI芯片的重要性，特别是其在处理AI任务时的速度优势。同时，Replit CEO Amjad Masad分享了使用AI自动化游戏开发的过程，展示了AI在游戏领域的应用潜力。此外，Claude AI宣布支持多语言的语音模式，进一步拓展了AI的交互能力。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-27/digest.mp3" length="1221984" type="audio/mpeg"/>
             <itunes:title>2026-06-27 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在互联网流量、游戏开发和企业运营中的应用。Cloudflare CEO讨论了AI代理带来的网络流量激增和未来互联网商业模式的转变。同时，AI在游戏中的应用成为热点，Replit的更新和Cursor Game Jam的相关讨论显示了AI工具在游戏开发中的潜力。此外，AI产品如Grok Imagine Video在Vercel AI Gateway中占据重要地位，预示着AI在视频生成领域的崛起。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-26 AI 简报]]></title>
-            <description><![CDATA[今日简报聚焦于AI在游戏和工作流程中的应用，特别是AI生成图像的进展和AI作为代理在软件工程中的潜力。讨论了AI在创意写作中的挑战，以及AI如何影响人类的工作和目标设定。同时，探讨了AI在数据和环境训练中的作用，以及AI模型优化的目标和挑战。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-26/</link>
-            <guid isPermaLink="false">2026-06-26</guid>
-            <pubDate>Fri, 26 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-26/digest.mp3" length="804384" type="audio/mpeg"/>
-            <itunes:title>2026-06-26 AI 简报</itunes:title>
-            <itunes:summary>今日简报聚焦于AI在游戏和工作流程中的应用，特别是AI生成图像的进展和AI作为代理在软件工程中的潜力。讨论了AI在创意写作中的挑战，以及AI如何影响人类的工作和目标设定。同时，探讨了AI在数据和环境训练中的作用，以及AI模型优化的目标和挑战。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>

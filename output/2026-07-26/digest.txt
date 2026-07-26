@@ -1,0 +1,31 @@
+AI 简报 2026-07-26
+
+ 今日要点
+今日焦点集中在AI在游戏和物流领域的应用。DoorDash联合创始人在播客中讨论了AI如何改变人们的消费习惯，特别是通过自然语言交互来探索餐厅和杂货购物的新方式。同时，Anthropic发布了关于如何限制Claude AI助手在不同产品中的风险的新博客，这对游戏策划在考虑AI安全性和集成时提供了洞见。
+
+ 1. 底层更新
+ Anthropic Engineering: How we contain Claude across products
+核心公告：Anthropic分享了他们如何通过限制Claude AI助手的访问权限来控制风险，尤其是在产品中如何实施不同的安全措施。
+关键发现：文章讨论了三种主要的安全风险和防御措施，包括用户滥用、模型不当行为和外部攻击。
+实际应用：介绍了Claude.ai、Claude Code和Claude Cowork三种产品的不同安全架构，并分享了在实施过程中的成功和失败经验。
+原文链接：How we contain Claude across products
+
+ 2. AI 产品
+ Gemini: Gemini Spark
+产品更新：Josh Woodward宣布Gemini Spark功能现已对所有Google AI Pro订阅者开放，该功能允许用户通过PDF文件直接将学校日历中的“无课日”添加到Google日历中。
+全球扩展：服务将从美国开始，逐步扩展到全球范围。
+原文链接：Gemini Spark Announcement
+
+ 3. 文生图 / 视频 / 3D
+ DoorDash: Building an Autonomous Delivery Experience
+播客亮点：DoorDash的联合创始人Andy Fang和Stanley Tang讨论了DoorDash如何利用AI改变人们的消费方式，特别是在餐厅和杂货购物方面。
+用户行为变化：通过自然语言交互，用户更容易发现新的餐厅和杂货商品，导致订单量和篮大小增加。
+未来展望：讨论了未来五年内，随着AI技术的发展，人们可能会如何不同地购买和思考餐厅服务。
+视频链接：Building an Autonomous Delivery Experience with DoorDash Co-Founders
+
+ 4. AI 与游戏
+ SmolForge: Customizable Skins and Spritesheet Animations
+新功能：Swyx宣布SmolForge新增了可定制的皮肤和精灵表动画功能。
+工具链接：SmolForge Announcement
+
+Generated through the Follow Builders skill:
