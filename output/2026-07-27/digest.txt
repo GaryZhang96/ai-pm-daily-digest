@@ -1,0 +1,22 @@
+AI 简报 2026-07-27
+
+ 今日要点
+今日焦点集中在AI技术在游戏开发中的应用，特别是底层模型的更新和AI产品的发展。Anthropic Engineering博客更新了关于Claude Code质量的报告，讨论了模型响应性能下降的问题和解决方案。同时，Unsupervised Learning播客探讨了AI技术的发展和未来趋势。这些更新对于游戏策划而言，意味着AI技术在游戏设计和开发中的应用前景更加广阔。
+
+ 1. 底层更新
+ Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic Engineering发布了关于Claude Code近期质量报告的更新。他们发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork，但API未受影响。所有问题已于4月20日（v2.1.116版本）解决。文章详细解释了问题的原因、修复措施以及未来如何避免类似问题的发生。特别是，他们提到了对Claude Code默认推理努力程度的调整，以及如何通过反馈循环来优化用户体验。阅读更多
+
+ 2. AI产品
+ Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+Claude Managed Agents现在可以在您控制的沙箱中运行，并连接到您私有的Model Context Protocol (MCP)服务器。这意味着代理执行工具和服务运行都在您企业的边界内，受到您的安全和运行时控制。沙箱可以在您自己的基础设施上运行，或者通过像Cloudflare、Daytona、Modal或Vercel这样的托管沙箱提供商来处理计算和隔离。阅读更多
+
+ 3. 文生图 / 视频 / 3D
+ Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands
+Anthropic Engineering讨论了如何构建有效的代理和为长期运行的工作设计马具。他们提出了Managed Agents的概念，这是一个托管服务，通过一组接口运行长期代理，这些接口旨在超越任何特定实现，包括我们今天运行的实现。这种设计允许每个组件的实现可以互换，而不干扰其他组件。阅读更多
+
+ 4. AI与游戏
+ Unsupervised Learning: Ep 91: Top AI Analyst Unpacks Today's AI Hype Cycle
+在这一集中，Unsupervised Learning播客邀请了Benedict Evans，讨论了AI技术的现状和未来趋势。Evans分享了他对AI技术如何影响就业、消费者应用以及企业采用的看法。他强调了AI技术的独特性，以及我们如何从历史中学习，以理解这些技术变革的影响。观看视频
+
+Generated through the Follow Builders skill:
