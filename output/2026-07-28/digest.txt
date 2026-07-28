@@ -1,0 +1,50 @@
+AI 简报 2026-07-28
+
+ 今日要点
+今日焦点集中在AI基础设施建设和AI在游戏策划中的应用。OpenAI的计算负责人Sachin Katti在播客中讨论了AI算力需求的爆炸性增长和未来数据中心的挑战。同时，AI在游戏领域的应用也备受关注，如ChatGPT在游戏策划中的潜力和AI对游戏产业的影响。
+
+ 1. 底层更新
+ Anthropic Engineering
+No notable posts.
+
+ OpenAI News
+No notable posts.
+
+ Claude Blog
+No notable posts.
+
+ 2. AI 产品
+ Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+Thibault Sottiaux分享了OpenAI目前的专注和活力，暗示公司正在积极推进项目。链接
+
+ Peter Yang
+Peter Yang讨论了人们对ChatGPT的信任问题，特别是在分享个人工作空间如Gmail、Calendar等时的顾虑。链接
+
+ Madhu Guru (Sr Director, AI at Meta)
+Madhu Guru解释了AI在产品中影响不明显的原因，认为公司正在探索AI的应用，第二阶段将看到更多新功能和创新。链接
+
+ Amjad Masad (CEO @replit)
+Amjad Masad分享了一则关于黑客更倾向于使用补贴的AI实验室订阅而非开放模型进行攻击的信息。链接
+
+ Guillermo Rauch (@vercel CEO)
+Guillermo Rauch宣布Vercel支持开放权重和美国AI领导力信，强调开源、数据、协议和研究的重要性。链接
+
+ Aaron Levie (CEO @box)
+Aaron Levie强调了AI在现实世界中应用的机会，指出企业需要支持以将模型突破应用于工作流程。链接
+
+ Zara Zhang
+Zara Zhang建议衡量AI采用的指标应从用户需求到产品发货的时间，而不是仅仅计算消耗的令牌数量。链接
+
+ 3. 文生图 / 视频 / 3D
+No notable updates.
+
+ 4. AI 与游戏
+ Sam Altman (AI is cool i guess)
+Sam Altman分享了ChatGPT在规划旅行和协调中的卓越表现，强调了其“工作”能力。链接
+
+ The MAD Podcast with Matt Turck
+OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti
+The Takeaway: OpenAI正面临前所未有的计算能力需求，正在积极建设基础设施以满足AI的发展。
+Sachin Katti，OpenAI的工业计算负责人，在播客中讨论了AI算力需求的爆炸性增长，以及他们在建设数据中心和定制芯片方面的努力。他强调了AI在设计自己的芯片和优化数据中心效率方面的潜力。Katti还提到了AI对电网基础设施的正面影响，以及他们在可持续性和水资源管理方面的努力。这是一个深入了解AI未来发展的绝佳视角。链接
+
+Generated through the Follow Builders skill:
