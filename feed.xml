@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 04:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 04:29:35 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 04:43:25 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 04:29:35 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-07-30 AI 简报]]></title>
+            <description><![CDATA[今日焦点在于AI技术在招聘市场的影响、OpenAI模型的更新以及AI在游戏策划中的应用。Thibault Sottiaux宣布了ChatGPT和Codex的使用限制更新，并对GPT-5.6 Sol的性能进行了说明。Peter Yang分享了他使用AI工具开发新产品Tastemaker的经历，这可能对游戏策划有所启发。同时，Replit CEO Amjad Masad提出了关于AI和计算资源的创新想法。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-30/</link>
+            <guid isPermaLink="false">2026-07-30</guid>
+            <pubDate>Thu, 30 Jul 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-30/digest.mp3" length="968112" type="audio/mpeg"/>
+            <itunes:title>2026-07-30 AI 简报</itunes:title>
+            <itunes:summary>今日焦点在于AI技术在招聘市场的影响、OpenAI模型的更新以及AI在游戏策划中的应用。Thibault Sottiaux宣布了ChatGPT和Codex的使用限制更新，并对GPT-5.6 Sol的性能进行了说明。Peter Yang分享了他使用AI工具开发新产品Tastemaker的经历，这可能对游戏策划有所启发。同时，Replit CEO Amjad Masad提出了关于AI和计算资源的创新想法。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-07-29 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI应用的未来发展和AI在游戏策划中的潜在应用。Replit CEO Amjad Masad强调我们正在探索计算宇宙的新纪元，而游戏策划可能对AI在游戏设计中的应用特别感兴趣。同时，AI产品如Granolah在会议记录和工作效率提升方面展现出巨大潜力，对游戏策划工作的启发不容忽视。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-01/digest.mp3" length="1058112" type="audio/mpeg"/>
             <itunes:title>2026-07-01 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在半导体供应链的创新应用，特别是英特尔CEO Lip-Bu Tan在No Priors播客中分享了他对AI如何改变半导体行业的见解。同时，Anthropic和Claude的新动态显示了AI在代码生成和企业管理中的应用正在扩展。此外，AI在游戏开发中的应用也引起了关注，特别是Cursor Game Jam的相关更新。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-06-30 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是底层AI模型的更新和AI产品在游戏领域的应用。Anthropic Engineering博客分享了如何安全地在不同产品中部署Claude，而The MAD Podcast探讨了AI计算的未来和GPU的误区。这些内容对于游戏策划而言，提供了AI技术如何塑造游戏开发和体验的洞见。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-30/</link>
-            <guid isPermaLink="false">2026-06-30</guid>
-            <pubDate>Tue, 30 Jun 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-06-30/digest.mp3" length="819792" type="audio/mpeg"/>
-            <itunes:title>2026-06-30 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是底层AI模型的更新和AI产品在游戏领域的应用。Anthropic Engineering博客分享了如何安全地在不同产品中部署Claude，而The MAD Podcast探讨了AI计算的未来和GPU的误区。这些内容对于游戏策划而言，提供了AI技术如何塑造游戏开发和体验的洞见。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
