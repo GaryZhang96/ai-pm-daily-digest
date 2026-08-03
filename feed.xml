@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 04:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 05:00:20 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 04:51:25 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 05:00:20 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-03 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏和企业服务中的应用。Andrej Karpathy分享了LLM在游戏领域创造自定义世界的潜力，而Netic创始人Melisa Tokmak讨论了AI如何助力现实世界服务企业。同时，Anthropic分享了关于AI代理安全部署的深入见解，对游戏策划而言，了解AI在游戏设计和用户体验中的最新应用至关重要。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-03/</link>
+            <guid isPermaLink="false">2026-08-03</guid>
+            <pubDate>Mon, 03 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-03/digest.mp3" length="852912" type="audio/mpeg"/>
+            <itunes:title>2026-08-03 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏和企业服务中的应用。Andrej Karpathy分享了LLM在游戏领域创造自定义世界的潜力，而Netic创始人Melisa Tokmak讨论了AI如何助力现实世界服务企业。同时，Anthropic分享了关于AI代理安全部署的深入见解，对游戏策划而言，了解AI在游戏设计和用户体验中的最新应用至关重要。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-02 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型开发的未来趋势、AI在游戏和企业中的应用，以及AI工具的新功能。Igor Babushkin在播客中分享了他对AI模型进步的看法，特别是编码代理的影响力。同时，Claude Code的新功能允许将工作进度保存为可共享的网页，提高了团队协作效率。此外，AI领域领导者对AI的未来发展、AI在游戏中的应用以及AI工具的实用性进行了深入讨论。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-05/digest.mp3" length="975600" type="audio/mpeg"/>
             <itunes:title>2026-07-05 AI 简报</itunes:title>
             <itunes:summary>今日焦点是NVIDIA在AI模型领域的动向，特别是Bryan Catanzaro在播客中分享的NVIDIA在开源AI模型方面的进展和策略。同时，Replit CEO Amjad Masad宣布了Replit支持视频生成的新功能，而游戏策划可能对AI在游戏中的应用特别感兴趣，例如Fable 5在游戏开发中的潜力。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-04 AI 简报]]></title>
-            <description><![CDATA[今日焦点是AI在能源领域的应用，特别是Valar Atomics创始人Isaiah Taylor在No Priors播客中讨论核能如何为AI计算提供动力。此外，AI界对Fable AI工具的即将退市表达了不同看法，同时探讨了AI在教育中的应用和企业中AI部署的挑战。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-04/</link>
-            <guid isPermaLink="false">2026-07-04</guid>
-            <pubDate>Sat, 04 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-04/digest.mp3" length="800208" type="audio/mpeg"/>
-            <itunes:title>2026-07-04 AI 简报</itunes:title>
-            <itunes:summary>今日焦点是AI在能源领域的应用，特别是Valar Atomics创始人Isaiah Taylor在No Priors播客中讨论核能如何为AI计算提供动力。此外，AI界对Fable AI工具的即将退市表达了不同看法，同时探讨了AI在教育中的应用和企业中AI部署的挑战。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
