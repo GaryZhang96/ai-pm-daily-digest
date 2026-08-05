@@ -1,0 +1,38 @@
+AI 简报 2026-08-05
+
+ 今日要点
+今日焦点集中在AI模型的开源问题、安全性以及在游戏开发中的应用。Anthropic Engineering发布博文，讨论了Claude Code的质量更新和Managed Agents的扩展功能。Unsupervised Learning播客探讨了开源模型的重要性和AI领域的最新进展。此外，业界人士在Twitter上分享了对AI技术发展和应用的见解，特别提到了AI在游戏开发中的潜力。
+
+ 1. 底层更新
+ Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic Engineering团队针对近期用户反馈Claude响应质量下降的问题进行了调查，并发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork。团队已经确定了问题并进行了修复，并计划采取措施以减少未来类似问题的发生。具体来说，他们调整了Claude Code的默认推理力度，修复了一个导致会话历史被错误清除的bug，并调整了系统提示以减少冗余。团队还计划增加内部员工使用公共版本Claude Code的比例，并改进代码审查工具。
+阅读更多
+
+ Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands
+Anthropic介绍了Managed Agents的新功能，包括在用户控制的沙箱中运行代理以及连接到私有MCP服务器。这使得代理执行的工具和它访问的服务都在企业的安全和运行时控制之下。此外，Managed Agents通过将“大脑”（Claude及其Harness）与“手”（执行动作的沙箱和工具）和“会话”（会话事件的日志）解耦，提供了更高的灵活性和可扩展性。
+阅读更多
+
+ Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+Claude Managed Agents现在可以在用户控制的沙箱中运行，并连接到私有的MCP服务器。这意味着代理执行的工具和它访问的服务都在企业内部，受到安全和运行时控制。这一更新增强了企业在使用AI代理时的灵活性和安全性。
+阅读更多
+
+ 2. AI 产品
+ Thibault Sottiaux (Codex & ChatGPT @OpenAI) 推文汇总
+GPT-5.6 Luna的价格降低了80%，这是一个永久性的变化，因为效率的提升不会消失。
+Codex在最近的结果显示中表现出色，但在未来2-3个月内将显得原始，因为我们将在AI的使用上经历另一次重大演变。
+OpenAI的特点是，你只需打开笔记本电脑，就能将PR代码化为现实，并为10亿用户带来改进。
+查看推文
+
+ 3. 文生图 / 视频 / 3D
+ Peter Yang 推文汇总
+ChatGPT被用于创造记忆。
+在与@NousResearch联合创始人@karan4d的访谈中，他表达了对开源的激情，希望将智能AI带给每个人，让他们能够平等地站在起跑线上。
+从@karan4d那里学到的六大要点，关于如何充分利用Hermes Agent。
+查看推文
+
+ 4. AI 与游戏
+ Unsupervised Learning: AI Vibe Check: Chinese Open Models, Distillation & The Hugging Face Breach
+本期播客讨论了中国开放模型、模型压缩以及Hugging Face的安全漏洞事件。嘉宾们探讨了开源模型的重要性，以及它们如何影响AI领域的未来。特别是，他们讨论了依赖中国开源模型的风险，以及如何在全球范围内平衡AI技术的发展与安全。
+收听播客
+
+Generated through the Follow Builders skill:
