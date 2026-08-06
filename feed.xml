@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 04:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 04:40:44 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 04:40:41 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 04:40:44 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-06 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在药物设计中的应用，特别是Chai Discovery如何将AI用于工程化分子，以及AI在游戏开发中的应用。同时，探讨了AI技术采纳的社会过程和企业中AI实施策略的多样性。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-06/</link>
+            <guid isPermaLink="false">2026-08-06</guid>
+            <pubDate>Thu, 06 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-06/digest.mp3" length="945360" type="audio/mpeg"/>
+            <itunes:title>2026-08-06 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在药物设计中的应用，特别是Chai Discovery如何将AI用于工程化分子，以及AI在游戏开发中的应用。同时，探讨了AI技术采纳的社会过程和企业中AI实施策略的多样性。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-05 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型的开源问题、安全性以及在游戏开发中的应用。Anthropic Engineering发布博文，讨论了Claude Code的质量更新和Managed Agents的扩展功能。Unsupervised Learning播客探讨了开源模型的重要性和AI领域的最新进展。此外，业界人士在Twitter上分享了对AI技术发展和应用的见解，特别提到了AI在游戏开发中的潜力。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-08/digest.mp3" length="981936" type="audio/mpeg"/>
             <itunes:title>2026-07-08 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Fable 5的发布和AI在编程、测试及项目管理中的作用。Anthropic的Claude Code团队分享了其开发历程，而Replit展示了AI在提升编程效率方面的潜力。此外，播客讨论了AI模型学习人类行为的进展，强调了AI在教育和个性化任务中的重要性。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-07 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏领域的应用，特别是Nan Yu对AI在实时战略游戏中的应用提出了深刻见解，认为AI已经能够超越99%的人类玩家。同时，Cat Wu分享了使用Claude Code进行人才招聘的新工作流程，展示了AI在提高工作效率方面的潜力。此外，Noam Brown在“无先验”播客中讨论了AI模型测试时计算能力对基准测试、安全性和研究的影响，强调了当前模型评估的不足。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-07/</link>
-            <guid isPermaLink="false">2026-07-07</guid>
-            <pubDate>Tue, 07 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-07/digest.mp3" length="757440" type="audio/mpeg"/>
-            <itunes:title>2026-07-07 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏领域的应用，特别是Nan Yu对AI在实时战略游戏中的应用提出了深刻见解，认为AI已经能够超越99%的人类玩家。同时，Cat Wu分享了使用Claude Code进行人才招聘的新工作流程，展示了AI在提高工作效率方面的潜力。此外，Noam Brown在“无先验”播客中讨论了AI模型测试时计算能力对基准测试、安全性和研究的影响，强调了当前模型评估的不足。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>

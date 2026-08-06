@@ -1,0 +1,36 @@
+AI 简报 2026-08-06
+
+ 今日要点
+今日焦点集中在AI在药物设计中的应用，特别是Chai Discovery如何将AI用于工程化分子，以及AI在游戏开发中的应用。同时，探讨了AI技术采纳的社会过程和企业中AI实施策略的多样性。
+
+ 1. 底层更新
+ Anthropic Engineering
+No new posts.
+
+ OpenAI News
+No new posts.
+
+ Claude Blog
+No new posts.
+
+ 2. AI 产品
+ Chai Discovery
+Chai Discovery正在使用AI工程化分子，致力于使药物发现过程更像工程学。他们的目标是通过AI使药物发现过程工业化，类似于现代工程学中的抽象层，从而快速迭代。Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem
+
+ 3. 文生图 / 视频 / 3D
+No notable updates.
+
+ 4. AI 与游戏
+ Swyx
+Swyx在讨论中提到，本体论和图知识现在之所以流行，部分原因是“足够好的”智能现在太便宜了。这解释了为什么像@coylefrankp和@emileifrem这样的讨论如此火爆。知识图谱的难点现在变得便宜了。智能被商品化，所以补充品的价值在增加。Swyx on Twitter
+
+ Madhu Guru
+Madhu Guru分享了企业中AI实施策略的多样性。他指出，如果你问10位IT领导者他们的编码代理策略是什么样的，你会得到至少5种不同的答案。对于模型，企业不仅知道大型模型，而且越来越对开源模型感兴趣，或者至少对安全的选择感到好奇。Madhu Guru on Twitter
+
+ Aaron Levie
+Aaron Levie讨论了企业中AI实施策略的多样性，指出与云的早期相比，AI在企业中有更广泛的实施方式。他还提到，企业对开源模型越来越感兴趣，并且对于访问数据，有些企业让代理扮演用户的角色，有些则为代理设置了自己的身份。Aaron Levie on Twitter
+
+ Zara Zhang
+Zara Zhang提出，最好的AI培训不是课程，而是将代理拉入团队的群聊，让人们观察它的工作。她还提到，高效的会议应该没有遗留的待办事项，因为在会议期间（由实时听取会议的代理或人类）完成了所有行动。Zara Zhang on Twitter
+
+Generated through the Follow Builders skill:
