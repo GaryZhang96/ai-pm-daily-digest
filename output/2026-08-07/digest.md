@@ -1,0 +1,30 @@
+# AI 简报 2026-08-07
+
+## 今日要点
+今日焦点集中在AI产品创新和社交属性的结合，以及AI在游戏策划中的应用。Swyx分享了多代理AI未来的概念，而Thibault Sottiaux探讨了Codex的潜力。同时，业界对AI的社交网络效应和用户体验的讨论也在升温，特别是如何简化用户与AI的互动。此外，AI在金融领域的应用，如稳定币，也成为讨论的热点。
+
+## 1. 底层更新
+### Thibault Sottiaux
+- **Thibault Sottiaux** 提到，他平均每隔6分钟左右会收到一次关于Codex的询问或请求，如果伴随有实质性的反馈或有趣的交流，他会偶尔满足这些请求。[链接](https://x.com/thsottiaux/status/2085221386713198988)
+
+## 2. AI 产品
+### Swyx
+- **Swyx** 描述了一种多代理AI的初步形态，通过线程间的相互通信来模拟看板/瀑布图的工作流，每个线程都保留自己的工作和代理。他期待为这种模式设置一个合适的用户界面，但目前可以在大多数编码代理中进行hack。[链接](https://x.com/swyx/status/2085253030417461661)
+
+### Guillermo Rauch
+- **Guillermo Rauch** 强调了“写出一条轰动的推文”是一个通用人工智能的完整问题。如果你能证明一个笨拙的系统能在多项式时间内写出轰动的内容，那你就解决了整个类别的AGI问题。[链接](https://x.com/rauchg/status/2085168662881894559)
+
+## 3. 文生图 / 视频 / 3D
+无相关更新。
+
+## 4. AI 与游戏
+### AI & I by Every
+- **AI & I by Every** 讨论了为什么下一个热门的AI产品将是社交的。嘉宾Sarah认为，随着技术的成熟，产品从深度技术转向产品思考和体验。她预测，将会有人创建一个UGC类型的社区，让擅长的人帮助其他人更容易地利用这项技术。[链接](https://www.youtube.com/watch?v=dlI-5W7d7uU)
+
+### Aaron Levie
+- **Box CEO Aaron Levie** 认为，99%的令牌将在企业环境中被消耗，用于编写代码、研究生命科学、自动化制造、保护企业、检测欺诈等具有重大经济价值的任务。他强调，将AI整合到工作流程中需要重新设计工作流程，这是一个彻底的改变，需要数年时间。[链接](https://x.com/levie/status/2085200776159490111)
+
+### Garry Tan
+- **Garry Tan** 表达了对AI质量的重视，认为当AI足够好时，关于检测AI的问题将不再重要。他比喻说，就像银器曾经是手工制作的，但现在没人会抱怨晚餐叉子是由机器制造的。[链接](https://x.com/garrytan/status/2085038756906901656)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
