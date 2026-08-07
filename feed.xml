@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 04:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 04:08:59 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 04:40:44 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 04:08:59 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-07 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI产品创新和社交属性的结合，以及AI在游戏策划中的应用。Swyx分享了多代理AI未来的概念，而Thibault Sottiaux探讨了Codex的潜力。同时，业界对AI的社交网络效应和用户体验的讨论也在升温，特别是如何简化用户与AI的互动。此外，AI在金融领域的应用，如稳定币，也成为讨论的热点。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-07/</link>
+            <guid isPermaLink="false">2026-08-07</guid>
+            <pubDate>Fri, 07 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-07/digest.mp3" length="990576" type="audio/mpeg"/>
+            <itunes:title>2026-08-07 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI产品创新和社交属性的结合，以及AI在游戏策划中的应用。Swyx分享了多代理AI未来的概念，而Thibault Sottiaux探讨了Codex的潜力。同时，业界对AI的社交网络效应和用户体验的讨论也在升温，特别是如何简化用户与AI的互动。此外，AI在金融领域的应用，如稳定币，也成为讨论的热点。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-06 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在药物设计中的应用，特别是Chai Discovery如何将AI用于工程化分子，以及AI在游戏开发中的应用。同时，探讨了AI技术采纳的社会过程和企业中AI实施策略的多样性。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-09/digest.mp3" length="955728" type="audio/mpeg"/>
             <itunes:title>2026-07-09 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在物流、游戏开发和产品设计中的应用。Zipline的自动物流系统展示了AI在现实世界中的高效应用，而游戏策划特别关注的AI在游戏中的应用和开发工具也有新动态。此外，AI产品设计的新思路和底层模型的安全部署也是今日讨论的热点。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-08 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是Fable 5的发布和AI在编程、测试及项目管理中的作用。Anthropic的Claude Code团队分享了其开发历程，而Replit展示了AI在提升编程效率方面的潜力。此外，播客讨论了AI模型学习人类行为的进展，强调了AI在教育和个性化任务中的重要性。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-08/</link>
-            <guid isPermaLink="false">2026-07-08</guid>
-            <pubDate>Wed, 08 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-08/digest.mp3" length="981936" type="audio/mpeg"/>
-            <itunes:title>2026-07-08 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是Fable 5的发布和AI在编程、测试及项目管理中的作用。Anthropic的Claude Code团队分享了其开发历程，而Replit展示了AI在提升编程效率方面的潜力。此外，播客讨论了AI模型学习人类行为的进展，强调了AI在教育和个性化任务中的重要性。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
