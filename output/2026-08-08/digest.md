@@ -1,0 +1,22 @@
+# AI 简报 2026-08-08
+
+## 今日要点
+今日焦点集中在AI在游戏开发中的应用，特别是由Peter Yang提出的利用AI构建具有出色图形、游戏性和故事的roguelike deckbuilder游戏的想法。同时，Thibault Sottiaux宣布ChatGPT用户现在可以享受由GPT-5.6 Luna支持的无限文本聊天功能。此外，Mitch Troyanovsky在播客中分享了构建长期AI代理的洞见，强调了行为规范和本体论在构建AI代理中的重要性。
+
+## 1. 底层更新
+### Anthropic Engineering: Harness Design for Long-Running Apps
+构建长期运行的AI代理需要考虑行为规范和本体论。Mitch Troyanovsky在播客中提到，设计AI代理类似于设计一个系统，让非确定性实体协同工作解决问题。他还强调了为AI提供尽可能多的上下文信息的重要性，因为AI总是以某种方式缺失上下文。[阅读更多](https://claude.com/blog/claude-for-foundation-models)
+
+## 2. AI产品
+### ChatGPT: Unlimited Text Chats with GPT-5.6 Luna
+Thibault Sottiaux（OpenAI Codex & ChatGPT）宣布，ChatGPT的免费用户现在可以享受由GPT-5.6 Luna支持的无限文本聊天功能。这一更新将极大地增强用户体验，使得与AI的互动更加流畅和自然。[查看推文](https://x.com/thsottiaux/status/2085610231707623750)
+
+## 3. 文生图 / 视频 / 3D
+### Peter Yang: Dream of Building a Roguelike Deckbuilder Game with AI
+Peter Yang表达了他梦想中想用AI打造的游戏——一个具有出色图形、游戏性和故事的roguelike deckbuilder。这表明AI在游戏开发领域的应用正变得越来越多样化和深入。[查看推文](https://x.com/petergyang/status/2085423674073751813)
+
+## 4. AI与游戏
+### The MAD Podcast: How to Build Long-Horizon AI Agents
+Mitch Troyanovsky在The MAD Podcast中讨论了如何构建长期AI代理，包括行为规范、本体论和流程监督。他强调了在构建AI代理时考虑人类工作流程的重要性，并提出了“行为规范”这一概念，即在Markdown文件中定义代理应展现的行为。[观看播客](https://www.youtube.com/@DataDrivenNYC/videos)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders

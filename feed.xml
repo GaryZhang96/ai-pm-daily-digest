@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 04:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 03:07:27 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 04:08:59 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 03:07:27 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-08 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏开发中的应用，特别是由Peter Yang提出的利用AI构建具有出色图形、游戏性和故事的roguelike deckbuilder游戏的想法。同时，Thibault Sottiaux宣布ChatGPT用户现在可以享受由GPT-5.6 Luna支持的无限文本聊天功能。此外，Mitch Troyanovsky在播客中分享了构建长期AI代理的洞见，强调了行为规范和本体论在构建AI代理中的重要性。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-08/</link>
+            <guid isPermaLink="false">2026-08-08</guid>
+            <pubDate>Sat, 08 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-08/digest.mp3" length="851328" type="audio/mpeg"/>
+            <itunes:title>2026-08-08 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏开发中的应用，特别是由Peter Yang提出的利用AI构建具有出色图形、游戏性和故事的roguelike deckbuilder游戏的想法。同时，Thibault Sottiaux宣布ChatGPT用户现在可以享受由GPT-5.6 Luna支持的无限文本聊天功能。此外，Mitch Troyanovsky在播客中分享了构建长期AI代理的洞见，强调了行为规范和本体论在构建AI代理中的重要性。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-07 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI产品创新和社交属性的结合，以及AI在游戏策划中的应用。Swyx分享了多代理AI未来的概念，而Thibault Sottiaux探讨了Codex的潜力。同时，业界对AI的社交网络效应和用户体验的讨论也在升温，特别是如何简化用户与AI的互动。此外，AI在金融领域的应用，如稳定币，也成为讨论的热点。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-10/digest.mp3" length="786672" type="audio/mpeg"/>
             <itunes:title>2026-07-10 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在写作辅助、游戏开发、团队协作等方面的应用。Anthropic发布关于Claude Code质量更新的报告，强调了对模型性能的持续优化。同时，探讨了AI如何改变团队工作流程，特别是在软件工程领域。此外，AI在游戏开发中的应用也是一个热点，特别是Cursor Game Jam的相关讨论。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-09 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在物流、游戏开发和产品设计中的应用。Zipline的自动物流系统展示了AI在现实世界中的高效应用，而游戏策划特别关注的AI在游戏中的应用和开发工具也有新动态。此外，AI产品设计的新思路和底层模型的安全部署也是今日讨论的热点。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-09/</link>
-            <guid isPermaLink="false">2026-07-09</guid>
-            <pubDate>Thu, 09 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-09/digest.mp3" length="955728" type="audio/mpeg"/>
-            <itunes:title>2026-07-09 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在物流、游戏开发和产品设计中的应用。Zipline的自动物流系统展示了AI在现实世界中的高效应用，而游戏策划特别关注的AI在游戏中的应用和开发工具也有新动态。此外，AI产品设计的新思路和底层模型的安全部署也是今日讨论的热点。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
