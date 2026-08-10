@@ -1,0 +1,20 @@
+AI 简报 2026-08-10
+
+ 今日要点
+今日焦点集中在AI领域内的企业创新、产品应用和行业洞察。Anthropic的Ultracode被看作是编码模式的一大创新，而AI在代码编写和审核中的作用日益凸显。同时，AI企业如何融入现有工作流程成为讨论热点，而监管问题和AI技术对社会的影响也引起了人们的深思。
+
+ 1. 底层更新
+ Anthropic Engineering
+Anthropic的Ultracode创新：Swyx强调了Anthropic的Ultracode在动态工作流中的潜力，认为这是编码模式的一大创新。链接
+
+ 2. AI产品
+ OpenAI
+GPT-5.6 Sol的应用：Thibault Sottiaux宣布GPT-5.6 Sol的强大功能，并为ChatGPT Work和Codex的付费用户重置了使用限制。链接
+
+ 3. 文生图 / 视频 / 3D
+Vercel AI Gateway上的Grok Imagine Image 2.0：Guillermo Rauch分享了Vercel AI Gateway上Grok Imagine Image 2.0的进展。链接
+
+ 4. AI与游戏
+AI在游戏开发中的应用：Peter Yang提出，AI不仅将负责编写所有代码，还可能很快审核所有代码，这将深刻改变游戏开发流程。链接
+
+Generated through the Follow Builders skill:
