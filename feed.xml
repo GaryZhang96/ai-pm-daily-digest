@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 03:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 03:24:13 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 03:14:03 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 03:24:13 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-10 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI领域内的企业创新、产品应用和行业洞察。Anthropic的Ultracode被看作是编码模式的一大创新，而AI在代码编写和审核中的作用日益凸显。同时，AI企业如何融入现有工作流程成为讨论热点，而监管问题和AI技术对社会的影响也引起了人们的深思。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-10/</link>
+            <guid isPermaLink="false">2026-08-10</guid>
+            <pubDate>Mon, 10 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-10/digest.mp3" length="536400" type="audio/mpeg"/>
+            <itunes:title>2026-08-10 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI领域内的企业创新、产品应用和行业洞察。Anthropic的Ultracode被看作是编码模式的一大创新，而AI在代码编写和审核中的作用日益凸显。同时，AI企业如何融入现有工作流程成为讨论热点，而监管问题和AI技术对社会的影响也引起了人们的深思。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-09 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI安全和开源模型的发展。Hugging Face的Thomas Wolf在播客中讨论了AI安全挑战和开源AI的未来，同时，开源AI模型在企业中的应用和优势成为讨论热点。此外，AI在游戏和编程辅助工具中的应用也引起了关注。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-12/digest.mp3" length="889776" type="audio/mpeg"/>
             <itunes:title>2026-07-12 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在商业领域的应用，特别是AI代理在购买、销售和支付方面的能力。Stripe的数据和AI负责人Emily Sense讨论了AI代理如何改变电子商务，包括机器支付协议和实时计费模型。同时，AI Builder们分享了关于AI在产品设计、工作流程变革以及企业应用中的见解。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-11 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI模型的更新迭代和AI在游戏领域的应用。OpenAI的GPT-5.6版本发布，特别强调了模型在企业任务中的表现。同时，AI游戏化和Cursor Game Jam成为讨论热点，展现了AI技术在游戏开发中的潜力和应用前景。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-11/</link>
-            <guid isPermaLink="false">2026-07-11</guid>
-            <pubDate>Sat, 11 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-11/digest.mp3" length="696240" type="audio/mpeg"/>
-            <itunes:title>2026-07-11 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI模型的更新迭代和AI在游戏领域的应用。OpenAI的GPT-5.6版本发布，特别强调了模型在企业任务中的表现。同时，AI游戏化和Cursor Game Jam成为讨论热点，展现了AI技术在游戏开发中的潜力和应用前景。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
