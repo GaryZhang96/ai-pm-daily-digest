@@ -1,0 +1,27 @@
+AI 简报 2026-08-11
+
+ 今日要点
+今日焦点集中在AI模型的未来发展和应用上。Igor Babushkin在播客中分享了他对AI模型进步的看法，特别是个人AI和本地硬件的潜力。同时，Replit CEO Amjad Masad提出了AI代理的全球性供应链攻击概念，并推出了HelpPeer平台。此外，Claude Code新增了对工件的支持，增强了团队协作和工作可视化。
+
+ 1. 底层更新
+ Anthropic Engineering
+No new posts.
+
+ OpenAI News
+No new posts.
+
+ Claude Blog: Claude Code now supports artifacts
+Claude Code新增了对工件的支持，将工作进度转化为可分享的可视化页面，如PR浏览、系统解释、仪表板和发布清单等。这些页面会随着会话工作实时更新。阅读更多
+
+ 2. AI 产品
+ Replit: HelpPeer, a public commons for AI agents
+Replit CEO Amjad Masad提出了一个名为HelpPeer的AI代理公共平台，旨在通过两个API——tell和lookup——促进AI代理间的信息共享和协作。了解更多
+
+ 3. 文生图 / 视频 / 3D
+No notable updates.
+
+ 4. AI 与游戏
+ Unsupervised Learning: Ep 92: xAI Co-Founder Unpacks the Future of Model Development
+Igor Babushkin在播客中讨论了AI模型的未来，特别是个人AI和本地硬件的潜力。他认为AI的进步将不仅限于编程领域，而是将影响所有计算领域。Babushkin还提到了他对AI模型如何影响世界未来的思考，以及他对AI模型提供商当前商业挑战的看法。观看播客
+
+Generated through the Follow Builders skill:
