@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 03:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 03:17:04 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 03:24:13 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 03:17:04 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-11 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI模型的未来发展和应用上。Igor Babushkin在播客中分享了他对AI模型进步的看法，特别是个人AI和本地硬件的潜力。同时，Replit CEO Amjad Masad提出了AI代理的全球性供应链攻击概念，并推出了HelpPeer平台。此外，Claude Code新增了对工件的支持，增强了团队协作和工作可视化。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-11/</link>
+            <guid isPermaLink="false">2026-08-11</guid>
+            <pubDate>Tue, 11 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-11/digest.mp3" length="695664" type="audio/mpeg"/>
+            <itunes:title>2026-08-11 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI模型的未来发展和应用上。Igor Babushkin在播客中分享了他对AI模型进步的看法，特别是个人AI和本地硬件的潜力。同时，Replit CEO Amjad Masad提出了AI代理的全球性供应链攻击概念，并推出了HelpPeer平台。此外，Claude Code新增了对工件的支持，增强了团队协作和工作可视化。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-10 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI领域内的企业创新、产品应用和行业洞察。Anthropic的Ultracode被看作是编码模式的一大创新，而AI在代码编写和审核中的作用日益凸显。同时，AI企业如何融入现有工作流程成为讨论热点，而监管问题和AI技术对社会的影响也引起了人们的深思。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-13/digest.mp3" length="622080" type="audio/mpeg"/>
             <itunes:title>2026-07-13 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在各领域的应用扩展和影响，特别是AI对工作市场的冲击和转变。Booking.com CEO Glenn Fogel在播客中讨论了AI在旅行行业的应用前景，强调AI作为提升客户服务的工具。同时，AI领域中，讨论了AI模型GPT 5.6 Sol在前端开发中的卓越表现，以及AI在软件工程中的“Jevons悖论”。此外，讨论了AI对工作的影响，包括工作自动化和知识工作的增加。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-12 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在商业领域的应用，特别是AI代理在购买、销售和支付方面的能力。Stripe的数据和AI负责人Emily Sense讨论了AI代理如何改变电子商务，包括机器支付协议和实时计费模型。同时，AI Builder们分享了关于AI在产品设计、工作流程变革以及企业应用中的见解。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-12/</link>
-            <guid isPermaLink="false">2026-07-12</guid>
-            <pubDate>Sun, 12 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-12/digest.mp3" length="889776" type="audio/mpeg"/>
-            <itunes:title>2026-07-12 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在商业领域的应用，特别是AI代理在购买、销售和支付方面的能力。Stripe的数据和AI负责人Emily Sense讨论了AI代理如何改变电子商务，包括机器支付协议和实时计费模型。同时，AI Builder们分享了关于AI在产品设计、工作流程变革以及企业应用中的见解。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
