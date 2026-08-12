@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 03:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 03:36:11 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 03:17:04 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 03:36:11 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-12 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏设计中的应用、AI模型的安全性以及AI产品在实际服务中的应用。Anthropic发布关于如何限制Claude AI能力的文章，强调了AI安全性。同时，Netic公司展示了如何将AI应用于现实世界服务，如家庭服务和宠物护理。此外，Swyx分享了GPT Luna Max与Claude Fable Ultracode在克隆Grok Imagine项目中的比较，突出了AI在游戏开发中的潜力。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-12/</link>
+            <guid isPermaLink="false">2026-08-12</guid>
+            <pubDate>Wed, 12 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-12/digest.mp3" length="970704" type="audio/mpeg"/>
+            <itunes:title>2026-08-12 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏设计中的应用、AI模型的安全性以及AI产品在实际服务中的应用。Anthropic发布关于如何限制Claude AI能力的文章，强调了AI安全性。同时，Netic公司展示了如何将AI应用于现实世界服务，如家庭服务和宠物护理。此外，Swyx分享了GPT Luna Max与Claude Fable Ultracode在克隆Grok Imagine项目中的比较，突出了AI在游戏开发中的潜力。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-11 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI模型的未来发展和应用上。Igor Babushkin在播客中分享了他对AI模型进步的看法，特别是个人AI和本地硬件的潜力。同时，Replit CEO Amjad Masad提出了AI代理的全球性供应链攻击概念，并推出了HelpPeer平台。此外，Claude Code新增了对工件的支持，增强了团队协作和工作可视化。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-14/digest.mp3" length="888192" type="audio/mpeg"/>
             <itunes:title>2026-07-14 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-13 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在各领域的应用扩展和影响，特别是AI对工作市场的冲击和转变。Booking.com CEO Glenn Fogel在播客中讨论了AI在旅行行业的应用前景，强调AI作为提升客户服务的工具。同时，AI领域中，讨论了AI模型GPT 5.6 Sol在前端开发中的卓越表现，以及AI在软件工程中的“Jevons悖论”。此外，讨论了AI对工作的影响，包括工作自动化和知识工作的增加。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-13/</link>
-            <guid isPermaLink="false">2026-07-13</guid>
-            <pubDate>Mon, 13 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-13/digest.mp3" length="622080" type="audio/mpeg"/>
-            <itunes:title>2026-07-13 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在各领域的应用扩展和影响，特别是AI对工作市场的冲击和转变。Booking.com CEO Glenn Fogel在播客中讨论了AI在旅行行业的应用前景，强调AI作为提升客户服务的工具。同时，AI领域中，讨论了AI模型GPT 5.6 Sol在前端开发中的卓越表现，以及AI在软件工程中的“Jevons悖论”。此外，讨论了AI对工作的影响，包括工作自动化和知识工作的增加。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
