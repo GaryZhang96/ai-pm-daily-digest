@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 03:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 03:38:51 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 03:36:11 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 03:38:51 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-13 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在实际物理世界中的应用，特别是Samsara公司如何通过AI技术改善交通和工业安全。同时，探讨了AI在游戏开发中的潜力，以及AI技术在物流和供应链中的创新应用。此外，还关注了AI模型的迭代更新和底层技术的进步。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-13/</link>
+            <guid isPermaLink="false">2026-08-13</guid>
+            <pubDate>Thu, 13 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-13/digest.mp3" length="905328" type="audio/mpeg"/>
+            <itunes:title>2026-08-13 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在实际物理世界中的应用，特别是Samsara公司如何通过AI技术改善交通和工业安全。同时，探讨了AI在游戏开发中的潜力，以及AI技术在物流和供应链中的创新应用。此外，还关注了AI模型的迭代更新和底层技术的进步。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-12 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏设计中的应用、AI模型的安全性以及AI产品在实际服务中的应用。Anthropic发布关于如何限制Claude AI能力的文章，强调了AI安全性。同时，Netic公司展示了如何将AI应用于现实世界服务，如家庭服务和宠物护理。此外，Swyx分享了GPT Luna Max与Claude Fable Ultracode在克隆Grok Imagine项目中的比较，突出了AI在游戏开发中的潜力。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-15/digest.mp3" length="795456" type="audio/mpeg"/>
             <itunes:title>2026-07-15 AI 简报</itunes:title>
             <itunes:summary>今日焦点包括NVIDIA在AI领域的深入布局，特别是其前沿AI模型Nemotron的最新进展。同时，探讨了AI在游戏策划中的应用，以及开发者如何利用AI进行创新。此外，还有关于AI技术接受度和安全性的讨论。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-14 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-14/</link>
-            <guid isPermaLink="false">2026-07-14</guid>
-            <pubDate>Tue, 14 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-14/digest.mp3" length="888192" type="audio/mpeg"/>
-            <itunes:title>2026-07-14 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在能源领域的应用，特别是核能。Valor Atomics创始人Isaiah Taylor讨论了核能如何满足AI计算的能源需求，并展示了首个由核反应堆供电的AI芯片。同时，OpenAI的Thibault Sottiaux宣布了Codex和ChatGPT的更新，包括推理优化和订阅优惠。此外，游戏策划应关注Replit CEO Amjad Masad分享的在Replit上使用AI进行国际象棋游戏的进展。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
