@@ -1,0 +1,32 @@
+AI 简报 2026-08-14
+
+ 今日要点
+今日焦点在于AI在游戏和企业级应用中的新进展。Anthropic发布Claude代码质量的最新更新，解决了影响用户体验的问题。微软CTO Kevin Scott讨论了构建代理互联网的愿景，强调了代理行动的重要性。游戏策划应特别关注AI在游戏流程优化和体验创新中的应用。
+
+ 1. 底层更新
+Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic团队针对近期用户反馈Claude响应质量下降的问题进行了调查，并发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork。所有问题已于4月20日（v2.1.116）解决。文章详细解释了问题所在、修复措施以及为防止类似问题再次发生将采取的不同措施。特别是，Claude Code默认推理努力从高调整为中等，导致用户界面冻结，现已恢复至高推理努力。
+阅读更多
+
+Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands
+Anthropic介绍了Managed Agents的新功能，包括自我托管的沙箱和MCP隧道，允许Claude Managed Agents在企业自己的安全和运行时控制下执行工具，并连接到私有MCP服务器。这使得代理可以在企业自己的基础设施内执行，保持敏感文件、数据的安全。
+阅读更多
+
+ 2. AI 产品
+Claude Blog: New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+Claude Managed Agents现在可以在你控制的沙箱中运行，并连接到你的私有MCP服务器。这意味着代理执行工具和服务运行都在企业的安全边界内。这个功能目前在Claude平台上公开测试，MCP隧道则在研究预览中。
+阅读更多
+
+ 3. 文生图 / 视频 / 3D
+No notable posts
+
+ 4. AI 与游戏
+AI & I by Every: Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)
+微软CTO Kevin Scott讨论了微软对于构建代理互联网的愿景。他强调了代理行动的重要性，认为代理需要能够使用工具、在系统中做改变、查询丰富的信息源。Scott提到，为了使代理真正有用，需要一个类似互联网的生态系统，代理可以与各种系统和API通信。他还提到了代理记忆的重要性，以及如何通过标准协议让代理与系统通信。
+观看视频
+
+Guillermo Rauch (Vercel CEO): Seedance 2.5 on @vercel AI Gateway 
+Guillermo Rauch分享了Vercel AI Gateway上的Seedance 2.5版本，这可能对游戏开发和AI集成有影响。
+了解更多
+
+Generated through the Follow Builders skill:
