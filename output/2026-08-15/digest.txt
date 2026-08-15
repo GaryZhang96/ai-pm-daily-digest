@@ -1,0 +1,27 @@
+AI 简报 2026-08-15
+
+ 今日要点
+今日焦点集中在AI在游戏领域的应用，特别是Chess.com的CEO Erik Allebest在No Priors播客中分享了AI如何改变游戏玩法和学习过程。同时，AI业界对于“Studio”命名的热衷被Meta的AI负责人Madhu Guru幽默指出。此外，Replit的CEO Amjad Masad预测明年使用电脑将成为非必须，工作方式将发生根本变化。
+
+ 1. 底层更新
+ Anthropic Engineering: Harness Design for Long-Running Apps
+暂无更新。
+
+ 2. AI 产品
+ Chess.com's AI Integration
+在No Priors播客中，Chess.com的CEO Erik Allebest讨论了AI如何帮助人类在棋类游戏中提升技能，并且透露了Chess.com如何利用AI技术来增强用户体验。Erik认为，AI的发展并没有让棋类游戏过时，反而推动了人类玩家的技能提升，使得游戏更加激动人心。他还提到，Chess.com正在开发一个AI教练功能，让用户可以随时随地获得棋局的反馈和建议，这将大大改变人们学习国际象棋的方式。
+
+ 3. 文生图 / 视频 / 3D
+暂无更新。
+
+ 4. AI 与游戏
+ Chess.com's Growth and AI Integration
+Chess.com的CEO Erik Allebest在No Priors播客中分享了Chess.com的增长历程和AI的集成。他提到，Chess.com现在拥有超过2亿5千万注册会员，每日活跃用户约1千万，月活跃用户约4到5千万。Erik强调，AI在Chess.com的发展中扮演了重要角色，不仅在提高用户体验上，还在于如何设计一个公正的评分系统，以及如何将AI集成到产品中，为用户提供个性化的学习和训练建议。
+
+ Replit's Vision for the Future of Computing
+Replit的CEO Amjad Masad在推特上表示：“到明年，使用电脑将变得可有可无。工作将发生根本性变化。”这表明Replit正在探索新的计算方式，可能会减少对传统电脑的依赖，为编程和创造带来更便捷的工具。
+
+ Meta's Sr Director on AI Product Naming
+Meta的AI高级总监Madhu Guru在推特上幽默地指出，AI行业似乎对“Studio”这个名字情有独钟，他列举了20多个以“Studio”命名的AI产品，从Google AI Studio到各种小型创业公司的AI Studio，这反映了AI产品在命名上的一个趋势。
+
+Generated through the Follow Builders skill:
