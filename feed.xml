@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 02:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 02:39:14 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 02:31:30 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 02:39:14 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-16 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏和编程中的应用，特别是Cursor在AI编程工具领域的成功和对市场规模的重新评估。同时，探讨了构建长期自主AI代理的挑战和进展，以及AI产品文化的演变。此外，还关注了AI在图像/视频生成和3D建模方面的应用。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-16/</link>
+            <guid isPermaLink="false">2026-08-16</guid>
+            <pubDate>Sun, 16 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-16/digest.mp3" length="914256" type="audio/mpeg"/>
+            <itunes:title>2026-08-16 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏和编程中的应用，特别是Cursor在AI编程工具领域的成功和对市场规模的重新评估。同时，探讨了构建长期自主AI代理的挑战和进展，以及AI产品文化的演变。此外，还关注了AI在图像/视频生成和3D建模方面的应用。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-15 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏领域的应用，特别是Chess.com的CEO Erik Allebest在No Priors播客中分享了AI如何改变游戏玩法和学习过程。同时，AI业界对于“Studio”命名的热衷被Meta的AI负责人Madhu Guru幽默指出。此外，Replit的CEO Amjad Masad预测明年使用电脑将成为非必须，工作方式将发生根本变化。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-18/digest.mp3" length="716400" type="audio/mpeg"/>
             <itunes:title>2026-07-18 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI模型的商业应用和安全性上。Sam Altman强调AI应赋予人们更多自由和财富，而Anthropic分享了如何有效限制AI模型的风险。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam的举办和AI模型在游戏中的集成。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-17 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在企业中的应用和未来发展，特别是AI如何改变工作界面和提升工作效率。Granolah的联合创始人Chris Pedregal强调了AI原生世界中工作界面的重要性，并讨论了Granolah如何通过预生成会议简报等前瞻性功能提升用户体验。同时，Claude Code的新功能Artifacts允许将工作进度转化为可分享的可视化页面，促进团队协作。此外，业界专家对AI在代码审查、自动化和知识编码方面的潜力表示乐观。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-17/</link>
-            <guid isPermaLink="false">2026-07-17</guid>
-            <pubDate>Fri, 17 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-17/digest.mp3" length="1020384" type="audio/mpeg"/>
-            <itunes:title>2026-07-17 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在企业中的应用和未来发展，特别是AI如何改变工作界面和提升工作效率。Granolah的联合创始人Chris Pedregal强调了AI原生世界中工作界面的重要性，并讨论了Granolah如何通过预生成会议简报等前瞻性功能提升用户体验。同时，Claude Code的新功能Artifacts允许将工作进度转化为可分享的可视化页面，促进团队协作。此外，业界专家对AI在代码审查、自动化和知识编码方面的潜力表示乐观。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>

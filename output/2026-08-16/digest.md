@@ -1,0 +1,25 @@
+# AI 简报 2026-08-16
+
+## 今日要点
+今日焦点集中在AI在游戏和编程中的应用，特别是Cursor在AI编程工具领域的成功和对市场规模的重新评估。同时，探讨了构建长期自主AI代理的挑战和进展，以及AI产品文化的演变。此外，还关注了AI在图像/视频生成和3D建模方面的应用。
+
+## 1. 底层更新
+### Claude Blog: Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+Claude现在支持Apple的Foundation Models框架，允许开发者在Swift中使用Claude进行更复杂的工作流。这个框架使得开发者能够轻松地从Swift中访问模型，并返回类型化的Swift值。这为在设备上快速执行任务（如摘要或提取）提供了便利，并且可以与Claude结合使用，处理需要多步推理、代码生成等更复杂的请求。[阅读更多](https://claude.com/blog/claude-for-foundation-models)
+
+## 2. AI 产品
+### Aaron Levie (CEO @box): Cursor执行应用AI策略的完美成果
+Cursor通过找出正确的产品形态、作为模型和工作流之间的中立层、针对最有成本效益或性能提升的领域进行模型后训练、构建合适的基础设施栈、以及构建强大的市场推广动作，为应用AI编程工作提供了一套典范。这对于当前任何从事应用AI的人来说是一系列很棒的教训。[查看推文](https://x.com/levie/status/2088476232933577124)
+
+## 3. 文生图 / 视频 / 3D
+### Josh Woodward (VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio): 3.7 Flash在@GeminiApp中
+Google Labs的Josh Woodward宣布3.7 Flash功能已集成到GeminiApp中。[查看推文](https://x.com/joshwoodward/status/2088344782821326980)
+
+## 4. AI 与游戏
+### Madhu Guru (Sr Director, AI at Meta): Cursor对AI产品文化的影响被低估了
+Madhu Guru认为，Cursor通过启发全新的产品模式，帮助AI产品从聊天机器人阶段向前迈进。[查看推文](https://x.com/realmadhuguru/status/2088489059115270532)
+
+### Mitch Troyanovsky (Basis): 如何构建长期AI代理
+Mitch Troyanovsky讨论了构建长期自主AI代理的挑战，强调了为AI代理提供尽可能多的上下文、处理非确定性系统以及设计良好的代理行为规范的重要性。[观看视频](https://www.youtube.com/@DataDrivenNYC/videos)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
