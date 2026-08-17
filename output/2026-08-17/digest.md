@@ -1,0 +1,25 @@
+# AI 简报 2026-08-17
+
+## 今日要点
+今日焦点集中在AI产品的社会化趋势、底层模型的代币价格比较、AI在医疗领域的应用前景，以及AI技术在提升B2B软件用户体验方面的潜力。特别是，OpenAI团队成员Thibault Sottiaux强调了不同AI模型代币价格的比较问题，指出价格并非总是反映成本效率。同时，AI在游戏和内容创作领域的应用继续受到关注。
+
+## 1. 底层更新
+### Thibault Sottiaux (OpenAI)
+- **代币与价格比较**：Thibault Sottiaux指出，不同AI模型的代币并不相同，比较它们的价格时，不能简单地以代币数量作为标准。他通过披萨的例子说明，即使代币价格较低，最终成本可能更高。他还提到，GPT-5.6 Sol使用的代币数量比Claude Opus 5少34.5%，这在成本上有很大影响。[链接](https://x.com/thsottiaux/status/2088866513008873560)
+
+## 2. AI 产品
+### Peter Yang
+- **AI在医疗领域的应用**：Peter Yang强调使用AI来治疗疾病和加速医疗领域AI突破的监管审批，可能比所有其他应用加起来对人类的益处还要大10倍。[链接](https://x.com/petergyang/status/2088772605323214999)
+
+## 3. 文生图 / 视频 / 3D
+### Thariq (Anthropic)
+- **无质量损失的水印技术**：Thariq分享了一个由Claude生成的工件，帮助他理解无质量损失的水印技术是如何工作的。[链接](https://x.com/trq212/status/2088721023223132213)
+
+## 4. AI 与游戏
+### Nan Yu
+- **AI在游戏中的应用**：Nan Yu表达了她的梦想，即坐在公园里录制内容，并拥有一系列代理将这些内容转化为行动和工作的软件。[链接](https://x.com/thenanyu/status/2088810666958196988)
+
+### Madhu Guru (Meta)
+- **B2B软件的用户体验**：Madhu Guru认为，得益于AI，每个软件产品都可以并且应该像最好的消费软件一样易于使用。[链接](https://x.com/realmadhuguru/status/2088710566689018103)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
