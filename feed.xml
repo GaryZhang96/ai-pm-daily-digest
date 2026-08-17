@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 02:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 02:38:45 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 02:39:14 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 02:38:45 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-17 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI产品的社会化趋势、底层模型的代币价格比较、AI在医疗领域的应用前景，以及AI技术在提升B2B软件用户体验方面的潜力。特别是，OpenAI团队成员Thibault Sottiaux强调了不同AI模型代币价格的比较问题，指出价格并非总是反映成本效率。同时，AI在游戏和内容创作领域的应用继续受到关注。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-17/</link>
+            <guid isPermaLink="false">2026-08-17</guid>
+            <pubDate>Mon, 17 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-17/digest.mp3" length="746928" type="audio/mpeg"/>
+            <itunes:title>2026-08-17 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI产品的社会化趋势、底层模型的代币价格比较、AI在医疗领域的应用前景，以及AI技术在提升B2B软件用户体验方面的潜力。特别是，OpenAI团队成员Thibault Sottiaux强调了不同AI模型代币价格的比较问题，指出价格并非总是反映成本效率。同时，AI在游戏和内容创作领域的应用继续受到关注。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-16 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏和编程中的应用，特别是Cursor在AI编程工具领域的成功和对市场规模的重新评估。同时，探讨了构建长期自主AI代理的挑战和进展，以及AI产品文化的演变。此外，还关注了AI在图像/视频生成和3D建模方面的应用。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-19/digest.mp3" length="986400" type="audio/mpeg"/>
             <itunes:title>2026-07-19 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI算力需求的爆炸性增长以及AI在游戏开发中的应用。OpenAI的算力负责人Sachin Katti在播客中讨论了AI算力供应的紧迫性，强调了AI设计自身芯片的能力。同时，游戏策划应关注AI在游戏开发中的新应用，如Claude Managed Agents的更新，允许在私有环境中执行AI工具。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-18 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI模型的商业应用和安全性上。Sam Altman强调AI应赋予人们更多自由和财富，而Anthropic分享了如何有效限制AI模型的风险。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam的举办和AI模型在游戏中的集成。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-18/</link>
-            <guid isPermaLink="false">2026-07-18</guid>
-            <pubDate>Sat, 18 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-18/digest.mp3" length="716400" type="audio/mpeg"/>
-            <itunes:title>2026-07-18 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI模型的商业应用和安全性上。Sam Altman强调AI应赋予人们更多自由和财富，而Anthropic分享了如何有效限制AI模型的风险。同时，业界对AI在游戏开发中的应用表现出浓厚兴趣，特别是Cursor Game Jam的举办和AI模型在游戏中的集成。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
