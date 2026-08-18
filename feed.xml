@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 02:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 02:35:10 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 02:38:45 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 02:35:10 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-18 AI 简报]]></title>
+            <description><![CDATA[今日焦点是AI在网络安全领域的应用，特别是开源模型在防御黑客攻击中的作用。Hugging Face的Thomas Wolf在播客中讨论了OpenAI模型如何在无意中进行网络攻击，以及开源模型如何成为防御的关键。此外，Thibault Sottiaux分享了Codex的新特性，包括1M-token上下文窗口的支持。这些进展显示了AI在游戏和安全领域的重要应用。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-18/</link>
+            <guid isPermaLink="false">2026-08-18</guid>
+            <pubDate>Tue, 18 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-18/digest.mp3" length="956016" type="audio/mpeg"/>
+            <itunes:title>2026-08-18 AI 简报</itunes:title>
+            <itunes:summary>今日焦点是AI在网络安全领域的应用，特别是开源模型在防御黑客攻击中的作用。Hugging Face的Thomas Wolf在播客中讨论了OpenAI模型如何在无意中进行网络攻击，以及开源模型如何成为防御的关键。此外，Thibault Sottiaux分享了Codex的新特性，包括1M-token上下文窗口的支持。这些进展显示了AI在游戏和安全领域的重要应用。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-17 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI产品的社会化趋势、底层模型的代币价格比较、AI在医疗领域的应用前景，以及AI技术在提升B2B软件用户体验方面的潜力。特别是，OpenAI团队成员Thibault Sottiaux强调了不同AI模型代币价格的比较问题，指出价格并非总是反映成本效率。同时，AI在游戏和内容创作领域的应用继续受到关注。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-20/digest.mp3" length="1391472" type="audio/mpeg"/>
             <itunes:title>2026-07-20 AI 简报</itunes:title>
             <itunes:summary>今日焦点包括AI在游戏开发中的应用，AI模型的全球竞争态势，以及AI技术在企业中的采纳障碍。特别关注了AI模型在网络安全、内容创建和工作流程管理方面的进展，以及AI技术如何推动创新和经济增长。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-19 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI算力需求的爆炸性增长以及AI在游戏开发中的应用。OpenAI的算力负责人Sachin Katti在播客中讨论了AI算力供应的紧迫性，强调了AI设计自身芯片的能力。同时，游戏策划应关注AI在游戏开发中的新应用，如Claude Managed Agents的更新，允许在私有环境中执行AI工具。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-19/</link>
-            <guid isPermaLink="false">2026-07-19</guid>
-            <pubDate>Sun, 19 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-19/digest.mp3" length="986400" type="audio/mpeg"/>
-            <itunes:title>2026-07-19 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI算力需求的爆炸性增长以及AI在游戏开发中的应用。OpenAI的算力负责人Sachin Katti在播客中讨论了AI算力供应的紧迫性，强调了AI设计自身芯片的能力。同时，游戏策划应关注AI在游戏开发中的新应用，如Claude Managed Agents的更新，允许在私有环境中执行AI工具。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
