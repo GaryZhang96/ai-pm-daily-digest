@@ -1,0 +1,26 @@
+AI 简报 2026-08-19
+
+ 今日要点
+今日焦点集中在AI领域的快速发展和应用，特别是AI在游戏开发中的应用和Cursor Game Jam的动态。讨论了AI模型的迭代速度、AI产品的发展以及AI在文生图/视频/3D领域的最新进展。同时，探讨了AI在游戏策划中的实际应用和对游戏产业的影响。
+
+ 1. 底层更新
+ Anthropic Engineering
+No Priors Podcast Summary  
+《No Priors》播客中讨论了AI领域中的风险管理、监管捕获问题，以及如何识别潜在的万亿美元公司。提到了Anthropic和OpenAI等公司在过去五年中的快速增长，以及对未来几年内可能出现的新万亿美元公司的预测。播客链接
+
+ 2. AI 产品
+ Gemini
+Josh Woodward (VP, Google) Twitter Summary  
+Josh Woodward 在推特上更新了Gemini的一系列改进措施，包括工作区工具的更新、工具调用的改进、新项目设计的实施等，旨在提升用户体验。推特链接
+
+ 3. 文生图 / 视频 / 3D
+ Claude Code
+Thariq (Claude Code @anthropicai) Twitter Summary  
+Thariq 在推特上分享了通过命令/design快速进行设计的思路，并强调了代码在编辑和调整方向上的优势，以及对LLM编码模型在创意工作中的应用潜力的更新看法。推特链接
+
+ 4. AI 与游戏
+ Cursor Game Jam
+Swyx Twitter Summary  
+Swyx 在推特上宣布Cursor Game Jam正式启动，并提供了活动链接。推特链接
+
+Generated through the Follow Builders skill:
