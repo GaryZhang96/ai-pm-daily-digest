@@ -1,0 +1,28 @@
+# AI 简报 2026-08-21
+
+## 今日要点
+今日焦点集中在AI在游戏领域的应用，特别是AI如何推动新游戏玩法的发展。同时，AI作为新叙事媒介的角色被广泛讨论，预示着个性化和交互式故事讲述的新时代。Replit与OpenAI的合作也引起了广泛关注，预示着编程和软件开发领域的新变革。
+
+## 1. 底层更新
+### Thibault Sottiaux / Twitter Summary
+Thibault Sottiaux（OpenAI Codex & ChatGPT团队成员）分享了OpenAI即将推出的Private Safety Processing功能，旨在在不暴露敏感数据给OpenAI员工的情况下，通过自动化系统在相关交互中寻找模式并返回有限的安全信号，以增强数据隐私保护。[链接](https://x.com/thsottiaux/status/2090173536010957128)
+
+## 2. AI 产品
+### Amjad Masad / Twitter Summary
+Amjad Masad（Replit CEO）宣布与OpenAI的合作，表示此次合作将改变软件开发领域，使编码变得更为经济高效。[链接](https://x.com/amasad/status/2090104535112945906)
+
+## 3. 文生图 / 视频 / 3D
+### Thariq / Twitter Summary
+Thariq（Anthropic Claude Code成员）分享了一个利用AI能力解锁新游戏玩法的演示，强调了AI在游戏中的创新应用。[链接](https://x.com/trq212/status/2090182422415716414)
+
+## 4. AI 与游戏
+### AI & I by Every Podcast Summary
+《AI & I by Every》播客讨论了AI作为新叙事媒介的角色，强调了AI工具不仅是媒体生成工具，更是叙事的新媒介。嘉宾分享了如何将AI融入故事创作，以及AI在个性化和交互式故事讲述中的潜力。[链接](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)
+
+### 今日要点
+- AI在游戏设计中的应用，特别是如何通过AI创造新的游戏玩法和体验。
+- AI作为新叙事媒介的讨论，预示着个性化和交互式故事讲述的新时代。
+- Replit与OpenAI的合作，预示着编程和软件开发领域的新变革。
+- OpenAI即将推出的Private Safety Processing功能，增强数据隐私保护。
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
