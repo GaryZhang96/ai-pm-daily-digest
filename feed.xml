@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 02:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 02:33:25 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 02:42:02 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 02:33:25 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-22 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在医疗领域的应用，特别是Anthropic公司推出的Claude Code更新，以及其Managed Agents服务在企业中的应用。同时，OpenAI的Thibault Sottiaux强调了ChatGPT在API使用透明度和社区参与的重要性。此外，Replit与OpenAI的合作成为热议话题，预示着AI在编程教育和工具中的进一步融合。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-22/</link>
+            <guid isPermaLink="false">2026-08-22</guid>
+            <pubDate>Sat, 22 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-22/digest.mp3" length="1332000" type="audio/mpeg"/>
+            <itunes:title>2026-08-22 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在医疗领域的应用，特别是Anthropic公司推出的Claude Code更新，以及其Managed Agents服务在企业中的应用。同时，OpenAI的Thibault Sottiaux强调了ChatGPT在API使用透明度和社区参与的重要性。此外，Replit与OpenAI的合作成为热议话题，预示着AI在编程教育和工具中的进一步融合。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-21 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在游戏领域的应用，特别是AI如何推动新游戏玩法的发展。同时，AI作为新叙事媒介的角色被广泛讨论，预示着个性化和交互式故事讲述的新时代。Replit与OpenAI的合作也引起了广泛关注，预示着编程和软件开发领域的新变革。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-24/digest.mp3" length="558144" type="audio/mpeg"/>
             <itunes:title>2026-07-24 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI工具在实际工作中的应用和推广，特别是Every团队如何利用AI工具组合实现业务增长。同时，探讨了AI在游戏开发中的潜力，以及AI工具如何助力个人和团队提升工作效率。值得注意的是，AI在游戏中的应用和Cursor Game Jam活动成为讨论热点。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-23 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在软件开发中的自主性和模块化，以及AI模型在游戏策划中的应用。Factory的Matan Grinberg强调了软件工厂的未来和模型独立性的重要性。同时，Replit的Amjad Masad分享了内部开发栈的流畅体验，而OpenAI的Thibault Sottiaux宣布了ChatGPT Work的新使用限额，这对游戏策划尤其重要，因为它可能涉及到游戏设计的多步骤推理和代码生成。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-23/</link>
-            <guid isPermaLink="false">2026-07-23</guid>
-            <pubDate>Thu, 23 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-23/digest.mp3" length="1023408" type="audio/mpeg"/>
-            <itunes:title>2026-07-23 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在软件开发中的自主性和模块化，以及AI模型在游戏策划中的应用。Factory的Matan Grinberg强调了软件工厂的未来和模型独立性的重要性。同时，Replit的Amjad Masad分享了内部开发栈的流畅体验，而OpenAI的Thibault Sottiaux宣布了ChatGPT Work的新使用限额，这对游戏策划尤其重要，因为它可能涉及到游戏设计的多步骤推理和代码生成。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
