@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 02:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 02:42:31 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 02:33:25 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 02:42:31 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-23 AI 简报]]></title>
+            <description><![CDATA[今日焦点在于AI在游戏领域的应用，特别是Chess.com的CEO Erik Allebest在No Priors播客中分享了AI如何改变游戏玩法和学习过程。同时，Anthropic的Claude在安全领域应用取得进展，而Replit CEO Amjad Masad则分享了关于AI在编程教育中的潜力。这些讨论突显了AI技术如何与游戏策划和开发深度融合，为玩家和开发者带来新体验。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-23/</link>
+            <guid isPermaLink="false">2026-08-23</guid>
+            <pubDate>Sun, 23 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-23/digest.mp3" length="665712" type="audio/mpeg"/>
+            <itunes:title>2026-08-23 AI 简报</itunes:title>
+            <itunes:summary>今日焦点在于AI在游戏领域的应用，特别是Chess.com的CEO Erik Allebest在No Priors播客中分享了AI如何改变游戏玩法和学习过程。同时，Anthropic的Claude在安全领域应用取得进展，而Replit CEO Amjad Masad则分享了关于AI在编程教育中的潜力。这些讨论突显了AI技术如何与游戏策划和开发深度融合，为玩家和开发者带来新体验。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-22 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在医疗领域的应用，特别是Anthropic公司推出的Claude Code更新，以及其Managed Agents服务在企业中的应用。同时，OpenAI的Thibault Sottiaux强调了ChatGPT在API使用透明度和社区参与的重要性。此外，Replit与OpenAI的合作成为热议话题，预示着AI在编程教育和工具中的进一步融合。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-25/digest.mp3" length="927216" type="audio/mpeg"/>
             <itunes:title>2026-07-25 AI 简报</itunes:title>
             <itunes:summary>今日简报聚焦于AI在游戏及芯片制造领域的最新动态。Cerebras CEO Andrew Feldman讨论了AI芯片的重要性，特别是其在处理AI任务时的速度优势。同时，Replit CEO Amjad Masad分享了使用AI自动化游戏开发的过程，展示了AI在游戏领域的应用潜力。此外，Claude AI宣布支持多语言的语音模式，进一步拓展了AI的交互能力。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-24 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI工具在实际工作中的应用和推广，特别是Every团队如何利用AI工具组合实现业务增长。同时，探讨了AI在游戏开发中的潜力，以及AI工具如何助力个人和团队提升工作效率。值得注意的是，AI在游戏中的应用和Cursor Game Jam活动成为讨论热点。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-24/</link>
-            <guid isPermaLink="false">2026-07-24</guid>
-            <pubDate>Fri, 24 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-24/digest.mp3" length="558144" type="audio/mpeg"/>
-            <itunes:title>2026-07-24 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI工具在实际工作中的应用和推广，特别是Every团队如何利用AI工具组合实现业务增长。同时，探讨了AI在游戏开发中的潜力，以及AI工具如何助力个人和团队提升工作效率。值得注意的是，AI在游戏中的应用和Cursor Game Jam活动成为讨论热点。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
