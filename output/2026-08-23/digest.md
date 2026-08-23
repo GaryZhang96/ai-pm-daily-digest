@@ -1,0 +1,24 @@
+# AI 简报 2026-08-23
+
+## 今日要点
+今日焦点在于AI在游戏领域的应用，特别是Chess.com的CEO Erik Allebest在No Priors播客中分享了AI如何改变游戏玩法和学习过程。同时，Anthropic的Claude在安全领域应用取得进展，而Replit CEO Amjad Masad则分享了关于AI在编程教育中的潜力。这些讨论突显了AI技术如何与游戏策划和开发深度融合，为玩家和开发者带来新体验。
+
+## 1. 底层更新
+### Anthropic Engineering
+- **Claude Security Updates**: [Claudeai](https://x.com/claudeai/status/2090852316328902930) 介绍了Claude安全的新功能，包括使用Mythos扫描GitHub代码库以查找漏洞，并提供CWE分类、信心和严重性评级以及建议的修复方案。[阅读更多](https://x.com/claudeai/status/2090852316328902930)
+
+## 2. AI 产品
+### Chess.com
+- **AI在棋类游戏教育中的应用**: Chess.com的CEO [Erik Allebest](https://www.youtube.com/@NoPriorsPodcast) 在No Priors播客中讨论了AI如何帮助人类在棋类游戏中提升技能，以及如何通过AI教练提供个性化学习体验。[收听播客](https://www.youtube.com/@NoPriorsPodcast)
+
+## 3. 文生图 / 视频 / 3D
+- **No Notable Updates**
+
+## 4. AI 与游戏
+### Replit
+- **AI在编程教育中的应用**: Replit的CEO [Amjad Masad](https://x.com/amasad/status/2090922626890031428) 分享了一个令人兴奋的AI应用，尽管具体内容未详述，但暗示了AI在编程教育中的潜力。[查看推文](https://x.com/amasad/status/2090922626890031428)
+
+### Claude
+- **AI在安全和代码分析中的应用**: Anthropic的[Claude](https://x.com/claudeai/status/2090852316328902930) 展示了如何使用AI进行代码安全分析，提供漏洞扫描和修复建议。[查看推文](https://x.com/claudeai/status/2090852316328902930)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
