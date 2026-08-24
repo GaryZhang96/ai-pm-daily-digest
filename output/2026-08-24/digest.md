@@ -1,0 +1,25 @@
+# AI 简报 2026-08-24
+
+## 今日要点
+今日焦点包括微软CTO Kevin Scott对AI代理互联网的展望，Thibault Sottiaux分享Codex速率限制更新，以及Peter Yang提出的AI技能/fuck-cancer项目，旨在帮助癌症患者和家庭。同时，Replit CEO Amjad Masad强调了持续部署的重要性。
+
+## 1. 底层更新
+### Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+Thibault Sottiaux 发布了关于Codex速率限制的更新，提到在使用图像和多次压缩的长会话中发现了一些效率问题，以及计算机历史使用率过高和意外消耗使用量的功能。他们计划在明天推出修复，并在下周研究一种新方法来显著提高效率。同时，他们还将重置所有付费订阅的使用情况。[查看推文](https://x.com/thsottiaux/status/2091407991736332689)
+
+### Peter Yang
+Peter Yang 正在开发一个新的AI技能/fuck-cancer，旨在帮助癌症患者和他们的家庭导航整个过程并保持信息更新。他询问应该包含哪些内容。[查看推文](https://x.com/petergyang/status/2091239339204415969)
+
+## 2. AI 产品
+### Amjad Masad (CEO @replit)
+Amjad Masad 发布推文强调持续部署的重要性，提到“一周有7天，那意味着7次部署”。[查看推文](https://x.com/amasad/status/2091346778746757204)
+
+## 3. 文生图 / 视频 / 3D
+### Guillermo Rauch (CEO @vercel)
+Guillermo Rauch 分享了对自然和地理的热爱，提到美国和阿根廷是两个最自由且拥有壮丽土地和地理的国家。[查看推文](https://x.com/rauchg/status/2091338152791474331)
+
+## 4. AI 与游戏
+### AI & I by Every — Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)
+Kevin Scott 讨论了微软对于AI代理互联网的愿景，强调了代理需要能够使用工具和系统，并咨询多样化和丰富的信息源。他提到了代理互联网的发展，以及如何通过标准协议和开放的生态系统来实现代理之间的通信。Scott 还讨论了代理的安全性和身份验证问题，并预测了软件工程和代理使用的未来。[观看视频](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
