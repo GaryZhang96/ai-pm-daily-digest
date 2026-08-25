@@ -1,0 +1,21 @@
+# AI 简报 2026-08-25
+
+## 今日要点
+今日要点聚焦于AI在提升效率和可靠性方面的进展，以及AI与游戏结合的新动态。OpenAI的Thibault Sottiaux提到了模型更新和效率问题，而Peter Yang强调了AI助手在播客制作中的应用。同时，Cursor的Ryo Lu分享了关于离开和新开始的深刻思考，可能与AI在游戏叙事中的应用相关。最后，Claude Blog宣布了对Apple平台的智能应用支持，为AI在iOS和macOS上的应用提供了新的可能性。
+
+## 1. 底层更新
+- **OpenAI Codex & ChatGPT 工程师 Thibault Sottiaux** 提到2026年是公司开始重视模型效率和可靠性的一年，因为这些已成为关键基础设施。[推文链接](https://x.com/thsottiaux/status/2091581575108653374)
+
+## 2. AI 产品
+- **Vercel CEO Guillermo Rauch** 讨论了智能价格降低和Vercel AI Gateway对Sol模型的影响，强调了使用网关可以降低运营成本并增加利润。[推文链接](https://x.com/rauchg/status/2091671326897713424)
+
+## 3. 文生图 / 视频 / 3D
+- **Peter Steinberger** 分享了他对CLI和UI可视化工具的看法，认为后者在团队协作中更为有用。[推文链接](https://x.com/steipete/status/2091650136506327253)
+
+## 4. AI 与游戏
+- **Cursor 设计师 Ryo Lu** 分享了关于离开和新开始的深刻思考，可能暗示AI在游戏叙事中的应用。[推文链接](https://x.com/ryolu_/status/2091596272654582062)
+
+# Claude Blog
+- **Claude Blog: 构建适用于Apple平台的智能应用**，介绍了通过新的Swift包支持Claude在Foundation Models框架中的使用，允许Apple开发者在Swift中调用Claude处理更复杂的工作流程。[阅读更多](https://claude.com/blog/claude-for-foundation-models)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders

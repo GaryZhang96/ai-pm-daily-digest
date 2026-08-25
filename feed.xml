@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 02:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 02:36:38 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 02:43:03 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 02:36:38 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-25 AI 简报]]></title>
+            <description><![CDATA[今日要点聚焦于AI在提升效率和可靠性方面的进展，以及AI与游戏结合的新动态。OpenAI的Thibault Sottiaux提到了模型更新和效率问题，而Peter Yang强调了AI助手在播客制作中的应用。同时，Cursor的Ryo Lu分享了关于离开和新开始的深刻思考，可能与AI在游戏叙事中的应用相关。最后，Claude Blog宣布了对Apple平台的智能应用支持，为AI在iOS和macOS上的应用提供了新的可能性。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-25/</link>
+            <guid isPermaLink="false">2026-08-25</guid>
+            <pubDate>Tue, 25 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-25/digest.mp3" length="673488" type="audio/mpeg"/>
+            <itunes:title>2026-08-25 AI 简报</itunes:title>
+            <itunes:summary>今日要点聚焦于AI在提升效率和可靠性方面的进展，以及AI与游戏结合的新动态。OpenAI的Thibault Sottiaux提到了模型更新和效率问题，而Peter Yang强调了AI助手在播客制作中的应用。同时，Cursor的Ryo Lu分享了关于离开和新开始的深刻思考，可能与AI在游戏叙事中的应用相关。最后，Claude Blog宣布了对Apple平台的智能应用支持，为AI在iOS和macOS上的应用提供了新的可能性。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-24 AI 简报]]></title>
             <description><![CDATA[今日焦点包括微软CTO Kevin Scott对AI代理互联网的展望，Thibault Sottiaux分享Codex速率限制更新，以及Peter Yang提出的AI技能/fuck-cancer项目，旨在帮助癌症患者和家庭。同时，Replit CEO Amjad Masad强调了持续部署的重要性。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-27/digest.mp3" length="1069776" type="audio/mpeg"/>
             <itunes:title>2026-07-27 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI技术在游戏开发中的应用，特别是底层模型的更新和AI产品的发展。Anthropic Engineering博客更新了关于Claude Code质量的报告，讨论了模型响应性能下降的问题和解决方案。同时，Unsupervised Learning播客探讨了AI技术的发展和未来趋势。这些更新对于游戏策划而言，意味着AI技术在游戏设计和开发中的应用前景更加广阔。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-26 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在游戏和物流领域的应用。DoorDash联合创始人在播客中讨论了AI如何改变人们的消费习惯，特别是通过自然语言交互来探索餐厅和杂货购物的新方式。同时，Anthropic发布了关于如何限制Claude AI助手在不同产品中的风险的新博客，这对游戏策划在考虑AI安全性和集成时提供了洞见。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-26/</link>
-            <guid isPermaLink="false">2026-07-26</guid>
-            <pubDate>Sun, 26 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-26/digest.mp3" length="928656" type="audio/mpeg"/>
-            <itunes:title>2026-07-26 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在游戏和物流领域的应用。DoorDash联合创始人在播客中讨论了AI如何改变人们的消费习惯，特别是通过自然语言交互来探索餐厅和杂货购物的新方式。同时，Anthropic发布了关于如何限制Claude AI助手在不同产品中的风险的新博客，这对游戏策划在考虑AI安全性和集成时提供了洞见。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
