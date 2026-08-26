@@ -1,0 +1,22 @@
+AI 简报 2026-08-26
+
+ 今日要点
+今日要点聚焦于AI在游戏和开发工具中的应用。OpenAI的Thibault Sottiaux宣布将恢复ChatGPT Plus账户的5小时使用限制，以优化计算资源分配。Peter Yang探讨了AI首席助理的使用体验，而Nan Yu分享了Codex在新计算机设置中的便利性。此外，Amjad Masad强调了Replit Agent在日常工作中取代Claude CoWork的优势。这些动态展示了AI技术在提升工作效率和游戏体验方面的潜力。
+
+ 1. 底层更新
+OpenAI DevDay 2026预期：Thibault Sottiaux（Codex & ChatGPT @OpenAI）表示，2026年的OpenAI DevDay将成为公司历史上最好的一届。链接
+ChatGPT Plus账户使用限制调整：Thibault Sottiaux宣布将恢复ChatGPT Plus账户的5小时使用限制，以平衡计算负载并保持慷慨的周使用量。链接
+构建优秀的评估方法：Madhu Guru（Sr Director, AI at Meta）分享了关于如何构建具有区分度的AI系统评估方法的见解，强调了评估应现实、困难且对能力差异敏感。链接
+
+ 2. AI 产品
+Replit Agent取代Claude CoWork：Amjad Masad（CEO @replit）表示，Replit Agent在日常工作中完全取代了Claude CoWork，因其更持久、细致，并能更有效地使用代码/软件完成任务。链接
+Conductor Cloud提升生产力：Garry Tan（President & CEO @ycombinator）分享了Conductor Cloud如何提升他的生产力，使他不再需要一直开着Macbook Pro。链接
+
+ 3. 文生图 / 视频 / 3D
+Codex在新计算机设置中的应用：Nan Yu（产品爱好者）分享了使用Codex设置新计算机的便利性，表达了对Siri功能提升的期待。链接
+
+ 4. AI 与游戏
+AI首席助理的使用体验：Peter Yang（AI教程和访谈提供者）表达了对于登录新网站/应用或使用受限于网站/应用中的代理的偏好，他通常选择停止使用产品，除非是娱乐或游戏。链接
+使用AI进行客户支持电话：Peter Yang还提出了使用AI拨打客户支持电话，导航自动电话系统，并与人工客服通话以预约或取消订阅的想法，并询问尝试此方法的最简单方式。链接
+
+Generated through the Follow Builders skill:
