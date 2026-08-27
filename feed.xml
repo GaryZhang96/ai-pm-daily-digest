@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 02:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 11:43:18 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 02:44:52 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 11:43:18 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-27 AI 简报]]></title>
+            <description><![CDATA[今日焦点在于AI在金融领域的应用，特别是大型对冲基金如何将AI融入核心业务流程。同时，AI工具的新功能更新，如Claude的内置浏览器和Chrome插件，为AI应用提供了更多便利。此外，AI在游戏开发中的应用也是今日讨论的热点之一。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-27/</link>
+            <guid isPermaLink="false">2026-08-27</guid>
+            <pubDate>Thu, 27 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-27/digest.mp3" length="704304" type="audio/mpeg"/>
+            <itunes:title>2026-08-27 AI 简报</itunes:title>
+            <itunes:summary>今日焦点在于AI在金融领域的应用，特别是大型对冲基金如何将AI融入核心业务流程。同时，AI工具的新功能更新，如Claude的内置浏览器和Chrome插件，为AI应用提供了更多便利。此外，AI在游戏开发中的应用也是今日讨论的热点之一。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-26 AI 简报]]></title>
             <description><![CDATA[今日要点聚焦于AI在游戏和开发工具中的应用。OpenAI的Thibault Sottiaux宣布将恢复ChatGPT Plus账户的5小时使用限制，以优化计算资源分配。Peter Yang探讨了AI首席助理的使用体验，而Nan Yu分享了Codex在新计算机设置中的便利性。此外，Amjad Masad强调了Replit Agent在日常工作中取代Claude CoWork的优势。这些动态展示了AI技术在提升工作效率和游戏体验方面的潜力。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-29/digest.mp3" length="730656" type="audio/mpeg"/>
             <itunes:title>2026-07-29 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI应用的未来发展和AI在游戏策划中的潜在应用。Replit CEO Amjad Masad强调我们正在探索计算宇宙的新纪元，而游戏策划可能对AI在游戏设计中的应用特别感兴趣。同时，AI产品如Granolah在会议记录和工作效率提升方面展现出巨大潜力，对游戏策划工作的启发不容忽视。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-28 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI基础设施建设和AI在游戏策划中的应用。OpenAI的计算负责人Sachin Katti在播客中讨论了AI算力需求的爆炸性增长和未来数据中心的挑战。同时，AI在游戏领域的应用也备受关注，如ChatGPT在游戏策划中的潜力和AI对游戏产业的影响。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-28/</link>
-            <guid isPermaLink="false">2026-07-28</guid>
-            <pubDate>Tue, 28 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-28/digest.mp3" length="1173312" type="audio/mpeg"/>
-            <itunes:title>2026-07-28 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI基础设施建设和AI在游戏策划中的应用。OpenAI的计算负责人Sachin Katti在播客中讨论了AI算力需求的爆炸性增长和未来数据中心的挑战。同时，AI在游戏领域的应用也备受关注，如ChatGPT在游戏策划中的潜力和AI对游戏产业的影响。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>

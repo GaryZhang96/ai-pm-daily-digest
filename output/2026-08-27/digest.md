@@ -1,0 +1,29 @@
+# AI 简报 2026-08-27
+
+## 今日要点
+今日焦点在于AI在金融领域的应用，特别是大型对冲基金如何将AI融入核心业务流程。同时，AI工具的新功能更新，如Claude的内置浏览器和Chrome插件，为AI应用提供了更多便利。此外，AI在游戏开发中的应用也是今日讨论的热点之一。
+
+## 1. 底层更新
+### Anthropic Engineering
+No new posts.
+
+### OpenAI News
+No new posts.
+
+## 2. AI 产品
+### Claude
+- **Claude in Chrome is generally available**：Claude的Chrome插件现在在所有付费计划中普遍可用，并且可以自主在浏览器中执行动作，无需每次批准。安全分类器在执行前验证每个动作，确保其安全并符合请求。[阅读更多](https://claude.com/blog/claude-in-chrome-generally-available)
+
+- **Claude gets its own browser in Cowork**：Claude在桌面应用的Cowork中拥有了自己的浏览器。当任务需要使用网站时，浏览器在侧边栏打开，Claude可以导航网页、阅读、点击和输入。[阅读更多](https://claude.com/blog/cowork-built-in-browser)
+
+## 3. 文生图 / 视频 / 3D
+No new updates.
+
+## 4. AI 与游戏
+### Twitter / Josh Woodward
+- **Josh Woodward (VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio)**：尝试多人AI游戏的实验。[查看推文](https://x.com/joshwoodward/status/2092614266818064389)
+
+### Podcasts
+- **AI & I by Every — A $10B Hedge Fund’s AI Playbook (Best of the Pod)**：本集讨论了一家价值100亿美元的对冲基金如何将AI融入其核心业务流程，包括交易和非交易目的。基金CEO强调了AI工具在提高效率和决策质量方面的重要性，并分享了他个人如何使用这些工具来提升个人和团队的生产力。[观看视频](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
