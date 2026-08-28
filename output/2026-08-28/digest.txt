@@ -1,0 +1,22 @@
+AI 简报 2026-08-28
+
+ 今日要点
+今日焦点集中在AI安全和发展的紧迫议题上。Ryan Greenblatt在播客中讨论了AI可能在2029年接管世界的风险，并提出了中美合作的AI 2040计划。同时，Anthropic分享了如何通过产品限制Claude的访问权限以确保安全，Claude Code新增了生成工作进度可视化页面的功能。这些讨论和更新对于游戏策划而言，意味着AI技术在游戏开发和内容生成中的应用前景和安全考量。
+
+ 1. 底层更新
+ Anthropic Engineering: How we contain Claude across products
+Anthropic分享了如何通过控制环境层来限制Claude的访问权限，以确保安全。他们介绍了三种隔离模式：临时容器、人工审核沙箱和密封虚拟机，并讨论了每种模式的利弊和应用场景。阅读更多
+
+ 2. AI 产品
+ Claude Blog: Claude Code now supports artifacts
+Claude Code新增了生成工作进度可视化页面的功能，称为“artifacts”。这个功能可以将代码审查、系统解释、仪表板和发布清单等工作转化为实时更新的网页，方便团队协作和共享进度。阅读更多
+
+ 3. 文生图 / 视频 / 3D
+ Guillermo Rauch: Deploy to Vercel
+Vercel CEO Guillermo Rauch分享了Vercel平台的最新动态，强调了WebGPU技术在创意生产中的应用，并提到了专为AI代理设计的新一代开发工具。了解更多
+
+ 4. AI 与游戏
+ The MAD Podcast with Matt Turck: AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt
+Ryan Greenblatt讨论了AI发展可能带来的风险，包括AI接管世界的可能性，并提出了中美合作的AI 2040计划，旨在避免AI竞赛和接管风险。收听播客
+
+Generated through the Follow Builders skill:
