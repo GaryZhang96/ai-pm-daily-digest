@@ -1,0 +1,24 @@
+AI 简报 2026-08-29
+
+ 今日要点
+今日焦点集中在AI模型的更新和AI在游戏开发中的应用。Anthropic针对Claude模型进行了质量修复，提升了用户体验。同时，OpenAI与Cursor的合作结束，引发了社区对AI工具和生态发展的讨论。此外，AI在游戏开发中的应用，特别是在Cursor Game Jam中的表现，引起了行业关注。
+
+ 1. 底层更新
+Anthropic Engineering: An update on recent Claude Code quality reports
+Anthropic团队针对近期用户反馈Claude模型响应质量下降的问题进行了调查，并发现三个独立的问题影响了Claude Code、Claude Agent SDK和Claude Cowork。这些问题均已在4月20日的更新中解决。团队强调，他们从未有意降低模型质量，并承诺将采取措施防止类似问题再次发生。阅读更多
+
+Anthropic Engineering: Scaling Managed Agents: Decoupling the brain from the hands
+Anthropic介绍了Managed Agents，这是一个托管服务，通过一组接口运行长周期的智能代理。这些接口旨在适应未来模型的发展，同时保持系统的稳定性和安全性。阅读更多
+
+ 2. AI 产品
+Replit CEO Amjad Masad 提到，Replit现在可以免费访问OpenAI模型，并且他们的路由使得高端模型成本效率极高。对于寻找独立于Cursor的多模型替代方案的企业，Replit愿意资助过渡。Amjad Masad
+
+ 3. 文生图 / 视频 / 3D
+No notable posts.
+
+ 4. AI 与游戏
+Thibault Sottiaux (Codex & ChatGPT @OpenAI) 宣布OpenAI将结束与Cursor的合作，但会继续支持开发者和工具生态系统。他提到，许多通过Cursor使用GPT模型的用户将有新的使用选项。Thariq
+
+Peter Yang 提出，Grok Bot可能是非技术用户理想的AI代理产品最终状态，因为它易于理解且功能全面。Peter Yang
+
+Generated through the Follow Builders skill:

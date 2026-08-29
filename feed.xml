@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 13:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 08:02:15 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 13:06:59 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 08:02:15 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-29 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI模型的更新和AI在游戏开发中的应用。Anthropic针对Claude模型进行了质量修复，提升了用户体验。同时，OpenAI与Cursor的合作结束，引发了社区对AI工具和生态发展的讨论。此外，AI在游戏开发中的应用，特别是在Cursor Game Jam中的表现，引起了行业关注。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-29/</link>
+            <guid isPermaLink="false">2026-08-29</guid>
+            <pubDate>Sat, 29 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-29/digest.mp3" length="814176" type="audio/mpeg"/>
+            <itunes:title>2026-08-29 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI模型的更新和AI在游戏开发中的应用。Anthropic针对Claude模型进行了质量修复，提升了用户体验。同时，OpenAI与Cursor的合作结束，引发了社区对AI工具和生态发展的讨论。此外，AI在游戏开发中的应用，特别是在Cursor Game Jam中的表现，引起了行业关注。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-28 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI安全和发展的紧迫议题上。Ryan Greenblatt在播客中讨论了AI可能在2029年接管世界的风险，并提出了中美合作的AI 2040计划。同时，Anthropic分享了如何通过产品限制Claude的访问权限以确保安全，Claude Code新增了生成工作进度可视化页面的功能。这些讨论和更新对于游戏策划而言，意味着AI技术在游戏开发和内容生成中的应用前景和安全考量。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-31/digest.mp3" length="855216" type="audio/mpeg"/>
             <itunes:title>2026-07-31 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI在游戏和创意工作中的应用，特别是Cursor AI的移动应用发布和Replit Design的AI设计工具。同时，业界对AI的未来发展、安全性和人类连接的价值进行了深入讨论。此外，OpenAI的ChatGPT语音模式获得积极反馈，而Google Labs推出了Lyria 3.5更新，进一步强化了AI在音乐创作中的作用。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-07-30 AI 简报]]></title>
-            <description><![CDATA[今日焦点在于AI技术在招聘市场的影响、OpenAI模型的更新以及AI在游戏策划中的应用。Thibault Sottiaux宣布了ChatGPT和Codex的使用限制更新，并对GPT-5.6 Sol的性能进行了说明。Peter Yang分享了他使用AI工具开发新产品Tastemaker的经历，这可能对游戏策划有所启发。同时，Replit CEO Amjad Masad提出了关于AI和计算资源的创新想法。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-30/</link>
-            <guid isPermaLink="false">2026-07-30</guid>
-            <pubDate>Thu, 30 Jul 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-07-30/digest.mp3" length="968112" type="audio/mpeg"/>
-            <itunes:title>2026-07-30 AI 简报</itunes:title>
-            <itunes:summary>今日焦点在于AI技术在招聘市场的影响、OpenAI模型的更新以及AI在游戏策划中的应用。Thibault Sottiaux宣布了ChatGPT和Codex的使用限制更新，并对GPT-5.6 Sol的性能进行了说明。Peter Yang分享了他使用AI工具开发新产品Tastemaker的经历，这可能对游戏策划有所启发。同时，Replit CEO Amjad Masad提出了关于AI和计算资源的创新想法。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
