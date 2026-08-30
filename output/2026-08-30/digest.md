@@ -1,0 +1,28 @@
+# AI 简报 2026-08-30
+
+## 今日要点
+今日焦点集中在AI在医疗领域的应用，特别是Max Hodak讨论的通过AI技术恢复视力的创新进展。同时，Thibault Sottiaux暗示OpenAI团队正在积极开发新功能，而Zara Zhang分享了对AI产品同质化的观察。此外，Nikunj Kothari预测了大模型实验室间的竞争将导致代币价格上涨。
+
+## 1. 底层更新
+### Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+- **动态**: Thibault Sottiaux在推特上表示，“Team is cooking like never before”，暗示OpenAI团队正在积极开发新功能。[推文链接](https://x.com/thsottiaux/status/2093914342551101782)
+
+## 2. AI 产品
+### Zara Zhang
+- **动态**: Zara Zhang在推特上提到，“Never had so many AI products looked so similar”，表达了对AI产品同质化现象的观察。[推文链接](https://x.com/zarazhangrui/status/2093944988262371465)
+
+## 3. 文生图 / 视频 / 3D
+无相关内容。
+
+## 4. AI 与游戏
+### No Priors Podcast: From Restoring Sight to Reimagining the Brain, with Max Hodak
+- **The Takeaway**: Max Hodak讨论了通过AI技术恢复视力的可能性，强调了大脑作为计算机的概念，并探讨了AI模型与神经科学之间的联系。
+- **背景**: Max Hodak是Science公司的创始人兼CEO，前Neuralink成员。他讨论了名为Prima的植入物，该植入物帮助失明人士重见光明，并已在欧洲获得监管批准。
+- **洞见**: Hodak认为，通过AI技术，我们能够以前所未有的方式恢复盲人的视力。他还提到了AI模型与大脑表示之间的相似性，这为神经科学研究提供了新的视角。
+- **直接引用**: “The brain very literally, very clearly, plainly is a computer.” 
+- **视频链接**: [观看访谈](https://www.youtube.com/@NoPriorsPodcast) 
+
+### Nikunj Kothari
+- **动态**: Nikunj Kothari预测大模型实验室间的竞争将导致代币价格上涨，并暗示这将增加所有开放平台的估值。[推文链接](https://x.com/nikunj/status/2093860971781746776)
+
+Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders
