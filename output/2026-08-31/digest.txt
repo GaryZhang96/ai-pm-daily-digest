@@ -1,0 +1,31 @@
+AI 简报 2026-08-31
+
+ 今日要点
+今日焦点集中在AI在游戏和互动故事中的应用，特别是Thibault Sottiaux宣布ChatGPT和Codex用户数突破2500万，并重置所有付费订阅的使用量。同时，AI & I by Every播客探讨了AI Alien Companion App的商业成功和创意故事讲述的潜力，强调了AI作为新媒体的变革性。此外，游戏策划应关注AI在角色扮演游戏和互动叙事中的发展。
+
+ 1. 底层更新
+ Thibault Sottiaux (Codex & ChatGPT @OpenAI)
+ChatGPT和Codex用户数突破25M：为庆祝用户数突破2500万，ChatGPT Work和Codex所有付费订阅的使用量已被重置。链接
+
+ 2. AI 产品
+ AI & I by Every Podcast
+The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)：探讨了一个AI Alien Companion App如何通过互动故事讲述和新媒体变革，实现了每年400万美元的收入。链接
+
+ 3. 文生图 / 视频 / 3D
+ Guillermo Rauch (Vercel CEO)
+Digital abundance：分享了关于数字丰度的观点，强调了Vercel CDN和流量安全团队对400,000+客户和数千万用户的保护。链接
+
+ 4. AI 与游戏
+ Amjad Masad (CEO @replit)
+文明是如何建立的：通过简单的代码循环展示了文明建立的幽默视角。链接
+
+ Aaron Levie (CEO @box)
+Jevons悖论在token消费中的体现：讨论了企业如何根据token成本决定自动化任务的ROI，强调降低AI成本对市场参与者的重要性。链接
+
+ Garry Tan (President & CEO @ycombinator)
+未来代理的软件尝试与使用：预测了未来AI代理将如何尝试软件并将其发布到被黑客攻击的Artifactory上。链接
+
+ Peter Steinberger (Polyagentmorous ClawFather)
+构建OpenClaw的使命：分享了如何使用共享代理进行多人编程和无限计算，改变了构建方式，使本地Harness成为过去。链接
+
+Generated through the Follow Builders skill:
