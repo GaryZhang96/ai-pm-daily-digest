@@ -9,9 +9,9 @@
             <link>https://garyzhang96.github.io/ai-pm-daily-digest</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 06:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 07:15:17 GMT</lastBuildDate>
         <atom:link href="https://garyzhang96.github.io/ai-pm-daily-digest/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 06:59:51 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 07:15:17 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <ttl>60</ttl>
         <itunes:author>Gary Zhang</itunes:author>
@@ -26,6 +26,20 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title><![CDATA[2026-08-31 AI 简报]]></title>
+            <description><![CDATA[今日焦点集中在AI在游戏和互动故事中的应用，特别是Thibault Sottiaux宣布ChatGPT和Codex用户数突破2500万，并重置所有付费订阅的使用量。同时，AI & I by Every播客探讨了AI Alien Companion App的商业成功和创意故事讲述的潜力，强调了AI作为新媒体的变革性。此外，游戏策划应关注AI在角色扮演游戏和互动叙事中的发展。]]></description>
+            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-31/</link>
+            <guid isPermaLink="false">2026-08-31</guid>
+            <pubDate>Mon, 31 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-31/digest.mp3" length="871056" type="audio/mpeg"/>
+            <itunes:title>2026-08-31 AI 简报</itunes:title>
+            <itunes:summary>今日焦点集中在AI在游戏和互动故事中的应用，特别是Thibault Sottiaux宣布ChatGPT和Codex用户数突破2500万，并重置所有付费订阅的使用量。同时，AI &amp; I by Every播客探讨了AI Alien Companion App的商业成功和创意故事讲述的潜力，强调了AI作为新媒体的变革性。此外，游戏策划应关注AI在角色扮演游戏和互动叙事中的发展。</itunes:summary>
+            <itunes:author>Gary Zhang</itunes:author>
+            <itunes:duration>00:06:00</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
+        </item>
         <item>
             <title><![CDATA[2026-08-30 AI 简报]]></title>
             <description><![CDATA[今日焦点集中在AI在医疗领域的应用，特别是Max Hodak讨论的通过AI技术恢复视力的创新进展。同时，Thibault Sottiaux暗示OpenAI团队正在积极开发新功能，而Zara Zhang分享了对AI产品同质化的观察。此外，Nikunj Kothari预测了大模型实验室间的竞争将导致代币价格上涨。]]></description>
@@ -427,20 +441,6 @@
             <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-02/digest.mp3" length="1199520" type="audio/mpeg"/>
             <itunes:title>2026-08-02 AI 简报</itunes:title>
             <itunes:summary>今日焦点集中在AI模型开发的未来趋势、AI在游戏和企业中的应用，以及AI工具的新功能。Igor Babushkin在播客中分享了他对AI模型进步的看法，特别是编码代理的影响力。同时，Claude Code的新功能允许将工作进度保存为可共享的网页，提高了团队协作效率。此外，AI领域领导者对AI的未来发展、AI在游戏中的应用以及AI工具的实用性进行了深入讨论。</itunes:summary>
-            <itunes:author>Gary Zhang</itunes:author>
-            <itunes:duration>00:06:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://garyzhang96.github.io/ai-pm-daily-digest/cover.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026-08-01 AI 简报]]></title>
-            <description><![CDATA[今日焦点集中在AI在物理世界的应用，特别是Samsara公司如何通过AI技术改善交通和工业安全。同时，Replit CEO Amjad Masad分享了关于AI沙箱安全的重要观点。此外，业界对AI成本下降趋势进行了讨论，认为这将推动AI在更多领域的应用。]]></description>
-            <link>https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-01/</link>
-            <guid isPermaLink="false">2026-08-01</guid>
-            <pubDate>Sat, 01 Aug 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://garyzhang96.github.io/ai-pm-daily-digest/output/2026-08-01/digest.mp3" length="965088" type="audio/mpeg"/>
-            <itunes:title>2026-08-01 AI 简报</itunes:title>
-            <itunes:summary>今日焦点集中在AI在物理世界的应用，特别是Samsara公司如何通过AI技术改善交通和工业安全。同时，Replit CEO Amjad Masad分享了关于AI沙箱安全的重要观点。此外，业界对AI成本下降趋势进行了讨论，认为这将推动AI在更多领域的应用。</itunes:summary>
             <itunes:author>Gary Zhang</itunes:author>
             <itunes:duration>00:06:00</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
